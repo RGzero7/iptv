@@ -1,37 +1,77 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="3ABNLatino.us@SD" tvg-logo="https://i.imgur.com/Ugb4AFo.png" group-title="Religious",3ABN Latino
-https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="6WiseTv.us@SD" tvg-logo="https://jrlist70.pages.dev/list/wise.png" group-title="Family",6 Wise Tv (720p)
-https://live.enhdtv.com:8081/8150/index.m3u8
-#EXTINF:-1 tvg-id="8LaMarinaTV.es@SD" tvg-logo="https://i.imgur.com/BTJvvBK.png" group-title="General",8 La Marina TV (576p)
-https://streaming005.gestec-video.com/hls/canal24.m3u8
-#EXTINF:-1 tvg-id="13C.cl@SD" tvg-logo="https://i.imgur.com/Zfe2f5j.png" group-title="Culture",13C (1080p)
-https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
-#EXTINF:-1 tvg-id="13Festival.cl@SD" tvg-logo="https://i.imgur.com/Ymk6j5o.png" group-title="Music",13 Festival (1080p)
-https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
-#EXTINF:-1 tvg-id="13Kids.cl@SD" tvg-logo="https://i.imgur.com/8WJUbSD.png" group-title="Kids",13 Kids (1080p)
-https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
-#EXTINF:-1 tvg-id="13Realities.cl@SD" tvg-logo="https://i.imgur.com/m0SuwMU.png" group-title="Entertainment",13 Realities (1080p)
-https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
-#EXTINF:-1 tvg-id="13T.cl@SD" tvg-logo="https://i.imgur.com/csBNi2L.png" group-title="Series",13 Teleseries (720p)
-https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
-#EXTINF:-1 tvg-id="247CanaldeNoticias.ar@SD" tvg-logo="https://i.imgur.com/4hDCB1M.png" group-title="News",24/7 Canal de Noticias
-https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
-#EXTINF:-1 tvg-id="360RFTV.cr@SD" tvg-logo="https://i.imgur.com/EBtgnxR.png" group-title="General",360 RFTV (576p) [Geo-blocked]
-https://acceso.mediosdecostarica.com:3638/live/360rftvcrlive.m3u8
-#EXTINF:-1 tvg-id="ActivaTV.es@SD" tvg-logo="https://i.imgur.com/VCUZKiw.png" group-title="Music",Activa TV (720p)
-https://streamtv.mediasector.es/hls/activatv/index.m3u8
-#EXTINF:-1 tvg-id="ADN40.mx@SD" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="News",ADN 40 (720p)
-https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 tvg-id="AdoramTV.do@SD" tvg-logo="https://i.imgur.com/uU01KHz.png" group-title="Religious",Adoram TV (720p)
-https://live20.bozztv.com/giatv/giatv-adoram/adoram/chunks.m3u8
-#EXTINF:-1 tvg-id="AguilaTV.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3770-294x165-FFFFFF.jpg" group-title="General",Aguila TV (1080p) [Not 24/7]
-https://fox.hostlagarto.com:8081/aguilatv/playlist.m3u8
-#EXTINF:-1 tvg-id="AIONTV.do@SD" tvg-logo="https://i.imgur.com/DBvm7YS.png" group-title="General",AION TV (1080p) [Not 24/7]
-https://edge.essastream.com/aiontelevision/playlist.m3u8
-#EXTINF:-1 tvg-id="CineSony.us@SD" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Movies",Cine Sony (720p)
-https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="DW.de@Espanol" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="News",DW Espanol (1080p)
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
-#EXTINF:-1 tvg-id="Historia.es@SD" tvg-logo="https://i.imgur.com/VUy8xIG.png" group-title="Entertainment",Historia (1080p)
-https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
+#EXTINF:-1 group-title="-",AZTECA 7
+http://tecnotv.club/jbvk/phpcode/ssiptv.php?c=a026&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",CANAL 27
+http://tecnotv.club/jbvk/phpcode/ssiptv.php?c=a05p&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",CANAL 5
+http://tecnotv.club/jbvk/phpcode/ssiptv.php?c=a05o&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Cartoon Network
+http://tecnotv.club/jbvk/phpcode/ssiptv.php?c=a029&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",ESPN  4 HD
+http://tecnotv.club/jbvk/phpcode/ssiptv.php?c=a028&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",FOX SPORT 2
+http://tecnotv.club/jbvk/phpcode/ssiptv.php?c=a001&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Boomerang
+http://tecnotv.club/jbvk/phpcode/ssiptv.php?c=a0g0&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",CARTOON NT HD
+http://tecnotv.club/jbvk/phpcode/ssiptv.php?c=a0l0&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",CARTOON NT HD (clone)
+http://tecnotv.club/jbvk/phpcode/ssiptv.php?c=a02j&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Discovery Kids
+http://tecnotv.club/jbvk/phpcode/ssiptv.php?c=a03l&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Disney JR
+http://tecnotv.club/jbvk/phpcode/ssiptv.php?c=a0g1&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Disney channel
+http://tecnotv.club/jbvk/phpcode/ssiptv.php?c=a0i8&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Claro Sports  HD
+http://tecnotv.club/jbvk/phpcode/ssiptv.php?c=a0kz&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",ESPN 2 HD
+http://tecnotv.club/jbvk/phpcode/ssiptv.php?c=a053&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",ESPN 3 HD
+http://tecnotv.club/jbvk/phpcode/ssiptv.php?c=a054&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",ESPN 5 HD
+http://tecnotv.club/jbvk/phpcode/ssiptv.php?c=a0ix&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",ESPN 6 HD
+http://tecnotv.club/jbvk/phpcode/ssiptv.php?c=a0kj&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",ESPN HD
+http://tecnotv.club/jbvk/phpcode/ssiptv.php?c=a052&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",RCN Novelas
+http://tecnotv.club/jbvk/phpcode/ssiptv.php?c=a0jn&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Telemundo HD
+http://tecnotv.club/jbvk/phpcode/ssiptv.php?c=a0gv&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",DISCOVERY THEATHER HD
+http://tecnotv.club/jbvk/phpcode/ssiptv.php?c=a0hv&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Discovery Channel HD
+http://tecnotv.club/jbvk/phpcode/ssiptv.php?c=a0kn&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Discovery ID HD
+http://tecnotv.club/jbvk/phpcode/ssiptv.php?c=a0ks&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Discovery Turbo
+http://tecnotv.club/jbvk/phpcode/ssiptv.php?c=a0ia&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Discovery World HD
+http://tecnotv.club/jbvk/phpcode/ssiptv.php?c=a0kp&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",El Gourmet
+http://tecnotv.club/jbvk/phpcode/ssiptv.php?c=a04v&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",FX HD
+http://tecnotv.club/jbvk/phpcode/ssiptv.php?c=a0gw&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",HBO Family HD
+http://tecnotv.club/jbvk/phpcode/ssiptv.php?c=a0l5&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",HBO HD
+http://tecnotv.club/jbvk/phpcode/ssiptv.php?c=a0l2&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",HBO Plus HD
+http://tecnotv.club/jbvk/phpcode/ssiptv.php?c=a0l4&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",HBO XTREME HD
+http://tecnotv.club/jbvk/phpcode/ssiptv.php?c=a0l6&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",HBO2 HD
+http://tecnotv.club/jbvk/phpcode/ssiptv.php?c=a00c&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",History 2
+http://tecnotv.club/jbvk/phpcode/ssiptv.php?c=a0jp&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",History Channel HD
+http://tecnotv.club/jbvk/phpcode/ssiptv.php?c=a0gk&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",SONY HD
+http://tecnotv.club/jbvk/phpcode/ssiptv.php?c=a0hp&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",SONY MOVIES HD
+http://tecnotv.club/jbvk/phpcode/ssiptv.php?c=a03s&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Golden
+http://tecnotv.club/jbvk/phpcode/ssiptv.php?c=a0jv&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",WARNER HD
+http://tecnotv.club/jbvk/phpcode/ssiptv.php?c=a0ho&token=tecnotokenplustv230516F&f=.m3u8

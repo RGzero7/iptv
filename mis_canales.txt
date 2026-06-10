@@ -1,18 +1,39 @@
-CineSony.us@SD
-Historia.es@SD
-DW.de@Espanol
-13C.cl@SD
-13Festival.cl@SD
-13Kids.cl@SD
-13Realities.cl@SD
-13T.cl@SD
-247CanaldeNoticias.ar@SD
-360RFTV.cr@SD
-3ABNLatino.us@SD
-6WiseTv.us@SD
-8LaMarinaTV.es@SD
-ActivaTV.es@SD
-ADN40.mx@SD
-AdoramTV.do@SD
-AguilaTV.do@HD
-AIONTV.do@SD
+History 2
+History Channel HD
+
+DISCOVERY THEATHER HD
+Discovery Channel HD
+Discovery ID HD
+Discovery Turbo
+Discovery World HD
+El Gourmet
+FX HD
+HBO Family HD
+HBO HD
+HBO Plus HD
+HBO XTREME HD
+HBO2 HD
+WARNER HD
+Golden
+SONY HD
+SONY MOVIES HD
+RCN Novelas
+Telemundo HD
+Claro Sports  HD
+ESPN 2 HD
+ESPN 3 HD
+ESPN 5 HD
+ESPN 6 HD
+ESPN HD
+Boomerang
+CARTOON NT HD
+CARTOON NT HD (clone)
+Discovery Kids
+Disney JR
+Disney channel
+ESPN  4 HD
+FOX SPORT 2
+AZTECA 7
+CANAL 27
+CANAL 5
+Cartoon Network

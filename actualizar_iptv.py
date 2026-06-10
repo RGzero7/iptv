@@ -10,7 +10,7 @@ URLS_EPG = {
     "ESP_GLOBAL": "https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz",
     "US_SPA": "https://epgshare01.online/epgshare01/epg_ripper_US-SPA1.xml.gz"
 }
-URL_M3U_ORIGINAL = "https://iptv-org.github.io/iptv/languages/spa.m3u"
+URL_M3U_ORIGINAL = "https://tecnotv.club/jbvk/lista.m3u"
 
 FICHERO_MIS_CANALES = "mis_canales.txt"
 OUTPUT_M3U = "lista_filtrada.m3u"

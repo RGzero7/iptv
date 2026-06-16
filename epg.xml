@@ -14,10 +14,45 @@
     <url>http://www.gatotv.com</url>
   </channel>
   
+  <channel id="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <display-name lang="es">Canal Discovery Theater (Latinoamérica)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_theater-mediano.png" />
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_theater-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  
+  <channel id="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <display-name lang="es">Canal Discovery Turbo (Latinoamérica)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_turbo-mediano.png" />
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_turbo-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  
+  <channel id="Canal.Discovery.World.Latinoamérica.ar">
+    <display-name lang="es">Canal Discovery World Latinoamérica</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_world-mediano.png" />
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_world-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  
   <channel id="Canal.Golden.(Argentina).ar">
     <display-name lang="es">Canal Golden (Argentina)</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/golden-mediano.png" />
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/golden-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  
+  <channel id="Canal.HBO.(Argentina).ar">
+    <display-name lang="es">Canal HBO (Argentina)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica-mediano.png" />
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  
+  <channel id="Canal.HBO.Family.Latinoamérica.ar">
+    <display-name lang="es">Canal HBO Family Latinoamérica</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_family-mediano.png" />
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_family-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
   
@@ -964,6 +999,1337 @@
     <title lang="es">Persecución de Benjamín A</title>
   </programme>
   
+  <programme start="20260615002400 -0500" stop="20260615011200 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Pesca mortal</title>
+    <sub-title lang="es">Los primeros en la fila</sub-title>
+  </programme>
+  
+  <programme start="20260615011200 -0500" stop="20260615020000 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Clandestinos</title>
+    <sub-title lang="es">Momento de auge para los destilados</sub-title>
+  </programme>
+  <programme start="20260615020000 -0500" stop="20260615024800 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Clandestinos</title>
+    <sub-title lang="es">En busca del sitio perdido de Popcorn</sub-title>
+  </programme>
+  
+  <programme start="20260615024800 -0500" stop="20260615033600 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Alaska peligro en el aire</title>
+    <sub-title lang="es">Agallas y Gloria</sub-title>
+  </programme>
+  
+  <programme start="20260615033600 -0500" stop="20260615042400 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Pioneros de Polonia</title>
+  </programme>
+  
+  <programme start="20260615042400 -0500" stop="20260615051200 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Hoteles secretos y leyendas</title>
+    <sub-title lang="es">Deadwood, Habitación subterránea, los rebeldes del whisky</sub-title>
+  </programme>
+  
+  <programme start="20260615051200 -0500" stop="20260615060000 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">El museo embrujado</title>
+    <sub-title lang="es">Demonios bajo las escaleras</sub-title>
+  </programme>
+  
+  <programme start="20260615060000 -0500" stop="20260615064800 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Clandestinos</title>
+    <sub-title lang="es">Momento de auge para los destilados</sub-title>
+  </programme>
+  
+  <programme start="20260615064800 -0500" stop="20260615073600 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Clandestinos</title>
+    <sub-title lang="es">En busca del sitio perdido de Popcorn</sub-title>
+  </programme>
+  
+  <programme start="20260615073600 -0500" stop="20260615082400 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Alaska peligro en el aire</title>
+    <sub-title lang="es">Agallas y Gloria</sub-title>
+  </programme>
+  
+  <programme start="20260615082400 -0500" stop="20260615091200 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Pioneros de Polonia</title>
+  </programme>
+  
+  <programme start="20260615091200 -0500" stop="20260615100000 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Hoteles secretos y leyendas</title>
+    <sub-title lang="es">Deadwood, Habitación subterránea, los rebeldes del whisky</sub-title>
+  </programme>
+  
+  <programme start="20260615100000 -0500" stop="20260615104800 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">El museo embrujado</title>
+    <sub-title lang="es">Demonios bajo las escaleras</sub-title>
+  </programme>
+  
+  <programme start="20260615104800 -0500" stop="20260615113600 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Expedición a lo desconocido</title>
+    <sub-title lang="es">El oro perdido de Jean Laffite</sub-title>
+  </programme>
+  
+  <programme start="20260615113600 -0500" stop="20260615122400 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Expedición a lo desconocido</title>
+    <sub-title lang="es">Las reinas perdidas de Egipto</sub-title>
+  </programme>
+  
+  <programme start="20260615122400 -0500" stop="20260615131200 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Misterios en el museo</title>
+    <sub-title lang="es">La hazaña, sopa de arsénico y Spring Heeled Jack</sub-title>
+  </programme>
+  
+  <programme start="20260615131200 -0500" stop="20260615140000 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Espadas Legendarias</title>
+    <sub-title lang="es">Zeus todopoderoso</sub-title>
+  </programme>
+  
+  <programme start="20260615140000 -0500" stop="20260615144800 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">El ferrocarril de Alaska</title>
+    <sub-title lang="es">La zona de la muerte</sub-title>
+  </programme>
+  
+  <programme start="20260615144800 -0500" stop="20260615153600 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">La peligrosa ruta del café</title>
+    <sub-title lang="es">Haití</sub-title>
+  </programme>
+  
+  <programme start="20260615153600 -0500" stop="20260615162400 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Clandestinos el maestro destilador</title>
+    <sub-title lang="es">Mark vs. Digger vs. Tim</sub-title>
+  </programme>
+  
+  <programme start="20260615162400 -0500" stop="20260615171200 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Historias Animales</title>
+  </programme>
+  
+  <programme start="20260615171200 -0500" stop="20260615180000 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Trabajo sucio</title>
+    <sub-title lang="es">Rehabilitación de boca y cuidador del reloj</sub-title>
+  </programme>
+  
+  <programme start="20260615180000 -0500" stop="20260615184800 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Tu basura, mi fortuna negocio redondo</title>
+    <sub-title lang="es">objetos inusuales</sub-title>
+  </programme>
+  
+  <programme start="20260615184800 -0500" stop="20260615193600 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Operación Vuelo</title>
+  </programme>
+  
+  <programme start="20260615193600 -0500" stop="20260615202400 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Acceso total con Mark Rober</title>
+    <sub-title lang="es">Nadando en cosas</sub-title>
+  </programme>
+  
+  <programme start="20260615202400 -0500" stop="20260615220000 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Pesca mortal</title>
+    <sub-title lang="es">El precio más alto</sub-title>
+  </programme>
+  
+  <programme start="20260615220000 -0500" stop="20260615224800 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Mega Carga</title>
+    <sub-title lang="es">Migration of the Monsters</sub-title>
+  </programme>
+  
+  <programme start="20260615224800 -0500" stop="20260615233600 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Pescadores de langosta</title>
+    <sub-title lang="es">Land of the Giants</sub-title>
+  </programme>
+  
+  <programme start="20260615233600 -0500" stop="20260616002400 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Expedición Pie Grande</title>
+    <sub-title lang="es">Acechado con terror</sub-title>
+  </programme>
+  
+  <programme start="20260616002400 -0500" stop="20260616011200 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Expedición Pie Grande</title>
+    <sub-title lang="es">Criaturas en los árboles</sub-title>
+  </programme>
+  
+  <programme start="20260616011200 -0500" stop="20260616020000 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Misterios en el museo</title>
+    <sub-title lang="es">Operación Mincemeat, el rode y el monstruo</sub-title>
+  </programme>
+  
+  <programme start="20260616020000 -0500" stop="20260616024800 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Misterios en el museo</title>
+    <sub-title lang="es">Temerario, la isla y el tornado</sub-title>
+  </programme>
+  
+  <programme start="20260616024800 -0500" stop="20260616033600 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Hoteles secretos y leyendas</title>
+    <sub-title lang="es">Deadwood, Habitación subterránea, los rebeldes del whisky</sub-title>
+  </programme>
+  
+  <programme start="20260616033600 -0500" stop="20260616042400 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">El museo embrujado</title>
+    <sub-title lang="es">Terror por la estatua tribal</sub-title>
+  </programme>
+  
+  <programme start="20260616042400 -0500" stop="20260616051200 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Pesca mortal</title>
+    <sub-title lang="es">Por sobre la barandilla</sub-title>
+  </programme>
+  
+  <programme start="20260616051200 -0500" stop="20260616060000 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Pesca mortal</title>
+    <sub-title lang="es">Los primeros en la fila</sub-title>
+  </programme>
+  
+  <programme start="20260616060000 -0500" stop="20260616064800 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Misterios en el museo</title>
+    <sub-title lang="es">Operación Mincemeat, el rode y el monstruo</sub-title>
+  </programme>
+  
+  <programme start="20260616064800 -0500" stop="20260616073600 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Misterios en el museo</title>
+    <sub-title lang="es">Temerario, la isla y el tornado</sub-title>
+  </programme>
+  
+  <programme start="20260616073600 -0500" stop="20260616082400 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Hoteles secretos y leyendas</title>
+    <sub-title lang="es">Deadwood, Habitación subterránea, los rebeldes del whisky</sub-title>
+  </programme>
+  
+  <programme start="20260616082400 -0500" stop="20260616091200 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">El museo embrujado</title>
+    <sub-title lang="es">Terror por la estatua tribal</sub-title>
+  </programme>
+  
+  <programme start="20260616091200 -0500" stop="20260616100000 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Pesca mortal</title>
+    <sub-title lang="es">Por sobre la barandilla</sub-title>
+  </programme>
+  
+  <programme start="20260616100000 -0500" stop="20260616104800 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Pesca mortal</title>
+    <sub-title lang="es">Los primeros en la fila</sub-title>
+  </programme>
+  
+  <programme start="20260616104800 -0500" stop="20260616113600 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Clandestinos</title>
+    <sub-title lang="es">Momento de auge para los destilados</sub-title>
+  </programme>
+  
+  <programme start="20260616113600 -0500" stop="20260616122400 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Clandestinos</title>
+    <sub-title lang="es">En busca del sitio perdido de Popcorn</sub-title>
+  </programme>
+  
+  <programme start="20260616122400 -0500" stop="20260616131200 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Alaska peligro en el aire</title>
+    <sub-title lang="es">Agallas y Gloria</sub-title>
+  </programme>
+  
+  <programme start="20260616131200 -0500" stop="20260616140000 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Pioneros de Polonia</title>
+  </programme>
+  
+  <programme start="20260616140000 -0500" stop="20260616144800 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Hoteles secretos y leyendas</title>
+    <sub-title lang="es">Deadwood, Habitación subterránea, los rebeldes del whisky</sub-title>
+  </programme>
+  
+  <programme start="20260616144800 -0500" stop="20260616153600 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">El museo embrujado</title>
+    <sub-title lang="es">Demonios bajo las escaleras</sub-title>
+  </programme>
+  
+  <programme start="20260616153600 -0500" stop="20260616162400 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Expedición a lo desconocido</title>
+    <sub-title lang="es">El oro perdido de Jean Laffite</sub-title>
+  </programme>
+  
+  <programme start="20260616162400 -0500" stop="20260616171200 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Historias Animales</title>
+  </programme>
+  
+  <programme start="20260616171200 -0500" stop="20260616180000 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Misterios en el museo</title>
+    <sub-title lang="es">La hazaña, sopa de arsénico y Spring Heeled Jack</sub-title>
+  </programme>
+  
+  <programme start="20260616180000 -0500" stop="20260616184800 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Espadas Legendarias</title>
+    <sub-title lang="es">Zeus todopoderoso</sub-title>
+  </programme>
+  
+  <programme start="20260616184800 -0500" stop="20260616191200 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Sangre Apalache</title>
+    <sub-title lang="es">La disputa por el agua</sub-title>
+  </programme>
+  
+  <programme start="20260615001800 -0500" stop="20260615010600 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Misfit Garage</title>
+    <sub-title lang="es">Una aventura de tamaño jurásico</sub-title>
+    <episode-num system="onscreen">S6 E6</episode-num>
+  </programme>
+  
+  <programme start="20260615010600 -0500" stop="20260615015500 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Mexicanicos Estado de México</title>
+  </programme>
+  
+  <programme start="20260615015500 -0500" stop="20260615024300 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Al estilo Kindig: Detrás de cámaras</title>
+    <sub-title lang="es">La ciudad de los Cougar</sub-title>
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  
+  <programme start="20260615024300 -0500" stop="20260615033000 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Al estilo Kindig: Detrás de cámaras</title>
+    <sub-title lang="es">Qué calor hace aquí.</sub-title>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  
+  <programme start="20260615033000 -0500" stop="20260615041700 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Misfit Garage</title>
+    <sub-title lang="es">Cables y problemas</sub-title>
+    <episode-num system="onscreen">S6 E4</episode-num>
+  </programme>
+  
+  <programme start="20260615041700 -0500" stop="20260615051200 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Misfit Garage</title>
+    <sub-title lang="es">Pelea callejera y un Camaro 70 ½</sub-title>
+    <episode-num system="onscreen">S6 E5</episode-num>
+  </programme>
+  
+  <programme start="20260615051200 -0500" stop="20260615060000 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Misfit Garage</title>
+    <sub-title lang="es">Una aventura de tamaño jurásico</sub-title>
+    <episode-num system="onscreen">S6 E6</episode-num>
+  </programme>
+  
+  <programme start="20260615060000 -0500" stop="20260615064800 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Misfit Garage</title>
+    <sub-title lang="es">La X marca las partes</sub-title>
+    <episode-num system="onscreen">S6 E3</episode-num>
+  </programme>
+  
+  <programme start="20260615064800 -0500" stop="20260615073900 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">ADN mecánico</title>
+    <sub-title lang="es">Sueños NASCAR</sub-title>
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  
+  <programme start="20260615073900 -0500" stop="20260615083200 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Overhaulin'</title>
+    <sub-title lang="es">Camaro</sub-title>
+    <episode-num system="onscreen">S10 E4</episode-num>
+  </programme>
+  
+  <programme start="20260615083200 -0500" stop="20260615092400 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Texas Metal</title>
+    <sub-title lang="es">El Mustang que romperá un récord</sub-title>
+    <episode-num system="onscreen">S7</episode-num>
+  </programme>
+  
+  <programme start="20260615092400 -0500" stop="20260615101500 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Misfit Garage</title>
+    <sub-title lang="es">La X marca las partes</sub-title>
+    <episode-num system="onscreen">S6 E3</episode-num>
+  </programme>
+  
+  <programme start="20260615101500 -0500" stop="20260615110700 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Misfit Garage</title>
+    <sub-title lang="es">Cables y problemas</sub-title>
+    <episode-num system="onscreen">S6 E4</episode-num>
+  </programme>
+  
+  <programme start="20260615110700 -0500" stop="20260615120000 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Mexicanicos Estado de México</title>
+  </programme>
+  
+  <programme start="20260615120000 -0500" stop="20260615125400 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Al estilo Kindig: Detrás de cámaras</title>
+    <sub-title lang="es">Qué calor hace aquí.</sub-title>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  
+  <programme start="20260615125400 -0500" stop="20260615134700 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Al estilo Kindig: Detrás de cámaras</title>
+    <sub-title lang="es">La ciudad de los Cougar</sub-title>
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  
+  <programme start="20260615134700 -0500" stop="20260615143800 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Misfit Garage</title>
+    <sub-title lang="es">Cables y problemas</sub-title>
+    <episode-num system="onscreen">S6 E4</episode-num>
+  </programme>
+  
+  <programme start="20260615143800 -0500" stop="20260615152900 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Misfit Garage</title>
+    <sub-title lang="es">Pelea callejera y un Camaro 70 ½</sub-title>
+    <episode-num system="onscreen">S6 E5</episode-num>
+  </programme>
+  
+  <programme start="20260615152900 -0500" stop="20260615162200 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Misfit Garage</title>
+    <sub-title lang="es">Una aventura de tamaño jurásico</sub-title>
+    <episode-num system="onscreen">S6 E6</episode-num>
+  </programme>
+  
+  <programme start="20260615162200 -0500" stop="20260615171400 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Joyas Sobre Ruedas</title>
+    <sub-title lang="es">1963 Sunbeam Alpine</sub-title>
+    <episode-num system="onscreen">S13 E14</episode-num>
+  </programme>
+  
+  <programme start="20260615171400 -0500" stop="20260615180500 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Mexicánicos</title>
+    <sub-title lang="es">Oswaldo Sánchez; Robocamión Schunk</sub-title>
+    <episode-num system="onscreen">S10 E4</episode-num>
+  </programme>
+  
+  <programme start="20260615180500 -0500" stop="20260615190200 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Texas Metal</title>
+    <sub-title lang="es">Across the Block</sub-title>
+    <episode-num system="onscreen">S5 E8</episode-num>
+  </programme>
+  
+  <programme start="20260615190200 -0500" stop="20260615192900 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Todoterreno</title>
+    <sub-title lang="es">Tráiler de remolque</sub-title>
+    <episode-num system="onscreen">S4 E9</episode-num>
+  </programme>
+  
+  <programme start="20260615192900 -0500" stop="20260615195700 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Todoterreno</title>
+    <episode-num system="onscreen">S4 E10</episode-num>
+  </programme>
+  
+  <programme start="20260615195700 -0500" stop="20260615204700 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Misfit Garage</title>
+    <sub-title lang="es">Cables y problemas</sub-title>
+    <episode-num system="onscreen">S6 E4</episode-num>
+  </programme>
+  
+  <programme start="20260615204700 -0500" stop="20260615213900 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">ADN mecánico</title>
+    <sub-title lang="es">Enciendan sus motores</sub-title>
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  
+  <programme start="20260615213900 -0500" stop="20260615223400 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Overhaulin'</title>
+    <sub-title lang="es">Mustang para una veterana</sub-title>
+    <episode-num system="onscreen">S10 E5</episode-num>
+  </programme>
+  
+  <programme start="20260615223400 -0500" stop="20260615232600 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Texas Metal</title>
+    <sub-title lang="es">Un GTO del 68 por la victoria</sub-title>
+    <episode-num system="onscreen">S7 E8</episode-num>
+  </programme>
+  
+  <programme start="20260615232600 -0500" stop="20260616001800 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Misfit Garage</title>
+    <sub-title lang="es">Cables y problemas</sub-title>
+    <episode-num system="onscreen">S6 E4</episode-num>
+  </programme>
+  
+  <programme start="20260616001800 -0500" stop="20260616010900 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Misfit Garage</title>
+    <sub-title lang="es">Pelea callejera y un Camaro 70 ½</sub-title>
+    <episode-num system="onscreen">S6 E5</episode-num>
+  </programme>
+  
+  <programme start="20260616010900 -0500" stop="20260616015800 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Misfit Garage</title>
+    <sub-title lang="es">Cables y problemas</sub-title>
+    <episode-num system="onscreen">S6 E4</episode-num>
+  </programme>
+  
+  <programme start="20260616015800 -0500" stop="20260616024600 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">ADN mecánico</title>
+    <sub-title lang="es">Enciendan sus motores</sub-title>
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  
+  <programme start="20260616024600 -0500" stop="20260616033500 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Overhaulin'</title>
+    <sub-title lang="es">Mustang para una veterana</sub-title>
+    <episode-num system="onscreen">S10 E5</episode-num>
+  </programme>
+  
+  <programme start="20260616033500 -0500" stop="20260616042300 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Texas Metal</title>
+    <sub-title lang="es">Un GTO del 68 por la victoria</sub-title>
+    <episode-num system="onscreen">S7 E8</episode-num>
+  </programme>
+  
+  <programme start="20260616042300 -0500" stop="20260616051200 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Misfit Garage</title>
+    <sub-title lang="es">Cables y problemas</sub-title>
+    <episode-num system="onscreen">S6 E4</episode-num>
+  </programme>
+  
+  <programme start="20260616051200 -0500" stop="20260616060000 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Misfit Garage</title>
+    <sub-title lang="es">Pelea callejera y un Camaro 70 ½</sub-title>
+    <episode-num system="onscreen">S6 E5</episode-num>
+  </programme>
+  
+  <programme start="20260616060000 -0500" stop="20260616065000 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">De la chatarra a la pista</title>
+    <sub-title lang="es">El Pinto</sub-title>
+    <episode-num system="onscreen">S2 E6</episode-num>
+  </programme>
+  
+  <programme start="20260616065000 -0500" stop="20260616074000 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Texas Metal</title>
+  </programme>
+  
+  <programme start="20260616074000 -0500" stop="20260616083000 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Justin y Nick: Supermecánicos</title>
+    <sub-title lang="es">Ford de Granja</sub-title>
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  
+  <programme start="20260616083000 -0500" stop="20260616092200 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Diesel Dave</title>
+    <sub-title lang="es">Cuando los tractores vuelan</sub-title>
+    <episode-num system="onscreen">S5 E6</episode-num>
+  </programme>
+  
+  <programme start="20260616092200 -0500" stop="20260616101400 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Tommy Pike Autos a la medida</title>
+  </programme>
+  
+  <programme start="20260616101400 -0500" stop="20260616110600 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Rmd Garage</title>
+    <sub-title lang="es">Una modernización total</sub-title>
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  
+  <programme start="20260616110600 -0500" stop="20260616115800 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Misfit Garage</title>
+    <sub-title lang="es">Cables y problemas</sub-title>
+    <episode-num system="onscreen">S6 E4</episode-num>
+  </programme>
+  
+  <programme start="20260616115800 -0500" stop="20260616125000 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Overhaulin'</title>
+    <sub-title lang="es">Mustang para una veterana</sub-title>
+    <episode-num system="onscreen">S10 E5</episode-num>
+  </programme>
+  
+  <programme start="20260616125000 -0500" stop="20260616134200 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">ADN mecánico</title>
+    <sub-title lang="es">Enciendan sus motores</sub-title>
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  
+  <programme start="20260616134200 -0500" stop="20260616143400 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Texas Metal</title>
+    <sub-title lang="es">Un GTO del 68 por la victoria</sub-title>
+    <episode-num system="onscreen">S7 E8</episode-num>
+  </programme>
+  
+  <programme start="20260616143400 -0500" stop="20260616152600 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Misfit Garage</title>
+    <sub-title lang="es">Cables y problemas</sub-title>
+    <episode-num system="onscreen">S6 E4</episode-num>
+  </programme>
+  
+  <programme start="20260616152600 -0500" stop="20260616161800 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Misfit Garage</title>
+    <sub-title lang="es">Pelea callejera y un Camaro 70 ½</sub-title>
+    <episode-num system="onscreen">S6 E5</episode-num>
+  </programme>
+  
+  <programme start="20260616161800 -0500" stop="20260616171000 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Mexicanicos Estado de México</title>
+  </programme>
+  
+  <programme start="20260616171000 -0500" stop="20260616180200 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Al estilo Kindig: Detrás de cámaras</title>
+    <sub-title lang="es">La ciudad de los Cougar</sub-title>
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  
+  <programme start="20260616180200 -0500" stop="20260616185400 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Al estilo Kindig: Detrás de cámaras</title>
+    <sub-title lang="es">Qué calor hace aquí.</sub-title>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  
+  <programme start="20260616185400 -0500" stop="20260616192000 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Invasión de garajes</title>
+    <sub-title lang="es">Calamidad con el Corvette</sub-title>
+    <episode-num system="onscreen">S2 E9</episode-num>
+  </programme>
+  
+  <programme start="20260616192000 -0500" stop="20260616194600 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Más motor</title>
+  </programme>
+  
+  <programme start="20260616194600 -0500" stop="20260616203800 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Mexicánicos</title>
+    <sub-title lang="es">Réplica de Ford T 1928, Deportivo Oldsmobile, Reemplazo de vacaciones</sub-title>
+    <episode-num system="onscreen">S7 E1</episode-num>
+  </programme>
+  
+  <programme start="20260616203800 -0500" stop="20260616213000 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Texas Metal</title>
+  </programme>
+  
+  <programme start="20260616213000 -0500" stop="20260616222200 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Justin y Nick: Supermecánicos</title>
+    <sub-title lang="es">La historia del Saab</sub-title>
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  
+  <programme start="20260616222200 -0500" stop="20260616231400 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Diesel Dave</title>
+    <sub-title lang="es">Listos para el despegue</sub-title>
+    <episode-num system="onscreen">S5 E7</episode-num>
+  </programme>
+  
+  <programme start="20260616231400 -0500" stop="20260617000600 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Tommy Pike Autos a la medida</title>
+  </programme>
+  
+  <programme start="20260617000600 -0500" stop="20260617005800 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Overhaulin'</title>
+    <sub-title lang="es">El Skylark de Sarah</sub-title>
+    <episode-num system="onscreen">S7 E1</episode-num>
+  </programme>
+  
+  <programme start="20260617005800 -0500" stop="20260617015000 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Mexicánicos</title>
+    <sub-title lang="es">Réplica de Ford T 1928, Deportivo Oldsmobile, Reemplazo de vacaciones</sub-title>
+    <episode-num system="onscreen">S7 E1</episode-num>
+  </programme>
+  
+  <programme start="20260617015000 -0500" stop="20260617024000 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Texas Metal</title>
+  </programme>
+  
+  <programme start="20260617024000 -0500" stop="20260617033000 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Justin y Nick: Supermecánicos</title>
+    <sub-title lang="es">La historia del Saab</sub-title>
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  
+  <programme start="20260617033000 -0500" stop="20260617042000 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Diesel Dave</title>
+    <sub-title lang="es">Listos para el despegue</sub-title>
+    <episode-num system="onscreen">S5 E7</episode-num>
+  </programme>
+  
+  <programme start="20260617042000 -0500" stop="20260617051000 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Tommy Pike Autos a la medida</title>
+  </programme>
+  
+  <programme start="20260617051000 -0500" stop="20260617060000 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Overhaulin'</title>
+    <sub-title lang="es">El Skylark de Sarah</sub-title>
+    <episode-num system="onscreen">S7 E1</episode-num>
+  </programme>
+  
+  <programme start="20260617060000 -0500" stop="20260617065000 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Al estilo Kindig</title>
+    <sub-title lang="es">Me gasté tu herencia en un auto fabuloso</sub-title>
+    <episode-num system="onscreen">S4 E8</episode-num>
+  </programme>
+  
+  <programme start="20260617065000 -0500" stop="20260617074000 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Al estilo Kindig</title>
+    <sub-title lang="es">Un Lincoln en marcha y una leyenda al rescate</sub-title>
+    <episode-num system="onscreen">S4 E9</episode-num>
+  </programme>
+  
+  <programme start="20260617074000 -0500" stop="20260617083000 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">ADN mecánico</title>
+    <sub-title lang="es">El regreso</sub-title>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  
+  <programme start="20260617083000 -0500" stop="20260617092200 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Texas Metal</title>
+  </programme>
+  
+  <programme start="20260617092200 -0500" stop="20260617101400 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Alto Octanaje en Las Vegas</title>
+    <sub-title lang="es">Stevel darneval</sub-title>
+    <episode-num system="onscreen">S4 E1</episode-num>
+  </programme>
+  
+  <programme start="20260617101400 -0500" stop="20260617110600 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Alto Octanaje en Las Vegas</title>
+    <sub-title lang="es">Carrera y revelación</sub-title>
+    <episode-num system="onscreen">S4 E2</episode-num>
+  </programme>
+  
+  <programme start="20260617110600 -0500" stop="20260617115800 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Mexicánicos</title>
+    <sub-title lang="es">Réplica de Ford T 1928, Deportivo Oldsmobile, Reemplazo de vacaciones</sub-title>
+    <episode-num system="onscreen">S7 E1</episode-num>
+  </programme>
+  
+  <programme start="20260617115800 -0500" stop="20260617125000 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Justin y Nick: Supermecánicos</title>
+    <sub-title lang="es">La historia del Saab</sub-title>
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  
+  <programme start="20260617125000 -0500" stop="20260617134200 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Texas Metal</title>
+  </programme>
+  
+  <programme start="20260617134200 -0500" stop="20260617143400 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Diesel Dave</title>
+    <sub-title lang="es">Listos para el despegue</sub-title>
+    <episode-num system="onscreen">S5 E7</episode-num>
+  </programme>
+  
+  <programme start="20260617143400 -0500" stop="20260617152600 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Tommy Pike Autos a la medida</title>
+  </programme>
+  
+  <programme start="20260617152600 -0500" stop="20260617161800 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Overhaulin'</title>
+    <sub-title lang="es">El Skylark de Sarah</sub-title>
+    <episode-num system="onscreen">S7 E1</episode-num>
+  </programme>
+  
+  <programme start="20260617161800 -0500" stop="20260617171000 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Misfit Garage</title>
+    <sub-title lang="es">Cables y problemas</sub-title>
+    <episode-num system="onscreen">S6 E4</episode-num>
+  </programme>
+  
+  <programme start="20260617171000 -0500" stop="20260617180200 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">ADN mecánico</title>
+    <sub-title lang="es">Enciendan sus motores</sub-title>
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  
+  <programme start="20260617180200 -0500" stop="20260617185400 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Overhaulin'</title>
+    <sub-title lang="es">Mustang para una veterana</sub-title>
+    <episode-num system="onscreen">S10 E5</episode-num>
+  </programme>
+  
+  <programme start="20260617185400 -0500" stop="20260617192000 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Más motor</title>
+  </programme>
+  
+  <programme start="20260617192000 -0500" stop="20260617194600 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Invasión de garajes</title>
+    <sub-title lang="es">Un camaro digno de una boda</sub-title>
+    <episode-num system="onscreen">S2 E3</episode-num>
+  </programme>
+  
+  <programme start="20260617194600 -0500" stop="20260617203800 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Al estilo Kindig</title>
+    <sub-title lang="es">Un Lincoln en marcha y una leyenda al rescate</sub-title>
+    <episode-num system="onscreen">S4 E9</episode-num>
+  </programme>
+  
+  <programme start="20260617203800 -0500" stop="20260617213000 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Al estilo Kindig</title>
+    <sub-title lang="es">La tierra de los 10000 autos increíbles</sub-title>
+    <episode-num system="onscreen">S4 E6</episode-num>
+  </programme>
+  
+  <programme start="20260617213000 -0500" stop="20260617222200 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">ADN mecánico</title>
+    <sub-title lang="es">Descarrilado, por supuesto</sub-title>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  
+  <programme start="20260617222200 -0500" stop="20260617231400 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Texas Metal</title>
+  </programme>
+  
+  <programme start="20260617231400 -0500" stop="20260618000600 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Alto Octanaje en Las Vegas</title>
+    <sub-title lang="es">Carrera y revelación</sub-title>
+    <episode-num system="onscreen">S4 E2</episode-num>
+  </programme>
+  
+  <programme start="20260618000600 -0500" stop="20260618005800 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Alto Octanaje en Las Vegas</title>
+    <sub-title lang="es">Héroes y villanos</sub-title>
+    <episode-num system="onscreen">S4 E3</episode-num>
+  </programme>
+  
+  <programme start="20260618005800 -0500" stop="20260618015000 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Al estilo Kindig</title>
+    <sub-title lang="es">Un Lincoln en marcha y una leyenda al rescate</sub-title>
+    <episode-num system="onscreen">S4 E9</episode-num>
+  </programme>
+  
+  <programme start="20260618015000 -0500" stop="20260618024000 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Al estilo Kindig</title>
+    <sub-title lang="es">La tierra de los 10000 autos increíbles</sub-title>
+    <episode-num system="onscreen">S4 E6</episode-num>
+  </programme>
+  
+  <programme start="20260618024000 -0500" stop="20260618033000 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">ADN mecánico</title>
+    <sub-title lang="es">Descarrilado, por supuesto</sub-title>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  
+  <programme start="20260618033000 -0500" stop="20260618042000 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Texas Metal</title>
+  </programme>
+  
+  <programme start="20260618042000 -0500" stop="20260618051000 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Alto Octanaje en Las Vegas</title>
+    <sub-title lang="es">Carrera y revelación</sub-title>
+    <episode-num system="onscreen">S4 E2</episode-num>
+  </programme>
+  
+  <programme start="20260618051000 -0500" stop="20260618060000 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Alto Octanaje en Las Vegas</title>
+    <sub-title lang="es">Héroes y villanos</sub-title>
+    <episode-num system="onscreen">S4 E3</episode-num>
+  </programme>
+  
+  <programme start="20260618060000 -0500" stop="20260618065000 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">El dúo mecánico</title>
+    <sub-title lang="es">Diamante en Bruto</sub-title>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  
+  <programme start="20260618065000 -0500" stop="20260618074000 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">El dúo mecánico</title>
+    <sub-title lang="es">Galaxie del 64</sub-title>
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  
+  <programme start="20260618074000 -0500" stop="20260618083000 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Iron Resurrection</title>
+    <sub-title lang="es">X-Frame Overhaul - '60 Impala Part 2</sub-title>
+    <episode-num system="onscreen">S7 E2</episode-num>
+  </programme>
+  
+  <programme start="20260618083000 -0500" stop="20260618092200 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Diesel Dave</title>
+    <sub-title lang="es">La escuela está en sesión</sub-title>
+    <episode-num system="onscreen">S4</episode-num>
+  </programme>
+  
+  <programme start="20260618092200 -0500" stop="20260618101400 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Extreme Machines</title>
+    <sub-title lang="es">Los Edificios Más Grandes del Mundo: Buscando el Cielo</sub-title>
+    <episode-num system="onscreen">S2001 E2</episode-num>
+  </programme>
+  
+  <programme start="20260618101400 -0500" stop="20260618110600 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Supermáquinas</title>
+    <sub-title lang="es">Máquinas Submarinas 1a.Parte</sub-title>
+    <episode-num system="onscreen">S2003 E5</episode-num>
+  </programme>
+  
+  <programme start="20260618110600 -0500" stop="20260618115800 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Al estilo Kindig</title>
+    <sub-title lang="es">Un Lincoln en marcha y una leyenda al rescate</sub-title>
+    <episode-num system="onscreen">S4 E9</episode-num>
+  </programme>
+  
+  <programme start="20260618115800 -0500" stop="20260618125000 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">ADN mecánico</title>
+    <sub-title lang="es">Descarrilado, por supuesto</sub-title>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  
+  <programme start="20260618125000 -0500" stop="20260618134200 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Al estilo Kindig</title>
+    <sub-title lang="es">La tierra de los 10000 autos increíbles</sub-title>
+    <episode-num system="onscreen">S4 E6</episode-num>
+  </programme>
+  
+  <programme start="20260618134200 -0500" stop="20260618143400 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Texas Metal</title>
+  </programme>
+  
+  <programme start="20260618143400 -0500" stop="20260618152600 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Alto Octanaje en Las Vegas</title>
+    <sub-title lang="es">Carrera y revelación</sub-title>
+    <episode-num system="onscreen">S4 E2</episode-num>
+  </programme>
+  
+  <programme start="20260618152600 -0500" stop="20260618161800 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Alto Octanaje en Las Vegas</title>
+    <sub-title lang="es">Héroes y villanos</sub-title>
+    <episode-num system="onscreen">S4 E3</episode-num>
+  </programme>
+  
+  <programme start="20260618161800 -0500" stop="20260618171000 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Mexicánicos</title>
+    <sub-title lang="es">Réplica de Ford T 1928, Deportivo Oldsmobile, Reemplazo de vacaciones</sub-title>
+    <episode-num system="onscreen">S7 E1</episode-num>
+  </programme>
+  
+  <programme start="20260618171000 -0500" stop="20260618180200 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Texas Metal</title>
+  </programme>
+  
+  <programme start="20260618180200 -0500" stop="20260618185400 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Justin y Nick: Supermecánicos</title>
+    <sub-title lang="es">La historia del Saab</sub-title>
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  
+  <programme start="20260618185400 -0500" stop="20260618192000 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
+    <title lang="es">Invasión de garajes</title>
+    <sub-title lang="es">Renovando el Commando</sub-title>
+    <episode-num system="onscreen">S2 E4</episode-num>
+  </programme>
+  
+  <programme start="20260615002400 -0500" stop="20260615004800 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">Playas alrededor del mundo</title>
+    <sub-title lang="es">Encontrando el paraíso en Panamá</sub-title>
+  </programme>
+  
+  <programme start="20260615004800 -0500" stop="20260615011200 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">Pantano Se vende</title>
+    <sub-title lang="es">Millonarios del pantano</sub-title>
+  </programme>
+  
+  <programme start="20260615011200 -0500" stop="20260615013600 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">El mejor hotel</title>
+    <sub-title lang="es">Nueva Orleáns</sub-title>
+  </programme>
+  
+  <programme start="20260615013600 -0500" stop="20260615020000 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">¿Podría vivir ahí?</title>
+    <sub-title lang="es">La cultura de Tokio</sub-title>
+  </programme>
+  
+  <programme start="20260615020000 -0500" stop="20260615022400 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">Playas alrededor del mundo</title>
+    <sub-title lang="es">Encontrando el paraíso en Panamá</sub-title>
+  </programme>
+  
+  <programme start="20260615022400 -0500" stop="20260615024800 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">Pantano Se vende</title>
+    <sub-title lang="es">Millonarios del pantano</sub-title>
+  </programme>
+  
+  <programme start="20260615024800 -0500" stop="20260615033600 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">Regreso al mundo chino</title>
+  </programme>
+  
+  <programme start="20260615033600 -0500" stop="20260615042400 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">1000 Lugares que ver antes de morir</title>
+    <sub-title lang="es">India</sub-title>
+  </programme>
+  
+  <programme start="20260615042400 -0500" stop="20260615051200 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">1000 Lugares que ver antes de morir</title>
+    <sub-title lang="es">Nepal</sub-title>
+  </programme>
+  
+  <programme start="20260615051200 -0500" stop="20260615053600 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">El poder de la comida</title>
+    <sub-title lang="es">Dietas extremas</sub-title>
+  </programme>
+  
+  <programme start="20260615053600 -0500" stop="20260615060000 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">Buying Hawaii</title>
+    <sub-title lang="es">Fiebre selvática</sub-title>
+  </programme>
+  
+  <programme start="20260615060000 -0500" stop="20260615062400 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">Playas alrededor del mundo</title>
+    <sub-title lang="es">Encontrando el paraíso en Panamá</sub-title>
+  </programme>
+  
+  <programme start="20260615062400 -0500" stop="20260615064800 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">Playas alrededor del mundo</title>
+    <sub-title lang="es">Echando raíces en España</sub-title>
+  </programme>
+  
+  <programme start="20260615064800 -0500" stop="20260615071200 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">¿Podría vivir ahí?</title>
+    <sub-title lang="es">Vueltas en Estambul</sub-title>
+  </programme>
+  
+  <programme start="20260615071200 -0500" stop="20260615073600 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">Pantano Se vende</title>
+    <sub-title lang="es">Millonarios del pantano</sub-title>
+  </programme>
+  
+  <programme start="20260615073600 -0500" stop="20260615082400 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">1000 Lugares que ver antes de morir</title>
+    <sub-title lang="es">Perú</sub-title>
+  </programme>
+  
+  <programme start="20260615082400 -0500" stop="20260615091200 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">Rincones secretos para nadar</title>
+    <sub-title lang="es">La Dragon Dune en Sudáfrica</sub-title>
+  </programme>
+  
+  <programme start="20260615091200 -0500" stop="20260615093600 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">El poder de la comida</title>
+    <sub-title lang="es">Dietas extremas</sub-title>
+  </programme>
+  
+  <programme start="20260615093600 -0500" stop="20260615100000 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">Tocinolandia</title>
+    <sub-title lang="es">El pastel de la muerte</sub-title>
+  </programme>
+  
+  <programme start="20260615100000 -0500" stop="20260615102400 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">Fast Food Mania</title>
+    <sub-title lang="es">Desde el auto</sub-title>
+  </programme>
+  
+  <programme start="20260615102400 -0500" stop="20260615104800 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">Pantano Se vende</title>
+    <sub-title lang="es">Diversión en deslizadores</sub-title>
+  </programme>
+  <programme start="20260615104800 -0500" stop="20260615111200 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">El mejor hotel</title>
+    <sub-title lang="es">Nueva York</sub-title>
+  </programme>
+  
+  <programme start="20260615111200 -0500" stop="20260615113600 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">Playas alrededor del mundo</title>
+    <sub-title lang="es">Diversión familiar en Costa Rica</sub-title>
+  </programme>
+  
+  <programme start="20260615113600 -0500" stop="20260615122400 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">1000 Lugares que ver antes de morir</title>
+    <sub-title lang="es">India</sub-title>
+  </programme>
+  
+  <programme start="20260615122400 -0500" stop="20260615124800 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">Pantano Se vende</title>
+    <sub-title lang="es">Remodelaciones en el pantano</sub-title>
+  </programme>
+  
+  <programme start="20260615124800 -0500" stop="20260615131200 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">La vida en la playa</title>
+    <sub-title lang="es">Embotellado</sub-title>
+  </programme>
+  
+  <programme start="20260615131200 -0500" stop="20260615133600 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">El mejor hotel</title>
+    <sub-title lang="es">Islas Vírgenes</sub-title>
+  </programme>
+  
+  <programme start="20260615133600 -0500" stop="20260615140000 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">Tocinolandia</title>
+    <sub-title lang="es">La superhamburguesa</sub-title>
+  </programme>
+  
+  <programme start="20260615140000 -0500" stop="20260615142400 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">Fast Food Mania</title>
+    <sub-title lang="es">Lugares extremos</sub-title>
+  </programme>
+  
+  <programme start="20260615142400 -0500" stop="20260615144800 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">La vida en la playa</title>
+    <sub-title lang="es">Embotellado</sub-title>
+  </programme>
+  
+  <programme start="20260615144800 -0500" stop="20260615151200 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">¿Podría vivir ahí?</title>
+    <sub-title lang="es">Camiones en Guatemala</sub-title>
+  </programme>
+  
+  <programme start="20260615151200 -0500" stop="20260615153600 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">Secretos de la isla</title>
+    <sub-title lang="es">Tailandia</sub-title>
+  </programme>
+  
+  <programme start="20260615153600 -0500" stop="20260615160000 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">Mi casa en la playa</title>
+    <sub-title lang="es">En Texas, todo es más grande</sub-title>
+  </programme>
+  
+  <programme start="20260615160000 -0500" stop="20260615162400 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">Tocinolandia</title>
+    <sub-title lang="es">Alitas de cerdo</sub-title>
+  </programme>
+  
+  <programme start="20260615162400 -0500" stop="20260615164800 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">Buying Alaska</title>
+    <sub-title lang="es">Negocio sospechoso</sub-title>
+  </programme>
+  
+  <programme start="20260615164800 -0500" stop="20260615171200 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">El poder de la comida</title>
+    <sub-title lang="es">Por favor, no me pases las nueces</sub-title>
+  </programme>
+  
+  <programme start="20260615171200 -0500" stop="20260615173600 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">Mi casa en la montaña</title>
+    <sub-title lang="es">De la pradera a la montaña</sub-title>
+  </programme>
+  
+  <programme start="20260615173600 -0500" stop="20260615180000 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">¿Podría vivir ahí?</title>
+    <sub-title lang="es">Donde no ir en Viena</sub-title>
+  </programme>
+  
+  <programme start="20260615180000 -0500" stop="20260615182400 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">Renuévelo usted mismo</title>
+    <sub-title lang="es">La oficina en casa de Lila y Sanção</sub-title>
+  </programme>
+  
+  <programme start="20260615182400 -0500" stop="20260615184800 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">Renuévelo usted mismo</title>
+    <sub-title lang="es">Habitación creativa</sub-title>
+  </programme>
+  
+  <programme start="20260615184800 -0500" stop="20260615191200 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">Secretos de la isla</title>
+    <sub-title lang="es">Jamaica</sub-title>
+  </programme>
+  
+  <programme start="20260615191200 -0500" stop="20260615193600 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">Pantano Se vende</title>
+    <sub-title lang="es">Gator Islands</sub-title>
+  </programme>
+  
+  <programme start="20260615193600 -0500" stop="20260615200000 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">El mejor hotel</title>
+    <sub-title lang="es">San Francisco</sub-title>
+  </programme>
+  
+  <programme start="20260615200000 -0500" stop="20260615204800 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">Rincones secretos para nadar</title>
+    <sub-title lang="es">Playa Anakena en la Isla de Pascua</sub-title>
+  </programme>
+  
+  <programme start="20260615204800 -0500" stop="20260615211200 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">Playas alrededor del mundo</title>
+    <sub-title lang="es">Vida de playa en Tailandia</sub-title>
+  </programme>
+  
+  <programme start="20260615211200 -0500" stop="20260615220000 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">1000 Lugares que ver antes de morir</title>
+    <sub-title lang="es">Australia</sub-title>
+  </programme>
+  
+  <programme start="20260615220000 -0500" stop="20260615224800 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">Regreso al mundo de la India</title>
+  </programme>
+  
+  <programme start="20260615224800 -0500" stop="20260615233600 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">Regreso al mundo de la India</title>
+  </programme>
+  
+  <programme start="20260615233600 -0500" stop="20260616000000 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">Buying Hawaii</title>
+    <sub-title lang="es">Supervivencia en el patio trasero</sub-title>
+  </programme>
+  
+  <programme start="20260616000000 -0500" stop="20260616002400 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">¿Podría vivir ahí?</title>
+    <sub-title lang="es">Comida callejera en Saigon</sub-title>
+  </programme>
+  
+  <programme start="20260616002400 -0500" stop="20260616004800 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">Playas alrededor del mundo</title>
+    <sub-title lang="es">En busca de un hogar en Tailandia</sub-title>
+  </programme>
+  
+  <programme start="20260616004800 -0500" stop="20260616011200 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">Pantano Se vende</title>
+    <sub-title lang="es">Casa pantanosa</sub-title>
+  </programme>
+  
+  <programme start="20260616011200 -0500" stop="20260616013600 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">El mejor hotel</title>
+    <sub-title lang="es">San Francisco</sub-title>
+  </programme>
+  
+  <programme start="20260616013600 -0500" stop="20260616020000 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">¿Podría vivir ahí?</title>
+    <sub-title lang="es">Navegar en los laberintos de Hong Kong</sub-title>
+  </programme>
+  
+  <programme start="20260616020000 -0500" stop="20260616022400 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">Playas alrededor del mundo</title>
+    <sub-title lang="es">En busca de un hogar en Tailandia</sub-title>
+  </programme>
+  
+  <programme start="20260616022400 -0500" stop="20260616024800 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">Pantano Se vende</title>
+    <sub-title lang="es">Casa pantanosa</sub-title>
+  </programme>
+  
+  <programme start="20260616024800 -0500" stop="20260616033600 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">Regreso al mundo chino</title>
+  </programme>
+  
+  <programme start="20260616033600 -0500" stop="20260616042400 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">1000 Lugares que ver antes de morir</title>
+    <sub-title lang="es">Nepal</sub-title>
+  </programme>
+  
+  <programme start="20260616042400 -0500" stop="20260616051200 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">1000 Lugares que ver antes de morir</title>
+    <sub-title lang="es">Camboya</sub-title>
+  </programme>
+  
+  <programme start="20260616051200 -0500" stop="20260616053600 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">El poder de la comida</title>
+    <sub-title lang="es">Seguridad en la comida</sub-title>
+  </programme>
+  
+  <programme start="20260616053600 -0500" stop="20260616060000 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">Buying Hawaii</title>
+    <sub-title lang="es">Sobre Kauái</sub-title>
+  </programme>
+  
+  <programme start="20260616060000 -0500" stop="20260616062400 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">Playas alrededor del mundo</title>
+    <sub-title lang="es">En busca de un hogar en Tailandia</sub-title>
+  </programme>
+  
+  <programme start="20260616062400 -0500" stop="20260616064800 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">Playas alrededor del mundo</title>
+    <sub-title lang="es">Vistas del océano y piscinas dobles</sub-title>
+  </programme>
+  
+  <programme start="20260616064800 -0500" stop="20260616071200 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">¿Podría vivir ahí?</title>
+    <sub-title lang="es">Comida callejera en Saigon</sub-title>
+  </programme>
+  
+  <programme start="20260616071200 -0500" stop="20260616073600 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">Pantano Se vende</title>
+    <sub-title lang="es">Casa pantanosa</sub-title>
+  </programme>
+  
+  <programme start="20260616073600 -0500" stop="20260616082400 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">1000 Lugares que ver antes de morir</title>
+    <sub-title lang="es">Alaska</sub-title>
+  </programme>
+  
+  <programme start="20260616082400 -0500" stop="20260616091200 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">Rincones secretos para nadar</title>
+    <sub-title lang="es">Champagne Pools en Australia</sub-title>
+  </programme>
+  
+  <programme start="20260616091200 -0500" stop="20260616093600 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">El poder de la comida</title>
+    <sub-title lang="es">Seguridad en la comida</sub-title>
+  </programme>
+  
+  <programme start="20260616093600 -0500" stop="20260616100000 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">Tocinolandia</title>
+    <sub-title lang="es">El sándwich de cerdo</sub-title>
+  </programme>
+  
+  <programme start="20260616100000 -0500" stop="20260616102400 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">Fast Food Mania</title>
+    <sub-title lang="es">Hamburguesas extremas</sub-title>
+  </programme>
+  
+  <programme start="20260616102400 -0500" stop="20260616104800 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">Pantano Se vende</title>
+    <sub-title lang="es">Millonarios del pantano</sub-title>
+  </programme>
+  
+  <programme start="20260616104800 -0500" stop="20260616111200 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">El mejor hotel</title>
+    <sub-title lang="es">Nueva Orleáns</sub-title>
+  </programme>
+  
+  <programme start="20260616111200 -0500" stop="20260616113600 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">Playas alrededor del mundo</title>
+    <sub-title lang="es">Explorando la costa de oro en Costa Rica</sub-title>
+  </programme>
+  
+  <programme start="20260616113600 -0500" stop="20260616122400 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">1000 Lugares que ver antes de morir</title>
+    <sub-title lang="es">Nepal</sub-title>
+  </programme>
+  
+  <programme start="20260616122400 -0500" stop="20260616124800 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">Pantano Se vende</title>
+    <sub-title lang="es">Hogar antihuracán</sub-title>
+  </programme>
+  
+  <programme start="20260616124800 -0500" stop="20260616131200 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">La vida en la playa</title>
+    <sub-title lang="es">La familia es lo importante</sub-title>
+  </programme>
+  
+  <programme start="20260616131200 -0500" stop="20260616133600 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">El mejor hotel</title>
+    <sub-title lang="es">Costa Rica</sub-title>
+  </programme>
+  
+  <programme start="20260616133600 -0500" stop="20260616140000 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">Tocinolandia</title>
+    <sub-title lang="es">Tocino frito a presión</sub-title>
+  </programme>
+  
+  <programme start="20260616140000 -0500" stop="20260616142400 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">Fast Food Mania</title>
+    <sub-title lang="es">Originales de la comida rápida</sub-title>
+  </programme>
+  
+  <programme start="20260616142400 -0500" stop="20260616144800 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">La vida en la playa</title>
+    <sub-title lang="es">La familia es lo importante</sub-title>
+  </programme>
+  
+  <programme start="20260616144800 -0500" stop="20260616151200 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">¿Podría vivir ahí?</title>
+    <sub-title lang="es">Tango para dos en Buenos Aires</sub-title>
+  </programme>
+  
+  <programme start="20260616151200 -0500" stop="20260616153600 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">Secretos de la isla</title>
+    <sub-title lang="es">Jamaica</sub-title>
+  </programme>
+  
+  <programme start="20260616153600 -0500" stop="20260616160000 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">Mi casa en la playa</title>
+    <sub-title lang="es">De isla en isla</sub-title>
+  </programme>
+  
+  <programme start="20260616160000 -0500" stop="20260616162400 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">Tocinolandia</title>
+    <sub-title lang="es">La hamburguesa tortuga</sub-title>
+  </programme>
+  
+  <programme start="20260616162400 -0500" stop="20260616164800 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">Buying Alaska</title>
+    <sub-title lang="es">Cabañas en el bosque</sub-title>
+  </programme>
+  
+  <programme start="20260616164800 -0500" stop="20260616171200 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">El poder de la comida</title>
+    <sub-title lang="es">Ahora lo ves, ahora no</sub-title>
+  </programme>
+  
+  <programme start="20260616171200 -0500" stop="20260616173600 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">Mi casa en la montaña</title>
+    <sub-title lang="es">Casas de árbol</sub-title>
+  </programme>
+  
+  <programme start="20260616173600 -0500" stop="20260616180000 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">¿Podría vivir ahí?</title>
+    <sub-title lang="es">Movimientos en Ginebra</sub-title>
+  </programme>
+  
+  <programme start="20260616180000 -0500" stop="20260616182400 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">Renuévelo usted mismo</title>
+    <sub-title lang="es">La habitación de Manu</sub-title>
+  </programme>
+  
+  <programme start="20260616182400 -0500" stop="20260616184800 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">Renuévelo usted mismo</title>
+    <sub-title lang="es">Balcón</sub-title>
+  </programme>
+  
+  <programme start="20260616184800 -0500" stop="20260616191200 -0500" channel="Canal.Discovery.World.Latinoamérica.ar">
+    <title lang="es">Secretos de la isla</title>
+    <sub-title lang="es">San Vicente y Las Granadinas</sub-title>
+  </programme>
+  
   <programme start="20260615010000 -0500" stop="20260615030800 -0500" channel="Canal.Golden.(Argentina).ar">
     <title lang="es">Aguas profundas</title>
   </programme>
@@ -1091,6 +2457,1843 @@
     <star-rating system="MX">
       <value>6.0</value>
     </star-rating>
+  </programme>
+  
+  <programme start="20260615003000 -0500" stop="20260615024800 -0500" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">El Planeta de los Simios: Confrontación</title>
+    <desc lang="es">Una nación de simios genéticamente evolucionados una década atrás crece día a día liderados por César (Andy Serkis), amenazados por una banda de humanos que sobrevivieron al devastador virus desencadenado años atrás.Los hombres y simios piden paz, pero esta no dura lo suficiente, ahora ambos bandos se enfrentaran para ver quien será la especie dominante de la tierra.</desc>
+    <credits>
+      <director>Matt Reeves</director>
+      <actor>Andy Serkis</actor>
+      <actor>Gary Oldman</actor>
+      <actor>Jason Clarke</actor>
+      <actor>Kodi Smit-McPhee</actor>
+      <actor>Keri Russell</actor>
+      <producer>Peter Chernin</producer>
+      <producer>Dylan Clark</producer>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Acción</category>
+    <category lang="es">Drama</category>
+    <category lang="es">Ciencia Ficción</category>
+    <category lang="es">Suspenso</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/el_planeta_de_los_simios_confrontacion.jpg" />
+  </programme>
+  
+  <programme start="20260615024800 -0500" stop="20260615051000 -0500" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">El Infiltrado del KKKlan</title>
+    <desc lang="es">La increíble y verdadera historia de un héroe americano. A principios de la década de 1970, y Ron Stallworth (John David Washington) es el primer detective afroamericano en servir al Departamento de Policía de Colorado Springs. Decidido a hacerse de un nombre, Stallworth se embarca valientemente en una misión peligrosa: Infiltrarse y exponer al Ku Klux Klan. El joven detective pronto recluta a un colega más experimentado, Flip Zimmerman (Adam Driver), en la investigación secreta de su vida. Juntos, se unen para derrotar al grupo extremista de odio mientras la organización busca desinfectar su retórica violenta para atraer la corriente popular.</desc>
+    <credits>
+      <director>Spike Lee</director>
+      <actor>John David Washington</actor>
+      <actor>Adam Driver</actor>
+      <actor>Laura Harrier</actor>
+      <actor>Topher Grace</actor>
+      <actor>Corey Hawkins</actor>
+      <actor>Jasper Pääkkönen</actor>
+      <actor>Paul Walter Hauser</actor>
+      <actor>Ryan Eggold</actor>
+      <producer>Jason Blum</producer>
+      <producer>Spike Lee</producer>
+      <composer>Terence Blanchard</composer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Biografía</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Crimen</category>
+    <category lang="es">Drama</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/el_infiltrado_del_kkklan.jpg" />
+    <rating system="MX">
+      <value>PG-13</value>
+    </rating>
+    <star-rating system="MX">
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  
+  <programme start="20260615051000 -0500" stop="20260615070000 -0500" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">Hasta que el Cuerpo Aguante</title>
+    <desc lang="es">Cinco amigas de la universidad, Jess (Scarlett Johansson), Pippa (Kate McKinnon), Alice (Jillian Bell), Frankie (Ilana Glazer) y Blair (Zoë Kravitz), se reúnen después de 10 años para tener un fin de semana salvaje en una despedida de soltera en Miami. Su ruda fiesta da un giro inesperado y accidentado cuando matan a un stripper masculino. En medio de la locura mientras tratan de encubrir la escena del crimen, finalmente hace que unan cuando más lo necesitan.</desc>
+    <credits>
+      <director>Lucia Aniello</director>
+      <actor>Scarlett Johansson</actor>
+      <actor>Kate McKinnon</actor>
+      <actor>Jillian Bell</actor>
+      <actor>Ilana Glazer</actor>
+      <actor>Zoë Kravitz</actor>
+      <actor>Paul W. Downs</actor>
+      <producer>Matthew Tolmach</producer>
+      <producer>Lucia Aniello</producer>
+      <composer>Skrillex</composer>
+      <composer>Cliff Martinez</composer>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Comedia</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/hasta_que_el_cuerpo_aguante.jpg" />
+    <star-rating system="MX">
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  
+  <programme start="20260615070000 -0500" stop="20260615090100 -0500" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">Jack El Cazagigantes</title>
+    <desc lang="es">(Jack the Giant Slayer) Un joven granjero llamado Jack (Nicholas Hoult) sin darse cuenta, abre una puerta de una raza de gigantes. Estas criaturas gigantescas quieren apoderarse de la tierra la cual una vez perdieron. Jack no solo deberá enfrentar a estos gigantes sino también rescatar a una princesa de la tierra de estas inmensas criaturas.</desc>
+    <credits>
+      <director>Bryan Singer</director>
+      <actor>Nicholas Hoult</actor>
+      <actor>Eleanor Tomlinson</actor>
+      <actor>Stanley Tucci</actor>
+      <actor>Ian McShane</actor>
+      <producer>Neal H. Moritz</producer>
+      <producer>David Dobkin</producer>
+      <composer>John Ottman</composer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Aventura</category>
+    <category lang="es">Fantasía</category>
+    <category lang="es">Drama</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/jack_el_cazagigantes.jpg" />
+    <rating system="MX">
+      <value>PG-13</value>
+    </rating>
+    <star-rating system="MX">
+      <value>7.0</value>
+    </star-rating>
+  </programme>
+  
+  <programme start="20260615090100 -0500" stop="20260615114600 -0500" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">2012</title>
+    <desc lang="es">Un equipo de geólogos investigan los efectos que se presentan en la tierra debido a las tormentas solares provenientes del sol. Entre ellos el Dr. Adrian Hemsley (Chiwetel Ejiofor), descubre es que el centro de la tierra se está calentando y alerta al presidente de los Estados Unidos indicándole que la corteza de la tierra se está volviendo inestable y que no hay tiempo para salvar a tierra de la extinción. Mientras tanto el escritor Jackson Curtis (John Cusack) descubre por sus propios medios que la tierra está cambiando y que debe encontrar la manera de alertar y salvar a su familia de la catástrofe mundial que se aproxima.</desc>
+    <credits>
+      <director>Roland Emmerich</director>
+      <actor>John Cusack</actor>
+      <actor>Chiwetel Ejiofor</actor>
+      <actor>Amanda Peet</actor>
+      <actor>Oliver Platt</actor>
+      <actor>Thandie Newton</actor>
+      <actor>Danny Glover</actor>
+      <actor>Woody Harrelson</actor>
+      <producer>Harald Kloser</producer>
+      <producer>Mark Gordon</producer>
+      <composer>Harald Kloser</composer>
+      <composer>Thomas Wander</composer>
+    </credits>
+    <date>2009</date>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/2012.jpg" />
+    <rating system="MX">
+      <value>PG-13</value>
+    </rating>
+    <star-rating system="MX">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  
+  <programme start="20260615114600 -0500" stop="20260615142600 -0500" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">Batman: El caballero de la noche</title>
+  </programme>
+  
+  <programme start="20260615142600 -0500" stop="20260615170800 -0500" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">Duna</title>
+  </programme>
+  
+  <programme start="20260615170800 -0500" stop="20260615192200 -0500" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">¡La novia!</title>
+  </programme>
+  
+  <programme start="20260615192200 -0500" stop="20260615220000 -0500" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">Mujer Maravilla 1984</title>
+    <desc lang="es">Sinopsis no disponible.</desc>
+    <credits>
+      <director>Patty Jenkins</director>
+      <actor>Gal Gadot</actor>
+      <actor>Chris Pine</actor>
+      <actor>Kristen Wiig</actor>
+      <actor>Pedro Pascal</actor>
+      <actor>Robin Wright</actor>
+      <actor>Connie Nielsen</actor>
+      <producer>Charles Roven</producer>
+      <producer>Deborah Snyder</producer>
+      <composer>Hans Zimmer</composer>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventura</category>
+    <category lang="es">Fantasía</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/mujer_maravilla_1984.jpg" />
+    <rating system="MX">
+      <value>PG-13</value>
+    </rating>
+    <star-rating system="MX">
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  
+  <programme start="20260615220000 -0500" stop="20260615230000 -0500" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">El culto de los bellos</title>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  
+  <programme start="20260615230000 -0500" stop="20260616003700 -0500" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">Inmaculada</title>
+  </programme>
+  
+  <programme start="20260616003700 -0500" stop="20260616012200 -0500" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">Last Week Tonight With John Oliver</title>
+    <episode-num system="onscreen">S13 E15</episode-num>
+  </programme>
+  
+  <programme start="20260616012200 -0500" stop="20260616035000 -0500" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">The Substance</title>
+  </programme>
+  
+  <programme start="20260616035000 -0500" stop="20260616052500 -0500" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">No respires</title>
+  </programme>
+  
+  <programme start="20260616052500 -0500" stop="20260616070000 -0500" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">Mentiroso mentiroso</title>
+  </programme>
+  
+  <programme start="20260616070000 -0500" stop="20260616085200 -0500" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">El maestro luchador</title>
+  </programme>
+  
+  <programme start="20260616085200 -0500" stop="20260616104400 -0500" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">Soldado de élite</title>
+  </programme>
+  
+  <programme start="20260616104400 -0500" stop="20260616112900 -0500" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">Last Week Tonight With John Oliver</title>
+    <episode-num system="onscreen">S13 E15</episode-num>
+  </programme>
+  
+  <programme start="20260616112900 -0500" stop="20260616134700 -0500" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">Harry Potter y las reliquias de la muerte 2</title>
+  </programme>
+  
+  <programme start="20260616134700 -0500" stop="20260616160900 -0500" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">Jurassic World: Renace</title>
+    <desc lang="es">Cinco años después de los eventos de Jurassic World: Dominio, la ecología del planeta se ha vuelto en gran medida inhóspita para los dinosaurios. Los que quedan viven en entornos ecuatoriales aislados, con climas similares al que alguna vez habitaron. Las tres criaturas más colosales de la tierra, el mar y el aire dentro de esa biosfera tropical albergan, en su ADN, la clave de un fármaco que traerá beneficios milagrosos que salvarán la vida de la humanidad.</desc>
+    <credits>
+      <director>Gareth Edwards</director>
+      <actor>Scarlett Johansson</actor>
+      <actor>Mahershala Ali</actor>
+      <actor>Jonathan Bailey</actor>
+      <actor>Rupert Friend</actor>
+      <actor>Manuel García-Rulfo</actor>
+      <actor>Luna Blaise</actor>
+      <actor>David Iacono</actor>
+      <actor>Audrina Miranda</actor>
+      <producer>Frank Marshall</producer>
+      <producer>Patrick Crowley</producer>
+      <composer>Alexandre Desplat</composer>
+    </credits>
+    <date>2025</date>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventura</category>
+    <category lang="es">Ciencia Ficción</category>
+    <category lang="es">Suspenso</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/jurassic_world_renace.jpg" />
+    <rating system="MX">
+      <value>PG-13</value>
+    </rating>
+    <star-rating system="MX">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  
+  <programme start="20260616160900 -0500" stop="20260616181900 -0500" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">Everest</title>
+  </programme>
+  
+  <programme start="20260616181900 -0500" stop="20260616203800 -0500" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">El robo perfecto Pantera</title>
+  </programme>
+  
+  <programme start="20260616203800 -0500" stop="20260616230000 -0500" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">Jurassic World: Renace</title>
+    <desc lang="es">Cinco años después de los eventos de Jurassic World: Dominio, la ecología del planeta se ha vuelto en gran medida inhóspita para los dinosaurios. Los que quedan viven en entornos ecuatoriales aislados, con climas similares al que alguna vez habitaron. Las tres criaturas más colosales de la tierra, el mar y el aire dentro de esa biosfera tropical albergan, en su ADN, la clave de un fármaco que traerá beneficios milagrosos que salvarán la vida de la humanidad.</desc>
+    <credits>
+      <director>Gareth Edwards</director>
+      <actor>Scarlett Johansson</actor>
+      <actor>Mahershala Ali</actor>
+      <actor>Jonathan Bailey</actor>
+      <actor>Rupert Friend</actor>
+      <actor>Manuel García-Rulfo</actor>
+      <actor>Luna Blaise</actor>
+      <actor>David Iacono</actor>
+      <actor>Audrina Miranda</actor>
+      <producer>Frank Marshall</producer>
+      <producer>Patrick Crowley</producer>
+      <composer>Alexandre Desplat</composer>
+    </credits>
+    <date>2025</date>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventura</category>
+    <category lang="es">Ciencia Ficción</category>
+    <category lang="es">Suspenso</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/jurassic_world_renace.jpg" />
+    <rating system="MX">
+      <value>PG-13</value>
+    </rating>
+    <star-rating system="MX">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  
+  <programme start="20260616230000 -0500" stop="20260617011600 -0500" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">La Hora de la Desaparición</title>
+    <desc lang="es">Cuando todos los niños de la misma clase, menos uno, desaparecen misteriosamente la misma noche, exactamente a la misma hora, una comunidad se pregunta quién o qué está detrás de su desaparición.</desc>
+    <credits>
+      <director>Zach Cregger</director>
+      <actor>Josh Broli</actor>
+      <actor>Julia Garner</actor>
+      <actor>Alden Ehrenreich</actor>
+      <actor>Austin Abrams</actor>
+      <actor>Cary Christopher</actor>
+      <actor>Benedict Wong</actor>
+      <actor>Amy Madigan</actor>
+      <actor>June Diane Raphael</actor>
+      <producer>Roy Lee</producer>
+      <producer>Zach Cregger</producer>
+      <composer>Ryan Holladay</composer>
+      <composer>Hays Holladay</composer>
+    </credits>
+    <date>2025</date>
+    <category lang="es">Terror</category>
+    <category lang="es">Misterio</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/la_hora_de_la_desaparicion.jpg" />
+    <rating system="MX">
+      <value>R</value>
+    </rating>
+    <star-rating system="MX">
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  
+  <programme start="20260617011600 -0500" stop="20260617025800 -0500" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">Película</title>
+  </programme>
+  
+  <programme start="20260617025800 -0500" stop="20260617045200 -0500" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">Terminator: La Salvación</title>
+    <desc lang="es">En el año 2003 un convicto y sentenciado a muerte llamado Marcus Wright (Sam Worthington) firma la donación de su cuerpo luego de ser ejecutado para que sea utilizado por la ciencia. Han pasado 15 años desde la sentencia y ahora luego de una larga espera Marcus despierta y mientras escapa de las máquinas logra rescatar a un adolescente llamado Kyle Reese (Anton Yelchin) y una niña quienes le dicen que deben buscar a John Coonor (Christian Bale) quien lidera la grupo de hombres que pelea contra las máquinas.</desc>
+    <credits>
+      <director>Joseph McGinty "McG" Nichol</director>
+      <actor>Christian Bale</actor>
+      <actor>Sam Worthington</actor>
+      <producer>Derek Anderson</producer>
+      <producer>Moritz Borman</producer>
+      <composer>Danny Elfman</composer>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Acción</category>
+    <category lang="es">Drama</category>
+    <category lang="es">Ciencia Ficción</category>
+    <category lang="es">Suspenso</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/terminator_la_salvacion.jpg" />
+    <country lang="es">Estados Unidos</country>
+    <rating system="MX">
+      <value>PG-13</value>
+    </rating>
+    <star-rating system="MX">
+      <value>7.0</value>
+    </star-rating>
+  </programme>
+  
+  <programme start="20260617045200 -0500" stop="20260617055200 -0500" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">El culto de los bellos</title>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  
+  <programme start="20260617055200 -0500" stop="20260617070000 -0500" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">Seth Meyers: Vida de Padre</title>
+  </programme>
+  
+  <programme start="20260617070000 -0500" stop="20260617083800 -0500" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">Mi novia Polly</title>
+  </programme>
+  
+  <programme start="20260617083800 -0500" stop="20260617101700 -0500" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">Atrapados en lo profundo</title>
+  </programme>
+  
+  <programme start="20260617101700 -0500" stop="20260617123300 -0500" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">Superman</title>
+  </programme>
+  
+  <programme start="20260617123300 -0500" stop="20260617170300 -0500" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">El Señor de los Anillos: El Retorno del Rey</title>
+    <desc lang="es">“Un anillo que gobierna a todos, un anillo para encontrarlos, un anillo para llevarlos a todos y unirlos en la oscuridad” – J. R. R. Tolkien, El Señor de los Anillos – En la conclusión de la obra maestra de J. R. R. Tolkien, El Señor de los Anillos, mientras los ejércitos se enfrentan en una batalla final que decidirá el destino del mundo – y poderosas, fuerzas antiguas de Luz y Oscuridad compiten para determinar lo que se avecina – un miembro de la Comunidad del Anillo es revelado como el noble heredero al trono de los Reyes de los Hombres. Sin embargo, la única esperanza para triunfar sobre el mal depende de un valiente Hobbit, Frodo Baggins (Elijah Wood), quien junto a su amigo leal Sam (Sean Astin) y el miserable Gollum (Andy Serkis), se aventuran dentro del corazón oscuro de Mordor en la prácticamente imposible tarea de destruir el Anillo de Poder.</desc>
+    <credits>
+      <director>Peter Jackson</director>
+      <actor>Elijah Wood</actor>
+      <actor>Ian McKellen</actor>
+      <actor>Liv Tyler</actor>
+      <actor>Viggo Mortensen</actor>
+      <actor>Sean Astin</actor>
+      <actor>Cate Blanchett</actor>
+      <actor>John Rhys-Davies</actor>
+      <actor>Bernard Hill</actor>
+      <producer>Barrie M. Osborne</producer>
+      <producer>Fran Walsh</producer>
+      <composer>Howard Shore</composer>
+    </credits>
+    <date>2003</date>
+    <category lang="es">Aventura</category>
+    <category lang="es">Drama</category>
+    <category lang="es">Fantasía</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/el_senor_de_los_anillos_el_retorno_del_rey.jpg" />
+    <country lang="es">Alemania</country>
+    <rating system="MX">
+      <value>PG-13</value>
+    </rating>
+    <star-rating system="MX">
+      <value>9.0</value>
+    </star-rating>
+  </programme>
+  
+  <programme start="20260617170300 -0500" stop="20260617185300 -0500" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">Annabelle 3: Viene a Casa</title>
+    <desc lang="es">Decididos a evitar que Annabelle cause más estragos, los demonólogos Ed (Patrick Wilson) y Lorraine Warren (Vera Farmiga) llevan a la muñeca poseída a la habitación cerrada con artefactos en su casa, colocándola "a salvo" detrás de un vidrio sagrado y alistando la bendición santa de un sacerdote. Pero una noche profana de horror aguarda a que Annabelle despierte a los espíritus malignos en la habitación, quienes se fijan en un nuevo objetivo: la hija de diez años de los Warrens, Judy (Mckenna Grace) y sus amigas.</desc>
+    <credits>
+      <director>Gary Dauberman</director>
+      <actor>Mckenna Grace</actor>
+      <actor>Madison Iseman</actor>
+      <actor>Katie Sarife</actor>
+      <actor>Patrick Wilson</actor>
+      <actor>Vera Farmiga</actor>
+      <producer>James Wan</producer>
+      <producer>Peter Safran</producer>
+      <composer>Joseph Bishara</composer>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Terror</category>
+    <category lang="es">Misterio</category>
+    <category lang="es">Suspenso</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/annabelle_3_viene_a_casa.jpg" />
+    <rating system="MX">
+      <value>R</value>
+    </rating>
+    <star-rating system="MX">
+      <value>7.0</value>
+    </star-rating>
+  </programme>
+  
+  <programme start="20260617185300 -0500" stop="20260617211000 -0500" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">Superman</title>
+  </programme>
+  
+  <programme start="20260617211000 -0500" stop="20260617230000 -0500" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">Robot salvaje</title>
+  </programme>
+  
+  <programme start="20260617230000 -0500" stop="20260618011300 -0500" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">Aquaman y el Reino Perdido</title>
+    <desc lang="es">Al no poder derrotar a Aquaman (Jason Momoa) la primera vez, Black Manta (Yahya Abdul-Mateen II), todavía impulsado por la necesidad de vengar la muerte de su padre, no se detendrá ante nada para acabar con Aquaman de una vez por todas. Esta vez Black Manta es más formidable que nunca y ejerce el poder del mítico Tridente Negro, que desata una fuerza antigua y malévola. Para derrotarlo, Aquaman recurrirá a su hermano encarcelado Orm (Patrick Wilson), el ex rey de la Atlántida, para forjar una alianza improbable. Juntos, deben dejar de lado sus diferencias para proteger su reino y salvar a la familia de Aquaman y al mundo de una destrucción irreversible.</desc>
+    <credits>
+      <director>James Wan</director>
+      <actor>Jason Momoa</actor>
+      <actor>Patrick Wilson</actor>
+      <actor>Amber Heard</actor>
+      <actor>Yahya Abdul-Mateen II</actor>
+      <actor>Nicole Kidman</actor>
+      <producer>Peter Safran</producer>
+      <producer>James Wan</producer>
+      <composer>Rupert Gregson-Williams</composer>
+    </credits>
+    <date>2023</date>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventura</category>
+    <category lang="es">Fantasía</category>
+    <category lang="es">Ciencia Ficción</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/aquaman_y_el_reino_perdido.jpg" />
+    <rating system="MX">
+      <value>PG-13</value>
+    </rating>
+    <star-rating system="MX">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  
+  <programme start="20260618011300 -0500" stop="20260618025700 -0500" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">Him El elegido</title>
+  </programme>
+  
+  <programme start="20260618025700 -0500" stop="20260618044100 -0500" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">El payaso del maizal</title>
+  </programme>
+  
+  <programme start="20260618044100 -0500" stop="20260618070000 -0500" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">La caida de la Casa Blanca</title>
+  </programme>
+  
+  <programme start="20260618070000 -0500" stop="20260618090200 -0500" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">La momia: La tumba del emperador dragón</title>
+  </programme>
+  
+  <programme start="20260618090200 -0500" stop="20260618112000 -0500" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">Moonfall</title>
+  </programme>
+  
+  <programme start="20260618112000 -0500" stop="20260618132800 -0500" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">Liga de la Justicia</title>
+    <desc lang="es">Superman, Batman, la mujer maravilla entre otros súper héroes que unen sus fuerzas para combatir las mayores amenazas.</desc>
+    <credits>
+      <director>Zack Snyder</director>
+      <actor>Henry Cavill</actor>
+      <actor>Ben Affleck</actor>
+      <actor>Gal Gadot</actor>
+      <actor>Ezra Miller</actor>
+      <actor>Ray Fisher</actor>
+      <actor>Jason Momoa</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventura</category>
+    <category lang="es">Fantasía</category>
+    <category lang="es">Ciencia Ficción</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/la_liga_de_la_justicia.jpg" />
+    <rating system="MX">
+      <value>PG-13</value>
+    </rating>
+    <star-rating system="MX">
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  
+  <programme start="20260618132800 -0500" stop="20260618154000 -0500" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">Cómo Entrenar a tu Dragón</title>
+    <desc lang="es">En un mítico mundo Vikingo donde un joven adolescente aspira a seguir la tradición de la tribu de convertirse en mata dragones. Cuando finalmente captura su primer dragón, y su oportunidad de ser por fin aceptado por su tribu, descubre que ya no desea matar a los dragones si no que ahora prefiere ser amigo de ellos.</desc>
+    <credits>
+      <director>Chris Sanders</director>
+      <director>Dean DeBlois</director>
+      <actor>Jay Baruchel</actor>
+      <actor>Gerard Butler</actor>
+      <actor>Craig Ferguson</actor>
+      <actor>America Ferrera</actor>
+      <actor>Jonah Hill</actor>
+      <actor>Christopher Mintz-Plasse</actor>
+      <actor>T.J. Miller</actor>
+      <actor>Kristen Wiig</actor>
+      <producer>Bonnie Arnold</producer>
+    </credits>
+    <date>2010</date>
+    <category lang="es">Aventura</category>
+    <category lang="es">Animación</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Drama</category>
+    <category lang="es">Familia</category>
+    <category lang="es">Fantasía</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/como_entrenar_a_tu_dragon.jpg" />
+    <rating system="MX">
+      <value>PG</value>
+    </rating>
+    <star-rating system="MX">
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  
+  <programme start="20260618154000 -0500" stop="20260618164000 -0500" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">El culto de los bellos</title>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  
+  <programme start="20260618164000 -0500" stop="20260618184700 -0500" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">Jumanji: En la Selva</title>
+    <desc lang="es">En la nueva aventura de Jumanji: Bienvenidos a la Selva, la mesa toca su turno en cuatro adolescentes que han sido castigados y son aspirados en el mundo de Jumanji. Cuando descubren una vieja consola de videojuegos con un juego que nunca han oído hablar, son inmediatamente empujados en la selva del juego, en los cuerpos de los avatares. Dr. Smolder (Dwayne Johnson), Profesor Shelly Oberón (Jack Black), Franklin "Moose" Findar (Jack Black) y Ruby Roundhose (Karen Gillan). Lo que descubren es que si no juegas Jumanji – Jumanji juega contigo. Ellos tendrán que ir en la aventura más peligrosa de sus vidas, o se quedaran atascados en el juego para siempre….</desc>
+    <credits>
+      <director>Jake Kasdan</director>
+      <actor>Dwayne Johnson</actor>
+      <actor>Jack Black</actor>
+      <actor>Kevin Hart</actor>
+      <actor>Karen Gillan</actor>
+      <actor>Nick Jonas</actor>
+      <actor>Alex Wolff</actor>
+      <actor>Madison Iseman</actor>
+      <actor>Ser'Darius Blain</actor>
+      <producer>Ted Field</producer>
+      <producer>William Teitler</producer>
+      <composer>Henry Jackman</composer>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventura</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Fantasía</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/jumanji_en_la_selva.jpg" />
+    <rating system="MX">
+      <value>PG-13</value>
+    </rating>
+    <star-rating system="MX">
+      <value>7.0</value>
+    </star-rating>
+  </programme>
+  
+  <programme start="20260618184700 -0500" stop="20260618204700 -0500" channel="Canal.HBO.(Argentina).ar">
+    <title lang="es">Terremoto: La falla de San Andrés</title>
+  </programme>
+  
+  <programme start="20260615001300 -0500" stop="20260615025600 -0500" channel="Canal.HBO.Family.Latinoamérica.ar">
+    <title lang="es">H.Potter y la cámara secreta</title>
+  </programme>
+  
+  <programme start="20260615025600 -0500" stop="20260615032500 -0500" channel="Canal.HBO.Family.Latinoamérica.ar">
+    <title lang="es">En busca de Harry</title>
+  </programme>
+  
+  <programme start="20260615032500 -0500" stop="20260615050900 -0500" channel="Canal.HBO.Family.Latinoamérica.ar">
+    <title lang="es">Cómo Entrenar a tu Dragón 2</title>
+    <desc lang="es">Han pasado 5 años desde que Hipo y Chimuelo han creado en la isla de Berk una unión fuerte entre dragones y Vikingos. Mientras Astrid, Patán y el resto del grupo compiten en las carreras de dragones – nuevo deporte de la isla – llegan a una caverna secreta en el hielo, hogar de cientos de dragones comandados por el Jinete del Dragón. Ahora los dos nuevos grupos deberán enfrentar al nuevo enemigo que planea con tomar el poder de todos los dragones.</desc>
+    <credits>
+      <director>Dean DeBlois</director>
+      <actor>Jay Baruchel</actor>
+      <actor>Cate Blanchett</actor>
+      <actor>Gerard Butler</actor>
+      <actor>Djimon Hounsou</actor>
+      <actor>America Ferrera</actor>
+      <producer>Bonnie Arnold</producer>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Animación</category>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventura</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Familia</category>
+    <category lang="es">Fantasía</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/como_entrenar_a_tu_dragon_2.jpg" />
+    <rating system="MX">
+      <value>PG</value>
+    </rating>
+    <star-rating system="MX">
+      <value>9.0</value>
+    </star-rating>
+  </programme>
+  
+  <programme start="20260615050900 -0500" stop="20260615070000 -0500" channel="Canal.HBO.Family.Latinoamérica.ar">
+    <title lang="es">Sing: ¡Ven y Canta!</title>
+    <desc lang="es">Buster Moon (Matthew McConaughey) un empresario que para salvar el teatro decide crear un evento musical para recuperar la gloria de su teatro. Buster ama su teatro y hará cualquier cosa para preservarlo, ahora tiene una última oportunidad para restaurar su joya a su antigua plenitud al producir una competencia de canto que jamás haya visto el mundo.</desc>
+    <credits>
+      <director>Garth Jennings</director>
+      <actor>Scarlett Johansson</actor>
+      <actor>Taron Egerton</actor>
+      <actor>Matthew McConaughey</actor>
+      <actor>Reese Witherspoon</actor>
+      <actor>Nick Offerman</actor>
+      <actor>Nick Kroll</actor>
+      <actor>Peter Serafinowicz</actor>
+      <actor>Seth MacFarlane</actor>
+      <producer>Chris Meledandri</producer>
+      <producer>Janet Healy</producer>
+      <composer>Joby Talbot</composer>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Animación</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Musical</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/sing_ven_y_canta.jpg" />
+    <rating system="MX">
+      <value>PG</value>
+    </rating>
+    <star-rating system="MX">
+      <value>7.0</value>
+    </star-rating>
+  </programme>
+  
+  <programme start="20260615070000 -0500" stop="20260615082300 -0500" channel="Canal.HBO.Family.Latinoamérica.ar">
+    <title lang="es">Las Chicas Superpoderosas</title>
+  </programme>
+  
+  <programme start="20260615082300 -0500" stop="20260615095100 -0500" channel="Canal.HBO.Family.Latinoamérica.ar">
+    <title lang="es">Cigüeñas</title>
+  </programme>
+  
+  <programme start="20260615095100 -0500" stop="20260615113900 -0500" channel="Canal.HBO.Family.Latinoamérica.ar">
+    <title lang="es">DC Liga de Súpermascotas</title>
+    <desc lang="es">En DC Liga de Súpermascotas, Krypto el super perro (Dwayne Johnson) y Superman (John Krasinski) son mejores amigos inseparables que comparten los mismos superpoderes y luchan juntos contra el crimen en Metrópolis lado a lado. Cuando Superman y el resto de la Liga de la Justicia son secuestrados, Krypto debe convencer a una banda de animales – Ace el sabueso (Kevin Hart), PB la mini cerda (Vanessa Bayer), Merton la Tortuga (Natasha Lyonne) y Chip la ardilla (Diego Luna) – a dominar sus propios poderes recién descubiertos y ayudarlo a rescatar a los superhéroes.</desc>
+    <credits>
+      <director>Jared Stern</director>
+      <actor>Dwayne Johnson</actor>
+      <actor>Kevin Hart</actor>
+      <actor>Kate McKinnon</actor>
+      <actor>John Krasinski</actor>
+      <actor>Vanessa Bayer</actor>
+      <actor>Natasha Lyonne</actor>
+      <actor>Diego Luna</actor>
+      <actor>Thomas Middleditch</actor>
+      <producer>Patricia Hicks</producer>
+      <producer>Dwayne Johnson</producer>
+      <composer>Steve Jablonsky</composer>
+    </credits>
+    <date>2022</date>
+    <category lang="es">Animación</category>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventura</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Crimen</category>
+    <category lang="es">Familia</category>
+    <category lang="es">Ciencia Ficción</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/dc_liga_de_supermascotas.jpg" />
+    <rating system="MX">
+      <value>PG</value>
+    </rating>
+    <star-rating system="MX">
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  
+  <programme start="20260615113900 -0500" stop="20260615132800 -0500" channel="Canal.HBO.Family.Latinoamérica.ar">
+    <title lang="es">Paddington Aventura en</title>
+  </programme>
+  
+  <programme start="20260615132800 -0500" stop="20260615150900 -0500" channel="Canal.HBO.Family.Latinoamérica.ar">
+    <title lang="es">La casa de muñecas de Gabby</title>
+  </programme>
+  
+  <programme start="20260615150900 -0500" stop="20260615163800 -0500" channel="Canal.HBO.Family.Latinoamérica.ar">
+    <title lang="es">La vida secreta</title>
+  </programme>
+  
+  <programme start="20260615163800 -0500" stop="20260615182500 -0500" channel="Canal.HBO.Family.Latinoamérica.ar">
+    <title lang="es">Cómo Entrenar a tu Dragón 3</title>
+    <desc lang="es">Lo que comenzó con una insólita amistad entre un adolescente vikingo y un temible dragón Furia Nocturna, se ha convertido en una trilogía legendaria que abarca sus vidas. Hipo (Jay Baruchel) y Chimuelo finalmente descubrirán sus verdaderos destinos: ser el jefe del pueblo y gobernante de Berk a lado de Astrid (América Ferrera) y chimuelo ser el dragón líder de su propia especie. Como ambos ascienden, la amenaza más oscura que han enfrentado, así como la aparición de una furia luminosa, pondrá a prueba los lazos de su relación como nunca antes.</desc>
+    <credits>
+      <director>Dean DeBlois</director>
+      <actor>Jay Baruchel</actor>
+      <actor>Cate Blanchett</actor>
+      <actor>Jonah Hill</actor>
+      <actor>T.J. Miller</actor>
+      <actor>Kristen Wiig</actor>
+      <actor>Kit Harington</actor>
+      <actor>America Ferrera</actor>
+      <actor>Christopher Mintz-Plasse</actor>
+      <producer>Bonnie Arnold</producer>
+      <producer>Brad Lewis</producer>
+      <composer>John Powell</composer>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Animación</category>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventura</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Fantasía</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/como_entrenar_a_tu_dragon_3.jpg" />
+    <rating system="MX">
+      <value>PG</value>
+    </rating>
+    <star-rating system="MX">
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  
+  <programme start="20260615182500 -0500" stop="20260615200000 -0500" channel="Canal.HBO.Family.Latinoamérica.ar">
+    <title lang="es">Shrek 2</title>
+    <desc lang="es">Cuando todo parecía estar muy feliz en la tierra de muy muy lejano cuando en un viaje para conocer a los suegros se convierte en una alocada aventura para Shrek (Mike Myers) y Fiona (Cameron Diaz). Con la ayuda de su buen amigo el Burro (Eddie Murphy), Shrek se aventura contra la hada madrina, el príncipe encantador (Rupert Everett) y el mata ogros, El gato con botas (Antonio Banderas) quien en realidad es un lindo gatito.</desc>
+    <credits>
+      <director>Andrew Adamson</director>
+      <director>Kelly Asbury</director>
+      <actor>Mike Myers</actor>
+      <actor>Eddie Murphy</actor>
+      <actor>Cameron Diaz</actor>
+      <actor>Julie Andrews</actor>
+      <actor>Antonio Banderas</actor>
+      <actor>John Cleese</actor>
+      <actor>Rupert Everett</actor>
+      <actor>Jennifer Saunders</actor>
+      <producer>Aron Warner</producer>
+      <producer>John H. Williams</producer>
+      <composer>Harry Gregson-Williams</composer>
+    </credits>
+    <date>2004</date>
+    <category lang="es">Animación</category>
+    <category lang="es">Aventura</category>
+    <category lang="es">Comedia</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/shrek_2.jpg" />
+    <rating system="MX">
+      <value>PG</value>
+    </rating>
+    <star-rating system="MX">
+      <value>7.0</value>
+    </star-rating>
+  </programme>
+  
+  <programme start="20260615200000 -0500" stop="20260615221300 -0500" channel="Canal.HBO.Family.Latinoamérica.ar">
+    <title lang="es">Shazam! Fury of the Gods</title>
+    <desc lang="es">La película continua la historia del adolescente Billy Batson (Asher Angel) quien, al recitar la palabra mágica "¡SHAZAM!" (Zachary Levi) se transforma en su alter ego adulto de superhéroe, Shazam.</desc>
+    <credits>
+      <director>David F. Sandberg</director>
+      <actor>Zachary Levi</actor>
+      <actor>Asher Angel</actor>
+      <actor>Jack Dylan Grazer</actor>
+      <actor>Ian Chen</actor>
+      <actor>Faithe Herman</actor>
+      <actor>Jovan Armand</actor>
+      <actor>Grace Caroline Currey</actor>
+      <actor>Adam Brody</actor>
+      <producer>Peter Safran</producer>
+      <composer>Christophe Beck</composer>
+    </credits>
+    <date>2023</date>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventura</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Crimen</category>
+    <category lang="es">Fantasía</category>
+    <category lang="es">Suspenso</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/shazam_la_furia_de_los_dioses.jpg" />
+    <rating system="MX">
+      <value>PG-13</value>
+    </rating>
+    <star-rating system="MX">
+      <value>7.0</value>
+    </star-rating>
+  </programme>
+  
+  <programme start="20260615221300 -0500" stop="20260616000900 -0500" channel="Canal.HBO.Family.Latinoamérica.ar">
+    <title lang="es">Barbie</title>
+  </programme>
+  
+  <programme start="20260616000900 -0500" stop="20260616023400 -0500" channel="Canal.HBO.Family.Latinoamérica.ar">
+    <title lang="es">Animales Fantásticos 3</title>
+  </programme>
+  
+  <programme start="20260616023400 -0500" stop="20260616035300 -0500" channel="Canal.HBO.Family.Latinoamérica.ar">
+    <title lang="es">El cadáver de la novia</title>
+  </programme>
+  
+  <programme start="20260616035300 -0500" stop="20260616052000 -0500" channel="Canal.HBO.Family.Latinoamérica.ar">
+    <title lang="es">Reyes de las olas</title>
+  </programme>
+  
+  <programme start="20260616052000 -0500" stop="20260616070000 -0500" channel="Canal.HBO.Family.Latinoamérica.ar">
+    <title lang="es">La casa de muñecas de Gabby</title>
+  </programme>
+  
+  <programme start="20260616070000 -0500" stop="20260616083100 -0500" channel="Canal.HBO.Family.Latinoamérica.ar">
+    <title lang="es">Las Aventuras del Capitán</title>
+  </programme>
+  
+  <programme start="20260616083100 -0500" stop="20260616100100 -0500" channel="Canal.HBO.Family.Latinoamérica.ar">
+    <title lang="es">Zoom y los superhéroes</title>
+  </programme>
+  
+  <programme start="20260616100100 -0500" stop="20260616113700 -0500" channel="Canal.HBO.Family.Latinoamérica.ar">
+    <title lang="es">Kung Fu Panda 3</title>
+    <desc lang="es">Po (Jack Black) conoce a su padre biológico y viaja con él al sagrario secreto de los pandas donde para sorpresa de él, llega a un lugar donde no se siente como en casa. En ese lugar Po conoce a Mei Mei (Kate Hudson), una panda muy ansiosa, que ha sido ofrecida a Po a través de un matrimonio que fue arreglado cuando ellos eran pequeños. Para empeorar las cosas, un espíritu maligno llamado Kai (J. K. Simmons) que tras haber derrotado a los maestros del Kung Fu aterroriza la China. Ahora la única esperanza del país es Po y para ello deberá entrenar y convertir a su pueblo de Pandas en una banda de Kung Fu Pandas.</desc>
+    <credits>
+      <director>Jennifer Yuh Nelson</director>
+      <director>Alessandro Carloni</director>
+      <actor>Jack Black</actor>
+      <actor>Angelina Jolie</actor>
+      <actor>Dustin Hoffman</actor>
+      <actor>Jackie Chan</actor>
+      <actor>Seth Rogen</actor>
+      <actor>Lucy Liu</actor>
+      <actor>David Cross</actor>
+      <actor>James Hong</actor>
+      <producer>Melissa Cobb</producer>
+      <composer>Hans Zimmer</composer>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Animación</category>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/kung_fu_panda_3.jpg" />
+    <country lang="es">Estados Unidos</country>
+    <rating system="MX">
+      <value>PG</value>
+    </rating>
+    <star-rating system="MX">
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  
+  <programme start="20260616113700 -0500" stop="20260616132100 -0500" channel="Canal.HBO.Family.Latinoamérica.ar">
+    <title lang="es">Cómo Entrenar a tu Dragón 2</title>
+    <desc lang="es">Han pasado 5 años desde que Hipo y Chimuelo han creado en la isla de Berk una unión fuerte entre dragones y Vikingos. Mientras Astrid, Patán y el resto del grupo compiten en las carreras de dragones – nuevo deporte de la isla – llegan a una caverna secreta en el hielo, hogar de cientos de dragones comandados por el Jinete del Dragón. Ahora los dos nuevos grupos deberán enfrentar al nuevo enemigo que planea con tomar el poder de todos los dragones.</desc>
+    <credits>
+      <director>Dean DeBlois</director>
+      <actor>Jay Baruchel</actor>
+      <actor>Cate Blanchett</actor>
+      <actor>Gerard Butler</actor>
+      <actor>Djimon Hounsou</actor>
+      <actor>America Ferrera</actor>
+      <producer>Bonnie Arnold</producer>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Animación</category>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventura</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Familia</category>
+    <category lang="es">Fantasía</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/como_entrenar_a_tu_dragon_2.jpg" />
+    <rating system="MX">
+      <value>PG</value>
+    </rating>
+    <star-rating system="MX">
+      <value>9.0</value>
+    </star-rating>
+  </programme>
+  
+  <programme start="20260616132100 -0500" stop="20260616152000 -0500" channel="Canal.HBO.Family.Latinoamérica.ar">
+    <title lang="es">Wonka</title>
+    <desc lang="es">Basada en el extraordinario personaje de Charlie y la fábrica de chocolate, la joya de la corona de Roald Dahl y uno de los libros infantiles más vendidos de todos los tiempos, "Wonka" cuenta la maravillosa historia de cómo el mayor inventor del mundo, el mago y el chocolatero se convirtió en el querido Willy Wonka que conocemos hoy. Este espectáculo de la pantalla grande irresistiblemente vívido e inventivo presentará al público a un joven Willy Wonka (Timothée Chalamet), repleto de ideas y decidido a cambiar el mundo con un delicioso bocado a la vez – demostrando que las mejores cosas de la vida comienzan con un sueño, y si Tienes la suerte de conocer a Willy Wonka, todo es posible.</desc>
+    <credits>
+      <director>Paul King</director>
+      <actor>Timothée Chalamet</actor>
+      <actor>Calah Lane</actor>
+      <actor>Keegan-Michael Key</actor>
+      <actor>Paterson Joseph</actor>
+      <actor>Matt Lucas</actor>
+      <actor>Mathew Baynton</actor>
+      <actor>Sally Hawkins</actor>
+      <actor>Rowan Atkinson</actor>
+      <producer>David Heyman</producer>
+      <producer>Luke Kelly</producer>
+    </credits>
+    <date>2023</date>
+    <category lang="es">Aventura</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Familia</category>
+    <category lang="es">Fantasía</category>
+    <category lang="es">Música</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/wonka.jpg" />
+    <country lang="es">Estados Unidos</country>
+    <rating system="MX">
+      <value>PG-13</value>
+    </rating>
+    <star-rating system="MX">
+      <value>7.0</value>
+    </star-rating>
+  </programme>
+  
+  <programme start="20260616152000 -0500" stop="20260616165200 -0500" channel="Canal.HBO.Family.Latinoamérica.ar">
+    <title lang="es">El espanta tiburones</title>
+  </programme>
+  
+  <programme start="20260616165200 -0500" stop="20260616182000 -0500" channel="Canal.HBO.Family.Latinoamérica.ar">
+    <title lang="es">Emoji: La Película</title>
+    <desc lang="es">Un mundo secreto nunca antes visto en su teléfono inteligente. Oculto en la aplicación de mensajería se encuentra una ciudad bulliciosa llamada Textopolis donde viven todos sus emojis favoritos, con la esperanza de ser seleccionados por el usuario del teléfono. En este mundo, cada emoji tiene sólo una expresión facial – excepto Gene (T.J. Miller), un emoji exuberante que nació sin filtro y está repleto de múltiples expresiones. Determinado a convertirse en un emoji "normal" como los demás, Gene solicita la ayuda de su mejor amigo Hi-5 (James Corden) y el famoso rompe código la emoji Jailbreak (Anna Faris). Se embarcan en una épica "app-ventura" a través de las aplicaciones en el teléfono, cada una un propio mundo salvaje y divertido, para encontrar el código que pueda arreglar Gene. Pero cuando un peligro mayor amenaza al teléfono, el destino de todos los emojis depende de estos tres improbables amigos que deben salvar su mundo antes de que sea borrado para siempre.</desc>
+    <credits>
+      <director>Tony Leondis</director>
+      <actor>T. J. Miller</actor>
+      <actor>Anna Faris</actor>
+      <actor>James Corden</actor>
+      <actor>Patrick Stewart</actor>
+      <actor>Maya Rudolph</actor>
+      <actor>Steven Wright</actor>
+      <actor>Rob Riggle</actor>
+      <actor>Jennifer Coolidge</actor>
+      <producer>Michelle Raimo Kouyate</producer>
+      <composer>Patrick Doyle</composer>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Animación</category>
+    <category lang="es">Aventura</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/emoji_la_pelicula.jpg" />
+    <rating system="MX">
+      <value>PG</value>
+    </rating>
+    <star-rating system="MX">
+      <value>2.0</value>
+    </star-rating>
+  </programme>
+  
+  <programme start="20260616182000 -0500" stop="20260616200000 -0500" channel="Canal.HBO.Family.Latinoamérica.ar">
+    <title lang="es">Un Amigo Abominable</title>
+    <desc lang="es">Abominable lleva al público a una aventura épica de 2,000 millas desde las calles de una ciudad china a los impresionantes paisajes nevados del himalaya. Cuando la adolescente Yi (Chloe Bennet) se encuentra con un joven Yeti en el techo de su apartamento, ella y sus amigos Jin (Tenzing Norgay Trainor) y Peng (Albert Tsai), lo nombran "Everest" y se embarcan en una búsqueda épica para reunir a la criatura mágica con su familia en el punto más alto de la Tierra.</desc>
+    <credits>
+      <director>Jill Culton</director>
+      <actor>Chloe Bennet</actor>
+      <actor>Albert Tsai</actor>
+      <actor>Tenzing Norgay Trainor</actor>
+      <actor>Eddie Izzard</actor>
+      <actor>Sarah Paulson</actor>
+      <actor>Tsai Chin</actor>
+      <actor>Michelle Wong</actor>
+      <producer>Suzanne Buirgy</producer>
+      <composer>Rupert Gregson-Williams</composer>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Animación</category>
+    <category lang="es">Aventura</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Familia</category>
+    <category lang="es">Fantasía</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/un_amigo_abominable.jpg" />
+    <country lang="es">Estados Unidos</country>
+    <rating system="MX">
+      <value>PG</value>
+    </rating>
+    <star-rating system="MX">
+      <value>7.0</value>
+    </star-rating>
+  </programme>
+  
+  <programme start="20260616200000 -0500" stop="20260616213700 -0500" channel="Canal.HBO.Family.Latinoamérica.ar">
+    <title lang="es">Kung Fu Panda 3</title>
+    <desc lang="es">Po (Jack Black) conoce a su padre biológico y viaja con él al sagrario secreto de los pandas donde para sorpresa de él, llega a un lugar donde no se siente como en casa. En ese lugar Po conoce a Mei Mei (Kate Hudson), una panda muy ansiosa, que ha sido ofrecida a Po a través de un matrimonio que fue arreglado cuando ellos eran pequeños. Para empeorar las cosas, un espíritu maligno llamado Kai (J. K. Simmons) que tras haber derrotado a los maestros del Kung Fu aterroriza la China. Ahora la única esperanza del país es Po y para ello deberá entrenar y convertir a su pueblo de Pandas en una banda de Kung Fu Pandas.</desc>
+    <credits>
+      <director>Jennifer Yuh Nelson</director>
+      <director>Alessandro Carloni</director>
+      <actor>Jack Black</actor>
+      <actor>Angelina Jolie</actor>
+      <actor>Dustin Hoffman</actor>
+      <actor>Jackie Chan</actor>
+      <actor>Seth Rogen</actor>
+      <actor>Lucy Liu</actor>
+      <actor>David Cross</actor>
+      <actor>James Hong</actor>
+      <producer>Melissa Cobb</producer>
+      <composer>Hans Zimmer</composer>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Animación</category>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/kung_fu_panda_3.jpg" />
+    <country lang="es">Estados Unidos</country>
+    <rating system="MX">
+      <value>PG</value>
+    </rating>
+    <star-rating system="MX">
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  
+  <programme start="20260616213700 -0500" stop="20260616235300 -0500" channel="Canal.HBO.Family.Latinoamérica.ar">
+    <title lang="es">Spider-Man: De Regreso a Casa</title>
+    <desc lang="es">Un joven Peter Parker (Tom Holland) comienza a navegar con su nueva identidad como el super héroe Spider-Man. Emocionado por su experiencia con Los Vengadores, Peter regresa a casa, donde vive con su tía May (Marisa Tomei), bajo la atenta mirada de su nuevo mentor Tony Stark (Robert Downey Jr.). Peter intenta volver de nuevo a su rutina diaria – distraído por los pensamientos de probar ser más que el vecino amistoso, el Hombre Araña – pero cuando el Buitre (Michael Keaton) emerge como un nuevo villano, todo lo que a Peter le importa será amenazado.</desc>
+    <credits>
+      <director>Jon Watts</director>
+      <actor>Tom Holland</actor>
+      <actor>Michael Keaton</actor>
+      <actor>Donald Glover</actor>
+      <actor>Zendaya</actor>
+      <actor>Jacob Batalon</actor>
+      <actor>Tony Revolori</actor>
+      <actor>Laura Harrier</actor>
+      <actor>Tyne Daly</actor>
+      <producer>Kevin Feige</producer>
+      <producer>Amy Pascal</producer>
+      <composer>Michael Giacchino</composer>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventura</category>
+    <category lang="es">Ciencia Ficción</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/spider-man_de_regreso_a_casa.jpg" />
+    <rating system="MX">
+      <value>PG-13</value>
+    </rating>
+    <star-rating system="MX">
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  
+  <programme start="20260616235300 -0500" stop="20260617014100 -0500" channel="Canal.HBO.Family.Latinoamérica.ar">
+    <title lang="es">Hombres de Negro 3</title>
+    <desc lang="es">Los agentes Jay (Will Smith) y Kay (Tommy Lee Jones) están de vuelta… a tiempo. Jay ha visto algunas cosas inexplicables en sus 15 años con los Hombres de Negro, pero nada, ni siquiera los extraterrestres, lo deja perplejo tanto como su compañero irónico y de humor seco y burlesco. Pero cuando la vida de Kay y el destino del planeta se ponen en juego, el Agente Jay tendrá que viajar en el tiempo para arreglar las cosas. Jay descubre que hay secretos en el universo que Kay nunca le contó, secretos que se revelarán a sí mismo cuando se asocie con el joven agente Kay (Josh Brolin) para salvar a su compañero, a la agencia y al futuro de la humanidad.</desc>
+    <credits>
+      <director>Barry Sonnenfeld</director>
+      <actor>Will Smith</actor>
+      <actor>Tommy Lee Jones</actor>
+      <actor>Jemaine Clement</actor>
+      <actor>Michael Stuhlbarg</actor>
+      <actor>Emma Thompson</actor>
+      <actor>Mike Colter</actor>
+      <actor>Nicole Scherzinger</actor>
+      <actor>Michael Chernus</actor>
+      <producer>Walter F. Parkes</producer>
+      <producer>Laurie MacDonald</producer>
+      <composer>Danny Elfman</composer>
+    </credits>
+    <date>2012</date>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventura</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Ciencia Ficción</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/hombres_de_negro_iii.jpg" />
+    <rating system="MX">
+      <value>PG-13</value>
+    </rating>
+    <star-rating system="MX">
+      <value>7.0</value>
+    </star-rating>
+  </programme>
+  
+  <programme start="20260617014100 -0500" stop="20260617032900 -0500" channel="Canal.HBO.Family.Latinoamérica.ar">
+    <title lang="es">La casa con un reloj en sus</title>
+  </programme>
+  
+  <programme start="20260617032900 -0500" stop="20260617052700 -0500" channel="Canal.HBO.Family.Latinoamérica.ar">
+    <title lang="es">Wonka</title>
+    <desc lang="es">Basada en el extraordinario personaje de Charlie y la fábrica de chocolate, la joya de la corona de Roald Dahl y uno de los libros infantiles más vendidos de todos los tiempos, "Wonka" cuenta la maravillosa historia de cómo el mayor inventor del mundo, el mago y el chocolatero se convirtió en el querido Willy Wonka que conocemos hoy. Este espectáculo de la pantalla grande irresistiblemente vívido e inventivo presentará al público a un joven Willy Wonka (Timothée Chalamet), repleto de ideas y decidido a cambiar el mundo con un delicioso bocado a la vez – demostrando que las mejores cosas de la vida comienzan con un sueño, y si Tienes la suerte de conocer a Willy Wonka, todo es posible.</desc>
+    <credits>
+      <director>Paul King</director>
+      <actor>Timothée Chalamet</actor>
+      <actor>Calah Lane</actor>
+      <actor>Keegan-Michael Key</actor>
+      <actor>Paterson Joseph</actor>
+      <actor>Matt Lucas</actor>
+      <actor>Mathew Baynton</actor>
+      <actor>Sally Hawkins</actor>
+      <actor>Rowan Atkinson</actor>
+      <producer>David Heyman</producer>
+      <producer>Luke Kelly</producer>
+    </credits>
+    <date>2023</date>
+    <category lang="es">Aventura</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Familia</category>
+    <category lang="es">Fantasía</category>
+    <category lang="es">Música</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/wonka.jpg" />
+    <country lang="es">Estados Unidos</country>
+    <rating system="MX">
+      <value>PG-13</value>
+    </rating>
+    <star-rating system="MX">
+      <value>7.0</value>
+    </star-rating>
+  </programme>
+  
+  <programme start="20260617052700 -0500" stop="20260617070000 -0500" channel="Canal.HBO.Family.Latinoamérica.ar">
+    <title lang="es">El espanta tiburones</title>
+  </programme>
+  
+  <programme start="20260617070000 -0500" stop="20260617081900 -0500" channel="Canal.HBO.Family.Latinoamérica.ar">
+    <title lang="es">El cadáver de la novia</title>
+  </programme>
+  
+  <programme start="20260617081900 -0500" stop="20260617094900 -0500" channel="Canal.HBO.Family.Latinoamérica.ar">
+    <title lang="es">El Americano</title>
+  </programme>
+  
+  <programme start="20260617094900 -0500" stop="20260617113600 -0500" channel="Canal.HBO.Family.Latinoamérica.ar">
+    <title lang="es">Cómo Entrenar a tu Dragón 3</title>
+    <desc lang="es">Lo que comenzó con una insólita amistad entre un adolescente vikingo y un temible dragón Furia Nocturna, se ha convertido en una trilogía legendaria que abarca sus vidas. Hipo (Jay Baruchel) y Chimuelo finalmente descubrirán sus verdaderos destinos: ser el jefe del pueblo y gobernante de Berk a lado de Astrid (América Ferrera) y chimuelo ser el dragón líder de su propia especie. Como ambos ascienden, la amenaza más oscura que han enfrentado, así como la aparición de una furia luminosa, pondrá a prueba los lazos de su relación como nunca antes.</desc>
+    <credits>
+      <director>Dean DeBlois</director>
+      <actor>Jay Baruchel</actor>
+      <actor>Cate Blanchett</actor>
+      <actor>Jonah Hill</actor>
+      <actor>T.J. Miller</actor>
+      <actor>Kristen Wiig</actor>
+      <actor>Kit Harington</actor>
+      <actor>America Ferrera</actor>
+      <actor>Christopher Mintz-Plasse</actor>
+      <producer>Bonnie Arnold</producer>
+      <producer>Brad Lewis</producer>
+      <composer>John Powell</composer>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Animación</category>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventura</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Fantasía</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/como_entrenar_a_tu_dragon_3.jpg" />
+    <rating system="MX">
+      <value>PG</value>
+    </rating>
+    <star-rating system="MX">
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  
+  <programme start="20260617113600 -0500" stop="20260617131000 -0500" channel="Canal.HBO.Family.Latinoamérica.ar">
+    <title lang="es">Hotel Transylvania</title>
+  </programme>
+  
+  <programme start="20260617131000 -0500" stop="20260617145000 -0500" channel="Canal.HBO.Family.Latinoamérica.ar">
+    <title lang="es">Un Jefe en Pañales</title>
+    <desc lang="es">Tim (Tobey Maguire) es el niño más feliz del mundo, tiene a los padres más increíbles del mundo y él es el rey de la casa. Pero un día sus padres deciden llevar a un bebé (Alec Baldwin) a la casa para que sea el hermanito menor de Tim, quien poco a poco empezará a adueñarse de la casa. Una noche Tim descubre que él puede hablar y tratará de convencer a sus padres que él está tramando algo.</desc>
+    <credits>
+      <director>Tom McGrath</director>
+      <actor>Alec Baldwin</actor>
+      <actor>Steve Buscemi</actor>
+      <actor>Jimmy Kimmel</actor>
+      <actor>Lisa Kudrow</actor>
+      <actor>Tobey Maguire</actor>
+      <producer>Ramsey Ann Naito</producer>
+      <composer>Hans Zimmer</composer>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Animación</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Familia</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/un_jefe_en_panales.jpg" />
+    <rating system="MX">
+      <value>PG</value>
+    </rating>
+    <star-rating system="MX">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  
+  <programme start="20260617145000 -0500" stop="20260617162100 -0500" channel="Canal.HBO.Family.Latinoamérica.ar">
+    <title lang="es">Las Aventuras de Dog Man</title>
+    <desc lang="es">Cuando un fiel perro policía y su dueño humano, también oficial de policía, resultan heridos juntos en el trabajo, una cirugía disparatada pero salvadora los une y nace Dog Man (Peter Hastings). Dog Man está comprometido a proteger y servir… y también a traer objetos, sentarse y dar vueltas.Mientras Dog Man acepta su nueva identidad y se esfuerza por impresionar a su Jefe (Lil Rel Howery), debe detener los malignos planes del supervillano felino Petey el Gato (Pete Davidson). El último plan de Petey es clonarse a sí mismo, creando al gatito Lil Petey (Lucas Hopkins), para duplicar su capacidad para cometer delitos. Sin embargo, las cosas se complican cuando Lil Petey forja un vínculo con Dog Man.Cuando Lil Petey cae en las garras de un enemigo común, Dog Man y Petey se ven obligados a unir fuerzas en una trepidante carrera contra el tiempo para rescatar al joven gatito. En el proceso, descubren el poder de la familia (¡y de los gatitos!) para unir incluso a los rivales más hostiles.</desc>
+    <credits>
+      <director>Peter Hastings</director>
+      <actor>Peter Hastings</actor>
+      <actor>Pete Davidson</actor>
+      <actor>Lucas Hopkins</actor>
+      <actor>Lil Rel Howery</actor>
+      <actor>Isla Fisher</actor>
+      <actor>Billy Boyd</actor>
+      <actor>Ricky Gervais</actor>
+      <actor>Stephen Root</actor>
+      <producer>Karen Foster</producer>
+      <composer>Tom Howe</composer>
+    </credits>
+    <date>2025</date>
+    <category lang="es">Animación</category>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventura</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Crimen</category>
+    <category lang="es">Familia</category>
+    <category lang="es">Fantasía</category>
+    <category lang="es">Ciencia Ficción</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/las_aventuras_de_dog_man.jpg" />
+    <rating system="MX">
+      <value>PG</value>
+    </rating>
+    <star-rating system="MX">
+      <value>7.0</value>
+    </star-rating>
+  </programme>
+  
+  <programme start="20260617162100 -0500" stop="20260617180900 -0500" channel="Canal.HBO.Family.Latinoamérica.ar">
+    <title lang="es">DC Liga de Súpermascotas</title>
+    <desc lang="es">En DC Liga de Súpermascotas, Krypto el super perro (Dwayne Johnson) y Superman (John Krasinski) son mejores amigos inseparables que comparten los mismos superpoderes y luchan juntos contra el crimen en Metrópolis lado a lado. Cuando Superman y el resto de la Liga de la Justicia son secuestrados, Krypto debe convencer a una banda de animales – Ace el sabueso (Kevin Hart), PB la mini cerda (Vanessa Bayer), Merton la Tortuga (Natasha Lyonne) y Chip la ardilla (Diego Luna) – a dominar sus propios poderes recién descubiertos y ayudarlo a rescatar a los superhéroes.</desc>
+    <credits>
+      <director>Jared Stern</director>
+      <actor>Dwayne Johnson</actor>
+      <actor>Kevin Hart</actor>
+      <actor>Kate McKinnon</actor>
+      <actor>John Krasinski</actor>
+      <actor>Vanessa Bayer</actor>
+      <actor>Natasha Lyonne</actor>
+      <actor>Diego Luna</actor>
+      <actor>Thomas Middleditch</actor>
+      <producer>Patricia Hicks</producer>
+      <producer>Dwayne Johnson</producer>
+      <composer>Steve Jablonsky</composer>
+    </credits>
+    <date>2022</date>
+    <category lang="es">Animación</category>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventura</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Crimen</category>
+    <category lang="es">Familia</category>
+    <category lang="es">Ciencia Ficción</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/dc_liga_de_supermascotas.jpg" />
+    <rating system="MX">
+      <value>PG</value>
+    </rating>
+    <star-rating system="MX">
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  
+  <programme start="20260617180900 -0500" stop="20260617200000 -0500" channel="Canal.HBO.Family.Latinoamérica.ar">
+    <title lang="es">Sing: ¡Ven y Canta!</title>
+    <desc lang="es">Buster Moon (Matthew McConaughey) un empresario que para salvar el teatro decide crear un evento musical para recuperar la gloria de su teatro. Buster ama su teatro y hará cualquier cosa para preservarlo, ahora tiene una última oportunidad para restaurar su joya a su antigua plenitud al producir una competencia de canto que jamás haya visto el mundo.</desc>
+    <credits>
+      <director>Garth Jennings</director>
+      <actor>Scarlett Johansson</actor>
+      <actor>Taron Egerton</actor>
+      <actor>Matthew McConaughey</actor>
+      <actor>Reese Witherspoon</actor>
+      <actor>Nick Offerman</actor>
+      <actor>Nick Kroll</actor>
+      <actor>Peter Serafinowicz</actor>
+      <actor>Seth MacFarlane</actor>
+      <producer>Chris Meledandri</producer>
+      <producer>Janet Healy</producer>
+      <composer>Joby Talbot</composer>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Animación</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Musical</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/sing_ven_y_canta.jpg" />
+    <rating system="MX">
+      <value>PG</value>
+    </rating>
+    <star-rating system="MX">
+      <value>7.0</value>
+    </star-rating>
+  </programme>
+  
+  <programme start="20260617200000 -0500" stop="20260617214700 -0500" channel="Canal.HBO.Family.Latinoamérica.ar">
+    <title lang="es">Cómo Entrenar a tu Dragón 3</title>
+    <desc lang="es">Lo que comenzó con una insólita amistad entre un adolescente vikingo y un temible dragón Furia Nocturna, se ha convertido en una trilogía legendaria que abarca sus vidas. Hipo (Jay Baruchel) y Chimuelo finalmente descubrirán sus verdaderos destinos: ser el jefe del pueblo y gobernante de Berk a lado de Astrid (América Ferrera) y chimuelo ser el dragón líder de su propia especie. Como ambos ascienden, la amenaza más oscura que han enfrentado, así como la aparición de una furia luminosa, pondrá a prueba los lazos de su relación como nunca antes.</desc>
+    <credits>
+      <director>Dean DeBlois</director>
+      <actor>Jay Baruchel</actor>
+      <actor>Cate Blanchett</actor>
+      <actor>Jonah Hill</actor>
+      <actor>T.J. Miller</actor>
+      <actor>Kristen Wiig</actor>
+      <actor>Kit Harington</actor>
+      <actor>America Ferrera</actor>
+      <actor>Christopher Mintz-Plasse</actor>
+      <producer>Bonnie Arnold</producer>
+      <producer>Brad Lewis</producer>
+      <composer>John Powell</composer>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Animación</category>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventura</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Fantasía</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/como_entrenar_a_tu_dragon_3.jpg" />
+    <rating system="MX">
+      <value>PG</value>
+    </rating>
+    <star-rating system="MX">
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  
+  <programme start="20260617214700 -0500" stop="20260617235000 -0500" channel="Canal.HBO.Family.Latinoamérica.ar">
+    <title lang="es">El Hombre Araña</title>
+    <desc lang="es">Siendo un nerd y torpe por naturaleza, la vida de Peter Parker (Tobey Maguire) ha dado un giro inesperado cuando es mordido accidentalmente por una araña radiactiva. De la noche a la mañana Peter se transforma y es capaz de crear telarañas que son disparadas desde sus muñecas, la habilidad de adherirse a las paredes, fuerza increíble y un primordial sentido arácnido. Utilizando un traje hecho en casa, Peter está dispuesto a cambiar la vida que le rodea, sea como sea. Cuando un criminal asesina a su tío Ben, él descubre que “con un gran poder viene una gran responsabilidad”. Peter se convierte en un peleador contra el crimen conocido como El Hombre Araña.</desc>
+    <credits>
+      <director>Sam Raimi</director>
+      <actor>Tobey Maguire</actor>
+      <actor>Willem Dafoe</actor>
+      <actor>Kirsten Dunst</actor>
+      <actor>James Franco</actor>
+      <actor>Cliff Robertson</actor>
+      <actor>Rosemary Harris</actor>
+      <producer>Laura Ziskin</producer>
+      <producer>Ian Bryce</producer>
+      <composer>Danny Elfman</composer>
+    </credits>
+    <date>2002</date>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/el_hombre_arana.jpg" />
+    <rating system="MX">
+      <value>PG-13</value>
+    </rating>
+    <star-rating system="MX">
+      <value>7.0</value>
+    </star-rating>
+  </programme>
+  
+  <programme start="20260617235000 -0500" stop="20260618013400 -0500" channel="Canal.HBO.Family.Latinoamérica.ar">
+    <title lang="es">17 otra vez</title>
+  </programme>
+  
+  <programme start="20260618013400 -0500" stop="20260618035800 -0500" channel="Canal.HBO.Family.Latinoamérica.ar">
+    <title lang="es">H. Potter y el prisionero</title>
+  </programme>
+  
+  <programme start="20260618035800 -0500" stop="20260618052800 -0500" channel="Canal.HBO.Family.Latinoamérica.ar">
+    <title lang="es">El Americano</title>
+  </programme>
+  
+  <programme start="20260618052800 -0500" stop="20260618070000 -0500" channel="Canal.HBO.Family.Latinoamérica.ar">
+    <title lang="es">Las Aventuras de Dog Man</title>
+    <desc lang="es">Cuando un fiel perro policía y su dueño humano, también oficial de policía, resultan heridos juntos en el trabajo, una cirugía disparatada pero salvadora los une y nace Dog Man (Peter Hastings). Dog Man está comprometido a proteger y servir… y también a traer objetos, sentarse y dar vueltas.Mientras Dog Man acepta su nueva identidad y se esfuerza por impresionar a su Jefe (Lil Rel Howery), debe detener los malignos planes del supervillano felino Petey el Gato (Pete Davidson). El último plan de Petey es clonarse a sí mismo, creando al gatito Lil Petey (Lucas Hopkins), para duplicar su capacidad para cometer delitos. Sin embargo, las cosas se complican cuando Lil Petey forja un vínculo con Dog Man.Cuando Lil Petey cae en las garras de un enemigo común, Dog Man y Petey se ven obligados a unir fuerzas en una trepidante carrera contra el tiempo para rescatar al joven gatito. En el proceso, descubren el poder de la familia (¡y de los gatitos!) para unir incluso a los rivales más hostiles.</desc>
+    <credits>
+      <director>Peter Hastings</director>
+      <actor>Peter Hastings</actor>
+      <actor>Pete Davidson</actor>
+      <actor>Lucas Hopkins</actor>
+      <actor>Lil Rel Howery</actor>
+      <actor>Isla Fisher</actor>
+      <actor>Billy Boyd</actor>
+      <actor>Ricky Gervais</actor>
+      <actor>Stephen Root</actor>
+      <producer>Karen Foster</producer>
+      <composer>Tom Howe</composer>
+    </credits>
+    <date>2025</date>
+    <category lang="es">Animación</category>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventura</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Crimen</category>
+    <category lang="es">Familia</category>
+    <category lang="es">Fantasía</category>
+    <category lang="es">Ciencia Ficción</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/las_aventuras_de_dog_man.jpg" />
+    <rating system="MX">
+      <value>PG</value>
+    </rating>
+    <star-rating system="MX">
+      <value>7.0</value>
+    </star-rating>
+  </programme>
+  
+  <programme start="20260618070000 -0500" stop="20260618083900 -0500" channel="Canal.HBO.Family.Latinoamérica.ar">
+    <title lang="es">Ga'Hoole - La Leyenda de los Guardianes</title>
+  </programme>
+  
+  <programme start="20260618083900 -0500" stop="20260618101300 -0500" channel="Canal.HBO.Family.Latinoamérica.ar">
+    <title lang="es">Minions</title>
+    <desc lang="es">La historia de los pequeños minions comienza desde que son unos simples organismos unicelulares y evolucionan a través del tiempo sirviendo a los villanos más temibles de todas las eras – desde el Tiranosaurio Rex hasta Napoleón – quedándose sin amo a quien servir y terminan por caer deprimidos.Pero un día un minion llamado Kevin tiene un plan que junto a sus “aminions” Stuart y Bob se aventuran en el mundo para encontrar un nuevo amo malvado para poder servirles.En esta aventura los minions se unen para trabajar con Scarlet Overkill (Sandra Bullock), la primer mujer súper villana del mundo y su esposo Herb Overkill (Jon Hamm). Partiendo desde la Antártida hasta la ciudad de Nueva York, para terminar en Londres donde deberán salvar a la especia minion de la exterminación.</desc>
+    <credits>
+      <director>Pierre Coffin</director>
+      <director>Kyle Balda</director>
+      <actor>Pierre Coffin</actor>
+      <actor>Sandra Bullock</actor>
+      <actor>Jon Hamm</actor>
+      <actor>Michael Keaton</actor>
+      <actor>Allison Janney</actor>
+      <actor>Steve Coogan</actor>
+      <producer>Chris Meledandri</producer>
+      <producer>Janet Healy</producer>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Animación</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Familia</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/minions.jpg" />
+    <rating system="MX">
+      <value>PG</value>
+    </rating>
+    <star-rating system="MX">
+      <value>7.0</value>
+    </star-rating>
+  </programme>
+  
+  <programme start="20260618101300 -0500" stop="20260618114800 -0500" channel="Canal.HBO.Family.Latinoamérica.ar">
+    <title lang="es">Shrek Tercero</title>
+    <desc lang="es">El puesto de Rey no es para cualquiera – especialmente si eres un ogro mal oliente. Cuando Shrek (Mike Myers) toma a Fiona como esposa, lo último que él ha querido es mandar el reino de Muy Muy Lejos, pero cuando su suegro el Rey Harold (John Cleese) muere repentinamente, Shrek es inmediatamente llamado a tomar el trono. Ahora a menos que encuentre un reemplazo para el difunto Rey Harold, Shrek deberá reinar por el resto de sus días.Como si no fueran suficientes problemas para Shrek, la Princesa Fiona tiene otra pequeña sorpresa. Aturdido por los deberes del reinado, Shrek tiene la tarea de encontrar el otro posible gobernante del reino de Muy Muy Lejos, el primo perdido de Fiona, Artie (Justin Timberlake), adolescente medieval. Mientras el ogro se encuentra fuera, su viejo némesis, el Príncipe Encantador (Rupert Everett) regresa al reino con su mente puesta en tomar el reinado. Incluso con el Burro (Eddie Murphy) y el Gato con Botas (Antonio Banderas) de su lado, será necesario hacer un esfuerzo del tamaño de ogros que incluye la ayuda de Fiona y su banda de princesas para ayudar a Shrek y Artie a salvar el día y encontrar su propio “Final Feliz”.</desc>
+    <credits>
+      <director>Chris Miller</director>
+      <director>Raman Hui</director>
+      <actor>Mike Myers</actor>
+      <actor>Cameron Diaz</actor>
+      <actor>Eddie Murphy</actor>
+      <actor>Antonio Banderas</actor>
+      <actor>Julie Andrews</actor>
+      <actor>John Cleese</actor>
+      <actor>Rupert Everett</actor>
+      <actor>Eric Idle</actor>
+      <producer>Aron Warner</producer>
+      <producer>Denise Nolan Cascino</producer>
+      <composer>Harry Gregson-Williams</composer>
+    </credits>
+    <date>2007</date>
+    <category lang="es">Animación</category>
+    <category lang="es">Aventura</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Fantasía</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/shrek_tercero.jpg" />
+    <rating system="MX">
+      <value>PG</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260618114800 -0500" stop="20260618131700 -0500" channel="Canal.HBO.Family.Latinoamérica.ar">
+    <title lang="es">La vida secreta</title>
+  </programme>
+  
+  <programme start="20260618131700 -0500" stop="20260618145000 -0500" channel="Canal.HBO.Family.Latinoamérica.ar">
+    <title lang="es">Los Pitufos en la aldea</title>
+  </programme>
+  
+  <programme start="20260618145000 -0500" stop="20260618163700 -0500" channel="Canal.HBO.Family.Latinoamérica.ar">
+    <title lang="es">Pokémon Detective Pikachu</title>
+    <desc lang="es">La historia comienza cuando el detective Harry Goodman (Paul Kitson) desaparece misteriosamente, lo que incita a su hijo de 21 años, Tim (Justice Smith) a descubrir qué sucedió. Ayudándolo en la investigación está el antiguo compañero de Harry, el detective Pikachu (Ryan Reynolds): un super detective hilarante sabio y adorable que es un desconcierto incluso para él. Al descubrir que están equipados de manera única para comunicarse entre sí, Tim y Pikachu se unen en una emocionante aventura para desentrañar el enredado misterio. Persiguiendo pistas a través de las calles iluminadas con luces de neón de Ryme City – una metrópolis moderna y extensa donde los humanos y los Pokémon viven juntos en un mundo hiperrealista de acción en vivo – se encuentran con un elenco diverso de personajes Pokémon y descubren una trama impactante que podría destruir esta coexistencia pacífica y amenazar a todo el universo Pokémon.</desc>
+    <credits>
+      <director>Rob Letterman</director>
+      <actor>Ryan Reynolds</actor>
+      <actor>Justice Smith</actor>
+      <actor>Kathryn Newton</actor>
+      <actor>Suki Waterhouse</actor>
+      <actor>Omar Chaparro</actor>
+      <actor>Chris Geere</actor>
+      <actor>Ken Watanabe</actor>
+      <actor>Bill Nighy</actor>
+      <producer>Mary Parent</producer>
+      <producer>Cale Boyter</producer>
+      <composer>Henry Jackman</composer>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Animación</category>
+    <category lang="es">Aventura</category>
+    <category lang="es">Familia</category>
+    <category lang="es">Fantasía</category>
+    <category lang="es">Misterio</category>
+    <category lang="es">Ciencia Ficción</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/pokemon_detective_pikachu.jpg" />
+    <country lang="es">Estados Unidos</country>
+    <rating system="MX">
+      <value>PG-13</value>
+    </rating>
+    <star-rating system="MX">
+      <value>7.0</value>
+    </star-rating>
+  </programme>
+  
+  <programme start="20260618163700 -0500" stop="20260618182200 -0500" channel="Canal.HBO.Family.Latinoamérica.ar">
+    <title lang="es">Cómo Entrenar a tu Dragón 2</title>
+    <desc lang="es">Han pasado 5 años desde que Hipo y Chimuelo han creado en la isla de Berk una unión fuerte entre dragones y Vikingos. Mientras Astrid, Patán y el resto del grupo compiten en las carreras de dragones – nuevo deporte de la isla – llegan a una caverna secreta en el hielo, hogar de cientos de dragones comandados por el Jinete del Dragón. Ahora los dos nuevos grupos deberán enfrentar al nuevo enemigo que planea con tomar el poder de todos los dragones.</desc>
+    <credits>
+      <director>Dean DeBlois</director>
+      <actor>Jay Baruchel</actor>
+      <actor>Cate Blanchett</actor>
+      <actor>Gerard Butler</actor>
+      <actor>Djimon Hounsou</actor>
+      <actor>America Ferrera</actor>
+      <producer>Bonnie Arnold</producer>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Animación</category>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventura</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Familia</category>
+    <category lang="es">Fantasía</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/como_entrenar_a_tu_dragon_2.jpg" />
+    <rating system="MX">
+      <value>PG</value>
+    </rating>
+    <star-rating system="MX">
+      <value>9.0</value>
+    </star-rating>
+  </programme>
+  
+  <programme start="20260618182200 -0500" stop="20260618200000 -0500" channel="Canal.HBO.Family.Latinoamérica.ar">
+    <title lang="es">Lluvia de hamburguesas 2</title>
+  </programme>
+  
+  <programme start="20260618200000 -0500" stop="20260618213300 -0500" channel="Canal.HBO.Family.Latinoamérica.ar">
+    <title lang="es">Minions</title>
+    <desc lang="es">La historia de los pequeños minions comienza desde que son unos simples organismos unicelulares y evolucionan a través del tiempo sirviendo a los villanos más temibles de todas las eras – desde el Tiranosaurio Rex hasta Napoleón – quedándose sin amo a quien servir y terminan por caer deprimidos.Pero un día un minion llamado Kevin tiene un plan que junto a sus “aminions” Stuart y Bob se aventuran en el mundo para encontrar un nuevo amo malvado para poder servirles.En esta aventura los minions se unen para trabajar con Scarlet Overkill (Sandra Bullock), la primer mujer súper villana del mundo y su esposo Herb Overkill (Jon Hamm). Partiendo desde la Antártida hasta la ciudad de Nueva York, para terminar en Londres donde deberán salvar a la especia minion de la exterminación.</desc>
+    <credits>
+      <director>Pierre Coffin</director>
+      <director>Kyle Balda</director>
+      <actor>Pierre Coffin</actor>
+      <actor>Sandra Bullock</actor>
+      <actor>Jon Hamm</actor>
+      <actor>Michael Keaton</actor>
+      <actor>Allison Janney</actor>
+      <actor>Steve Coogan</actor>
+      <producer>Chris Meledandri</producer>
+      <producer>Janet Healy</producer>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Animación</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Familia</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/minions.jpg" />
+    <rating system="MX">
+      <value>PG</value>
+    </rating>
+    <star-rating system="MX">
+      <value>7.0</value>
+    </star-rating>
+  </programme>
+  
+  <programme start="20260618213300 -0500" stop="20260618233200 -0500" channel="Canal.HBO.Family.Latinoamérica.ar">
+    <title lang="es">Wonka</title>
+    <desc lang="es">Basada en el extraordinario personaje de Charlie y la fábrica de chocolate, la joya de la corona de Roald Dahl y uno de los libros infantiles más vendidos de todos los tiempos, "Wonka" cuenta la maravillosa historia de cómo el mayor inventor del mundo, el mago y el chocolatero se convirtió en el querido Willy Wonka que conocemos hoy. Este espectáculo de la pantalla grande irresistiblemente vívido e inventivo presentará al público a un joven Willy Wonka (Timothée Chalamet), repleto de ideas y decidido a cambiar el mundo con un delicioso bocado a la vez – demostrando que las mejores cosas de la vida comienzan con un sueño, y si Tienes la suerte de conocer a Willy Wonka, todo es posible.</desc>
+    <credits>
+      <director>Paul King</director>
+      <actor>Timothée Chalamet</actor>
+      <actor>Calah Lane</actor>
+      <actor>Keegan-Michael Key</actor>
+      <actor>Paterson Joseph</actor>
+      <actor>Matt Lucas</actor>
+      <actor>Mathew Baynton</actor>
+      <actor>Sally Hawkins</actor>
+      <actor>Rowan Atkinson</actor>
+      <producer>David Heyman</producer>
+      <producer>Luke Kelly</producer>
+    </credits>
+    <date>2023</date>
+    <category lang="es">Aventura</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Familia</category>
+    <category lang="es">Fantasía</category>
+    <category lang="es">Música</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/wonka.jpg" />
+    <country lang="es">Estados Unidos</country>
+    <rating system="MX">
+      <value>PG-13</value>
+    </rating>
+    <star-rating system="MX">
+      <value>7.0</value>
+    </star-rating>
+  </programme>
+  
+  <programme start="20260618233200 -0500" stop="20260619011900 -0500" channel="Canal.HBO.Family.Latinoamérica.ar">
+    <title lang="es">Pokémon Detective Pikachu</title>
+    <desc lang="es">La historia comienza cuando el detective Harry Goodman (Paul Kitson) desaparece misteriosamente, lo que incita a su hijo de 21 años, Tim (Justice Smith) a descubrir qué sucedió. Ayudándolo en la investigación está el antiguo compañero de Harry, el detective Pikachu (Ryan Reynolds): un super detective hilarante sabio y adorable que es un desconcierto incluso para él. Al descubrir que están equipados de manera única para comunicarse entre sí, Tim y Pikachu se unen en una emocionante aventura para desentrañar el enredado misterio. Persiguiendo pistas a través de las calles iluminadas con luces de neón de Ryme City – una metrópolis moderna y extensa donde los humanos y los Pokémon viven juntos en un mundo hiperrealista de acción en vivo – se encuentran con un elenco diverso de personajes Pokémon y descubren una trama impactante que podría destruir esta coexistencia pacífica y amenazar a todo el universo Pokémon.</desc>
+    <credits>
+      <director>Rob Letterman</director>
+      <actor>Ryan Reynolds</actor>
+      <actor>Justice Smith</actor>
+      <actor>Kathryn Newton</actor>
+      <actor>Suki Waterhouse</actor>
+      <actor>Omar Chaparro</actor>
+      <actor>Chris Geere</actor>
+      <actor>Ken Watanabe</actor>
+      <actor>Bill Nighy</actor>
+      <producer>Mary Parent</producer>
+      <producer>Cale Boyter</producer>
+      <composer>Henry Jackman</composer>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Animación</category>
+    <category lang="es">Aventura</category>
+    <category lang="es">Familia</category>
+    <category lang="es">Fantasía</category>
+    <category lang="es">Misterio</category>
+    <category lang="es">Ciencia Ficción</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/pokemon_detective_pikachu.jpg" />
+    <country lang="es">Estados Unidos</country>
+    <rating system="MX">
+      <value>PG-13</value>
+    </rating>
+    <star-rating system="MX">
+      <value>7.0</value>
+    </star-rating>
+  </programme>
+  
+  <programme start="20260619011900 -0500" stop="20260619031600 -0500" channel="Canal.HBO.Family.Latinoamérica.ar">
+    <title lang="es">El cazador y la reina del</title>
+  </programme>
+  
+  <programme start="20260619031600 -0500" stop="20260619034500 -0500" channel="Canal.HBO.Family.Latinoamérica.ar">
+    <title lang="es">En busca de Harry</title>
+  </programme>
+  
+  <programme start="20260619034500 -0500" stop="20260619051500 -0500" channel="Canal.HBO.Family.Latinoamérica.ar">
+    <title lang="es">La vida secreta</title>
+  </programme>
+  
+  <programme start="20260619051500 -0500" stop="20260619070000 -0500" channel="Canal.HBO.Family.Latinoamérica.ar">
+    <title lang="es">Cómo Entrenar a tu Dragón 2</title>
+    <desc lang="es">Han pasado 5 años desde que Hipo y Chimuelo han creado en la isla de Berk una unión fuerte entre dragones y Vikingos. Mientras Astrid, Patán y el resto del grupo compiten en las carreras de dragones – nuevo deporte de la isla – llegan a una caverna secreta en el hielo, hogar de cientos de dragones comandados por el Jinete del Dragón. Ahora los dos nuevos grupos deberán enfrentar al nuevo enemigo que planea con tomar el poder de todos los dragones.</desc>
+    <credits>
+      <director>Dean DeBlois</director>
+      <actor>Jay Baruchel</actor>
+      <actor>Cate Blanchett</actor>
+      <actor>Gerard Butler</actor>
+      <actor>Djimon Hounsou</actor>
+      <actor>America Ferrera</actor>
+      <producer>Bonnie Arnold</producer>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Animación</category>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventura</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Familia</category>
+    <category lang="es">Fantasía</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/como_entrenar_a_tu_dragon_2.jpg" />
+    <rating system="MX">
+      <value>PG</value>
+    </rating>
+    <star-rating system="MX">
+      <value>9.0</value>
+    </star-rating>
+  </programme>
+  
+  <programme start="20260619070000 -0500" stop="20260619084000 -0500" channel="Canal.HBO.Family.Latinoamérica.ar">
+    <title lang="es">Angry Birds La Película</title>
+  </programme>
+  
+  <programme start="20260619084000 -0500" stop="20260619112000 -0500" channel="Canal.HBO.Family.Latinoamérica.ar">
+    <title lang="es">H.Potter y la Piedra Filosofal</title>
+  </programme>
+  
+  <programme start="20260619112000 -0500" stop="20260619130700 -0500" channel="Canal.HBO.Family.Latinoamérica.ar">
+    <title lang="es">El regreso de la nana mágica</title>
+  </programme>
+  
+  <programme start="20260619130700 -0500" stop="20260619145300 -0500" channel="Canal.HBO.Family.Latinoamérica.ar">
+    <title lang="es">Cómo Entrenar a tu Dragón 3</title>
+    <desc lang="es">Lo que comenzó con una insólita amistad entre un adolescente vikingo y un temible dragón Furia Nocturna, se ha convertido en una trilogía legendaria que abarca sus vidas. Hipo (Jay Baruchel) y Chimuelo finalmente descubrirán sus verdaderos destinos: ser el jefe del pueblo y gobernante de Berk a lado de Astrid (América Ferrera) y chimuelo ser el dragón líder de su propia especie. Como ambos ascienden, la amenaza más oscura que han enfrentado, así como la aparición de una furia luminosa, pondrá a prueba los lazos de su relación como nunca antes.</desc>
+    <credits>
+      <director>Dean DeBlois</director>
+      <actor>Jay Baruchel</actor>
+      <actor>Cate Blanchett</actor>
+      <actor>Jonah Hill</actor>
+      <actor>T.J. Miller</actor>
+      <actor>Kristen Wiig</actor>
+      <actor>Kit Harington</actor>
+      <actor>America Ferrera</actor>
+      <actor>Christopher Mintz-Plasse</actor>
+      <producer>Bonnie Arnold</producer>
+      <producer>Brad Lewis</producer>
+      <composer>John Powell</composer>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Animación</category>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventura</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Fantasía</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/como_entrenar_a_tu_dragon_3.jpg" />
+    <rating system="MX">
+      <value>PG</value>
+    </rating>
+    <star-rating system="MX">
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  
+  <programme start="20260619145300 -0500" stop="20260619163300 -0500" channel="Canal.HBO.Family.Latinoamérica.ar">
+    <title lang="es">Los Croods</title>
+    <desc lang="es">Los croods son la primera familia del mundo que viven protegidos en una cueva hasta que un día un terrible terremoto la destruye y ellos se ven forzados a abandonarla y se aventuran a un nuevo lugar con criaturas fabulosas y paisajes espectaculares donde deberán encontrar una nueva cueva para vivir.</desc>
+    <credits>
+      <director>Kirk DeMicco</director>
+      <director>Chris Sanders</director>
+      <actor>Nicolas Cage</actor>
+      <actor>Ryan Reynolds</actor>
+      <actor>Emma Stone</actor>
+      <actor>Catherine Keener</actor>
+      <actor>Clark Duke</actor>
+      <actor>Cloris Leachman</actor>
+      <producer>Kristine Belson</producer>
+      <producer>Jane Hartwell</producer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Animación</category>
+    <category lang="es">Aventura</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Infantil</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/los_croods.jpg" />
+    <rating system="MX">
+      <value>PG</value>
+    </rating>
+    <star-rating system="MX">
+      <value>7.0</value>
+    </star-rating>
+  </programme>
+  
+  <programme start="20260619163300 -0500" stop="20260619182000 -0500" channel="Canal.HBO.Family.Latinoamérica.ar">
+    <title lang="es">DC Liga de Súpermascotas</title>
+    <desc lang="es">En DC Liga de Súpermascotas, Krypto el super perro (Dwayne Johnson) y Superman (John Krasinski) son mejores amigos inseparables que comparten los mismos superpoderes y luchan juntos contra el crimen en Metrópolis lado a lado. Cuando Superman y el resto de la Liga de la Justicia son secuestrados, Krypto debe convencer a una banda de animales – Ace el sabueso (Kevin Hart), PB la mini cerda (Vanessa Bayer), Merton la Tortuga (Natasha Lyonne) y Chip la ardilla (Diego Luna) – a dominar sus propios poderes recién descubiertos y ayudarlo a rescatar a los superhéroes.</desc>
+    <credits>
+      <director>Jared Stern</director>
+      <actor>Dwayne Johnson</actor>
+      <actor>Kevin Hart</actor>
+      <actor>Kate McKinnon</actor>
+      <actor>John Krasinski</actor>
+      <actor>Vanessa Bayer</actor>
+      <actor>Natasha Lyonne</actor>
+      <actor>Diego Luna</actor>
+      <actor>Thomas Middleditch</actor>
+      <producer>Patricia Hicks</producer>
+      <producer>Dwayne Johnson</producer>
+      <composer>Steve Jablonsky</composer>
+    </credits>
+    <date>2022</date>
+    <category lang="es">Animación</category>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventura</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Crimen</category>
+    <category lang="es">Familia</category>
+    <category lang="es">Ciencia Ficción</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/dc_liga_de_supermascotas.jpg" />
+    <rating system="MX">
+      <value>PG</value>
+    </rating>
+    <star-rating system="MX">
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  
+  <programme start="20260619182000 -0500" stop="20260619200000 -0500" channel="Canal.HBO.Family.Latinoamérica.ar">
+    <title lang="es">Angry Birds La Película</title>
+  </programme>
+  
+  <programme start="20260619200000 -0500" stop="20260619214300 -0500" channel="Canal.HBO.Family.Latinoamérica.ar">
+    <title lang="es">Una Película de Minecraft</title>
+    <desc lang="es">Bienvenidos al mundo de Minecraft, donde la creatividad no solo te ayuda a crear, ¡sino que es esencial para la supervivencia! Cuatro inadaptados – Garrett "The Garbage Man" Garrios (Jason Momoa), Henry (Sebastian Hansen), Natalie (Emma Myers) y Dawn (Danielle Brooks) – se encuentran luchando con problemas cotidianos cuando, de repente, son arrastrados a través de un misterioso portal hacia el Overworld: un extraño y cúbico mundo de las maravillas que prospera gracias a la imaginación. Para volver a casa, tendrán que dominar este mundo (y también protegerlo de cosas malvadas como Piglins y Zombis) mientras se embarcan en una búsqueda mágica con un artesano inesperado y experto, Steve (Jack Black). Juntos, su aventura los desafiará a ser audaces y a reconectar con las cualidades que hacen que cada uno de ellos sea excepcionalmente creativos… las mismas habilidades que necesitan para prosperar en el mundo real.</desc>
+    <credits>
+      <director>Jared Hess</director>
+      <actor>Jason Momoa</actor>
+      <actor>Jack Black</actor>
+      <actor>Emma Myers</actor>
+      <actor>Danielle Brooks</actor>
+      <actor>Sebastian Hansen</actor>
+      <actor>Rachel House</actor>
+      <actor>Jennifer Coolidge</actor>
+      <producer>Mary Parent</producer>
+      <producer>Cale Boyter</producer>
+      <composer>Mark Mothersbaugh</composer>
+    </credits>
+    <date>2025</date>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventura</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Familia</category>
+    <category lang="es">Fantasía</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/una_pelicula_de_minecraft.jpg" />
+    <country lang="es">Estados Unidos</country>
+    <rating system="MX">
+      <value>PG</value>
+    </rating>
+    <star-rating system="MX">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  
+  <programme start="20260619214300 -0500" stop="20260619233200 -0500" channel="Canal.HBO.Family.Latinoamérica.ar">
+    <title lang="es">Paddington Aventura en</title>
+  </programme>
+  
+  <programme start="20260619233200 -0500" stop="20260620012900 -0500" channel="Canal.HBO.Family.Latinoamérica.ar">
+    <title lang="es">Barbie</title>
   </programme>
   
   <programme start="20260615020400 -0500" stop="20260615040000 -0500" channel="Canal.HBO.Plus.ar">

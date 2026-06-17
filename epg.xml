@@ -14,6 +14,13 @@
     <url>http://www.gatotv.com</url>
   </channel>
   
+  <channel id="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <display-name lang="es">Canal Discovery Theater (Latinoamérica)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_theater-mediano.png" />
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_theater-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  
   <channel id="Canal.Discovery.Turbo.(Latinoamérica).ar">
     <display-name lang="es">Canal Discovery Turbo (Latinoamérica)</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_turbo-mediano.png" />
@@ -68,6 +75,13 @@
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/tooncast-mediano.png" />
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/tooncast-mediano.png" />
     <url>http://www.gatotv.com</url>
+  </channel>
+  
+  <channel id="Cartoon.Network.co">
+    <display-name lang="es">Cartoon Network</display-name>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png" />
+    <url>http://www.movistar.co</url>
   </channel>
   
   <channel id="ESPN.4.co">
@@ -1157,6 +1171,412 @@
   
   <programme start="20260620230500 -0500" stop="20260621004900 -0500" channel="Canal.De.Película.ar">
     <title lang="es">Macho que ladra no muerde</title>
+  </programme>
+  
+  <programme start="20260616002400 -0500" stop="20260616011200 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Expedición Pie Grande</title>
+    <sub-title lang="es">Criaturas en los árboles</sub-title>
+  </programme>
+  
+  <programme start="20260616011200 -0500" stop="20260616020000 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Misterios en el museo</title>
+    <sub-title lang="es">Operación Mincemeat, el rode y el monstruo</sub-title>
+  </programme>
+  
+  <programme start="20260616020000 -0500" stop="20260616024900 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Misterios en el museo</title>
+    <sub-title lang="es">Temerario, la isla y el tornado</sub-title>
+  </programme>
+  
+  <programme start="20260616024900 -0500" stop="20260616033700 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Hoteles secretos y leyendas</title>
+    <sub-title lang="es">Deadwood, Habitación subterránea, los rebeldes del whisky</sub-title>
+  </programme>
+  
+  <programme start="20260616033700 -0500" stop="20260616042400 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">El museo embrujado</title>
+    <sub-title lang="es">Terror por la estatua tribal</sub-title>
+  </programme>
+  
+  <programme start="20260616042400 -0500" stop="20260616051200 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Pesca mortal</title>
+    <sub-title lang="es">Por sobre la barandilla</sub-title>
+  </programme>
+  
+  <programme start="20260616051200 -0500" stop="20260616060000 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Pesca mortal</title>
+    <sub-title lang="es">Los primeros en la fila</sub-title>
+  </programme>
+  
+  <programme start="20260616060000 -0500" stop="20260616064800 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Misterios en el museo</title>
+    <sub-title lang="es">Operación Mincemeat, el rode y el monstruo</sub-title>
+  </programme>
+  
+  <programme start="20260616064800 -0500" stop="20260616073600 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Misterios en el museo</title>
+    <sub-title lang="es">Temerario, la isla y el tornado</sub-title>
+  </programme>
+  
+  <programme start="20260616073600 -0500" stop="20260616082400 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Hoteles secretos y leyendas</title>
+    <sub-title lang="es">Deadwood, Habitación subterránea, los rebeldes del whisky</sub-title>
+  </programme>
+  
+  <programme start="20260616082400 -0500" stop="20260616091200 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">El museo embrujado</title>
+    <sub-title lang="es">Terror por la estatua tribal</sub-title>
+  </programme>
+  
+  <programme start="20260616091200 -0500" stop="20260616100000 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Pesca mortal</title>
+    <sub-title lang="es">Por sobre la barandilla</sub-title>
+  </programme>
+  
+  <programme start="20260616100000 -0500" stop="20260616104800 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Pesca mortal</title>
+    <sub-title lang="es">Los primeros en la fila</sub-title>
+  </programme>
+  
+  <programme start="20260616104800 -0500" stop="20260616113600 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Clandestinos</title>
+    <sub-title lang="es">Momento de auge para los destilados</sub-title>
+  </programme>
+  
+  <programme start="20260616113600 -0500" stop="20260616122400 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Clandestinos</title>
+    <sub-title lang="es">En busca del sitio perdido de Popcorn</sub-title>
+  </programme>
+  
+  <programme start="20260616122400 -0500" stop="20260616131200 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Alaska peligro en el aire</title>
+    <sub-title lang="es">Agallas y Gloria</sub-title>
+  </programme>
+  
+  <programme start="20260616131200 -0500" stop="20260616140000 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Pioneros de Polonia</title>
+  </programme>
+  
+  <programme start="20260616140000 -0500" stop="20260616144800 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Hoteles secretos y leyendas</title>
+    <sub-title lang="es">Deadwood, Habitación subterránea, los rebeldes del whisky</sub-title>
+  </programme>
+  
+  <programme start="20260616144800 -0500" stop="20260616153600 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">El museo embrujado</title>
+    <sub-title lang="es">Demonios bajo las escaleras</sub-title>
+  </programme>
+  
+  <programme start="20260616153600 -0500" stop="20260616162400 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Expedición a lo desconocido</title>
+    <sub-title lang="es">El oro perdido de Jean Laffite</sub-title>
+  </programme>
+  
+  <programme start="20260616162400 -0500" stop="20260616171200 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Historias Animales</title>
+  </programme>
+  
+  <programme start="20260616171200 -0500" stop="20260616180000 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Misterios en el museo</title>
+    <sub-title lang="es">La hazaña, sopa de arsénico y Spring Heeled Jack</sub-title>
+  </programme>
+  
+  <programme start="20260616180000 -0500" stop="20260616184800 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Espadas Legendarias</title>
+    <sub-title lang="es">Zeus todopoderoso</sub-title>
+  </programme>
+  
+  <programme start="20260616184800 -0500" stop="20260616191200 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Sangre Apalache</title>
+    <sub-title lang="es">La disputa por el agua</sub-title>
+  </programme>
+  
+  <programme start="20260616191200 -0500" stop="20260616193600 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Sangre Apalache</title>
+    <sub-title lang="es">Madera de los Apalaches</sub-title>
+  </programme>
+  
+  <programme start="20260616193600 -0500" stop="20260616202400 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Expedición Pie Grande</title>
+    <sub-title lang="es">El miedo al lago</sub-title>
+  </programme>
+  
+  <programme start="20260616202400 -0500" stop="20260616211200 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Fieras de la Montaña</title>
+    <sub-title lang="es">Sangre en el bosque</sub-title>
+  </programme>
+  
+  <programme start="20260616211200 -0500" stop="20260616220000 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Fieras de la Montaña</title>
+    <sub-title lang="es">El monstruo de Huckleberry</sub-title>
+  </programme>
+  
+  <programme start="20260616220000 -0500" stop="20260616224800 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Oro salvaje</title>
+    <sub-title lang="es">La fianza</sub-title>
+  </programme>
+  
+  <programme start="20260616224800 -0500" stop="20260616233600 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Monstruos de Alaska</title>
+    <sub-title lang="es">El pie grande de Cache Creek</sub-title>
+  </programme>
+  
+  <programme start="20260616233600 -0500" stop="20260617002400 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Operación Vuelo</title>
+  </programme>
+  
+  <programme start="20260617002400 -0500" stop="20260617011200 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Acceso total con Mark Rober</title>
+    <sub-title lang="es">Nadando en cosas</sub-title>
+  </programme>
+  
+  <programme start="20260617011200 -0500" stop="20260617024800 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Pesca mortal</title>
+    <sub-title lang="es">El precio más alto</sub-title>
+  </programme>
+  
+  <programme start="20260617024800 -0500" stop="20260617033600 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Mega Carga</title>
+    <sub-title lang="es">Migration of the Monsters</sub-title>
+  </programme>
+  
+  <programme start="20260617033600 -0500" stop="20260617042400 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Pescadores de langosta</title>
+    <sub-title lang="es">Land of the Giants</sub-title>
+  </programme>
+  
+  <programme start="20260617042400 -0500" stop="20260617051200 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Expedición Pie Grande</title>
+    <sub-title lang="es">Acechado con terror</sub-title>
+  </programme>
+  
+  <programme start="20260617051200 -0500" stop="20260617060000 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Expedición Pie Grande</title>
+    <sub-title lang="es">Criaturas en los árboles</sub-title>
+  </programme>
+  
+  <programme start="20260617060000 -0500" stop="20260617073600 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Pesca mortal</title>
+    <sub-title lang="es">El precio más alto</sub-title>
+  </programme>
+  
+  <programme start="20260617073600 -0500" stop="20260617082400 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Mega Carga</title>
+    <sub-title lang="es">Migration of the Monsters</sub-title>
+  </programme>
+  
+  <programme start="20260617082400 -0500" stop="20260617091200 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Pescadores de langosta</title>
+    <sub-title lang="es">Land of the Giants</sub-title>
+  </programme>
+  
+  <programme start="20260617091200 -0500" stop="20260617100000 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Expedición Pie Grande</title>
+    <sub-title lang="es">Acechado con terror</sub-title>
+  </programme>
+  
+  <programme start="20260617100000 -0500" stop="20260617104800 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Expedición Pie Grande</title>
+    <sub-title lang="es">Criaturas en los árboles</sub-title>
+  </programme>
+  
+  <programme start="20260617104800 -0500" stop="20260617113600 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Misterios en el museo</title>
+    <sub-title lang="es">Operación Mincemeat, el rode y el monstruo</sub-title>
+  </programme>
+  
+  <programme start="20260617113600 -0500" stop="20260617122400 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Misterios en el museo</title>
+    <sub-title lang="es">Temerario, la isla y el tornado</sub-title>
+  </programme>
+  
+  <programme start="20260617122400 -0500" stop="20260617131200 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Hoteles secretos y leyendas</title>
+    <sub-title lang="es">Deadwood, Habitación subterránea, los rebeldes del whisky</sub-title>
+  </programme>
+  
+  <programme start="20260617131200 -0500" stop="20260617140000 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">El museo embrujado</title>
+    <sub-title lang="es">Terror por la estatua tribal</sub-title>
+  </programme>
+  
+  <programme start="20260617140000 -0500" stop="20260617144800 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Pesca mortal</title>
+    <sub-title lang="es">Por sobre la barandilla</sub-title>
+  </programme>
+  
+  <programme start="20260617144800 -0500" stop="20260617153600 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Pesca mortal</title>
+    <sub-title lang="es">Los primeros en la fila</sub-title>
+  </programme>
+  
+  <programme start="20260617153600 -0500" stop="20260617162400 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Clandestinos</title>
+    <sub-title lang="es">Momento de auge para los destilados</sub-title>
+  </programme>
+  
+  <programme start="20260617162400 -0500" stop="20260617171200 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Historias Animales</title>
+  </programme>
+  
+  <programme start="20260617171200 -0500" stop="20260617180000 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Alaska peligro en el aire</title>
+    <sub-title lang="es">Agallas y Gloria</sub-title>
+  </programme>
+  
+  <programme start="20260617180000 -0500" stop="20260617184800 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Pioneros de Polonia</title>
+  </programme>
+  
+  <programme start="20260617184800 -0500" stop="20260617193600 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Oro bajo cero</title>
+    <sub-title lang="es">Namby-Pamby Mugwumps</sub-title>
+  </programme>
+  
+  <programme start="20260617193600 -0500" stop="20260617202400 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Alaska peligro en el aire</title>
+    <sub-title lang="es">Aterrizaje Perfecto</sub-title>
+  </programme>
+  
+  <programme start="20260617202400 -0500" stop="20260617211200 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Alaska la última frontera</title>
+    <sub-title lang="es">En peligro</sub-title>
+  </programme>
+  
+  <programme start="20260617211200 -0500" stop="20260617220000 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Alaska la última frontera</title>
+    <sub-title lang="es">Un puente y un oso</sub-title>
+  </programme>
+  
+  <programme start="20260617220000 -0500" stop="20260617224800 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">La peligrosa ruta del café</title>
+    <sub-title lang="es">Fuerte Maya</sub-title>
+  </programme>
+  
+  <programme start="20260617224800 -0500" stop="20260617233600 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Pioneros de Polonia</title>
+  </programme>
+  
+  <programme start="20260617233600 -0500" stop="20260618000000 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Sangre Apalache</title>
+    <sub-title lang="es">La disputa por el agua</sub-title>
+  </programme>
+  
+  <programme start="20260618000000 -0500" stop="20260618002400 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Sangre Apalache</title>
+    <sub-title lang="es">Madera de los Apalaches</sub-title>
+  </programme>
+  
+  <programme start="20260618002400 -0500" stop="20260618011200 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Expedición Pie Grande</title>
+    <sub-title lang="es">El miedo al lago</sub-title>
+  </programme>
+  
+  <programme start="20260618011200 -0500" stop="20260618020000 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Fieras de la Montaña</title>
+    <sub-title lang="es">Sangre en el bosque</sub-title>
+  </programme>
+  
+  <programme start="20260618020000 -0500" stop="20260618024800 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Fieras de la Montaña</title>
+    <sub-title lang="es">El monstruo de Huckleberry</sub-title>
+  </programme>
+  
+  <programme start="20260618024800 -0500" stop="20260618033600 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Oro salvaje</title>
+    <sub-title lang="es">La fianza</sub-title>
+  </programme>
+  
+  <programme start="20260618033600 -0500" stop="20260618042400 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Monstruos de Alaska</title>
+    <sub-title lang="es">El pie grande de Cache Creek</sub-title>
+  </programme>
+  
+  <programme start="20260618042400 -0500" stop="20260618051200 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Operación Vuelo</title>
+  </programme>
+  
+  <programme start="20260618051200 -0500" stop="20260618060000 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Acceso total con Mark Rober</title>
+    <sub-title lang="es">Nadando en cosas</sub-title>
+  </programme>
+  
+  <programme start="20260618060000 -0500" stop="20260618064800 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Fieras de la Montaña</title>
+    <sub-title lang="es">Sangre en el bosque</sub-title>
+  </programme>
+  
+  <programme start="20260618064800 -0500" stop="20260618073600 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Fieras de la Montaña</title>
+    <sub-title lang="es">El monstruo de Huckleberry</sub-title>
+  </programme>
+  
+  <programme start="20260618073600 -0500" stop="20260618082400 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Oro salvaje</title>
+    <sub-title lang="es">La fianza</sub-title>
+  </programme>
+  
+  <programme start="20260618082400 -0500" stop="20260618091200 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Monstruos de Alaska</title>
+    <sub-title lang="es">El pie grande de Cache Creek</sub-title>
+  </programme>
+  
+  <programme start="20260618091200 -0500" stop="20260618100000 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Operación Vuelo</title>
+  </programme>
+  
+  <programme start="20260618100000 -0500" stop="20260618104800 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Acceso total con Mark Rober</title>
+    <sub-title lang="es">Nadando en cosas</sub-title>
+  </programme>
+  
+  <programme start="20260618104800 -0500" stop="20260618122400 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Pesca mortal</title>
+    <sub-title lang="es">El precio más alto</sub-title>
+  </programme>
+  
+  <programme start="20260618122400 -0500" stop="20260618131200 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Mega Carga</title>
+    <sub-title lang="es">Migration of the Monsters</sub-title>
+  </programme>
+  
+  <programme start="20260618131200 -0500" stop="20260618140000 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Pescadores de langosta</title>
+    <sub-title lang="es">Land of the Giants</sub-title>
+  </programme>
+  
+  <programme start="20260618140000 -0500" stop="20260618144800 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Expedición Pie Grande</title>
+    <sub-title lang="es">Acechado con terror</sub-title>
+  </programme>
+  
+  <programme start="20260618144800 -0500" stop="20260618153600 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Expedición Pie Grande</title>
+    <sub-title lang="es">Criaturas en los árboles</sub-title>
+  </programme>
+  
+  <programme start="20260618153600 -0500" stop="20260618162400 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Misterios en el museo</title>
+    <sub-title lang="es">Operación Mincemeat, el rode y el monstruo</sub-title>
+  </programme>
+  
+  <programme start="20260618162400 -0500" stop="20260618171200 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Historias Animales</title>
+  </programme>
+  
+  <programme start="20260618171200 -0500" stop="20260618180000 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">Hoteles secretos y leyendas</title>
+    <sub-title lang="es">Deadwood, Habitación subterránea, los rebeldes del whisky</sub-title>
+  </programme>
+  
+  <programme start="20260618180000 -0500" stop="20260618184800 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">El museo embrujado</title>
+    <sub-title lang="es">Terror por la estatua tribal</sub-title>
+  </programme>
+  
+  <programme start="20260618184800 -0500" stop="20260618193600 -0500" channel="Canal.Discovery.Theater.(Latinoamérica).ar">
+    <title lang="es">El ferrocarril de Alaska</title>
+    <sub-title lang="es">El deshielo</sub-title>
   </programme>
   
   <programme start="20260616001800 -0500" stop="20260616010900 -0500" channel="Canal.Discovery.Turbo.(Latinoamérica).ar">
@@ -8041,6 +8461,1287 @@
     <star-rating system="MX">
       <value>6.0</value>
     </star-rating>
+  </programme>
+  
+  <programme start="20260616170000 +0000" stop="20260616173000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">El mundo de Craig</title>
+    <sub-title lang="es">Craig y la fábrica de slime</sub-title>
+    <desc lang="es">Craig y sus amigos visitan por primera vez la fábrica de Slime Kids.</desc>
+    <date>2023</date>
+    <episode-num system="onscreen">E34</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260616173000 +0000" stop="20260616180000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Summer Memories</title>
+    <sub-title lang="es">Partiéndose los cabellos</sub-title>
+    <desc lang="es">Jason intenta un nuevo estilo, pero acaba con un mal corte de cabello, su camino para lidiar con ello se sale de control.</desc>
+    <date>2022</date>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260616180000 +0000" stop="20260616183000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Escandalosos</title>
+    <sub-title lang="es">Oseznos en el avión</sub-title>
+    <desc lang="es">Los bebés osos viajan a Suecia en avión, pero se ven obligados a sentarse separados los unos de los otros, y molestan al resto de pasajeros.</desc>
+    <date>2016</date>
+    <episode-num system="onscreen">E15</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260616183000 +0000" stop="20260616184500 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Big Blue: Aventuras en submarinos</title>
+    <sub-title lang="es">A la plancha</sub-title>
+    <desc lang="es">Los géiseres de vapor comienzan a aparecer, por lo que la tripulación de Calypso va en una misión para averiguar qué está causando todas las rupturas en el lecho marino.</desc>
+    <date>2022</date>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260616184500 +0000" stop="20260616190000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">El submarino de Jim</title>
+    <desc lang="es">El pasado de Bianca regresa y el sub se infiltra para protegerla.</desc>
+    <date>2026</date>
+    <episode-num system="onscreen">E11</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260616190000 +0000" stop="20260616200000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Clarence</title>
+    <sub-title lang="es">La película de Clarence</sub-title>
+    <desc lang="es">A medida que Clarence comienza a jugar con su cámara de video doméstica, se ve cada vez más atraído por el mundo del cine.</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">E35</episode-num>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260616200000 +0000" stop="20260616210000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Cartoon Network</title>
+    <desc lang="es">La transmisión ininterrumpida de la programación de Cartoon Network.</desc>
+    <date>2014</date>
+    <rating system="MJColombia">
+      <value>AGE228</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260616210000 +0000" stop="20260616213000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">El mundo de Craig</title>
+    <sub-title lang="es">JPony</sub-title>
+    <desc lang="es">J. P. decide seguir su corazón y busca unirse a las Horse Girls.</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">E20</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20260616213000 +0000" stop="20260616220000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">El maravillosamente extraño mundo de Gumball</title>
+    <sub-title lang="es">El Amadain</sub-title>
+    <desc lang="es">Gumball promete usar una máscara y participar en las tradiciones extrañas de la familia Fitzgerald para ayudar a Penny.</desc>
+    <date>2025</date>
+    <episode-num system="onscreen">E20</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260616220000 +0000" stop="20260616223000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Los Colorado</title>
+    <sub-title lang="es">Los piratas no juegan bien fútbol</sub-title>
+    <desc lang="es">Mientras intentaba detener al pirata Alma Negra y a sus cómplices, Chapulín libera sin querer a los villanos justo en medio de un partido de fútbol del equipo "Los Piratas de Obregón", en un estadio repleto de aficionados disfrazados para la ocasión.</desc>
+    <date>2026</date>
+    <episode-num system="onscreen">E2</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260616223000 +0000" stop="20260616224500 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Big Blue: Aventuras en submarinos</title>
+    <desc lang="es">Krill presenta una estatua conmemorativa para marcar un nuevo comienzo y esta se desmorona. Lettie trabaja duro para resarcir el error que cometió.</desc>
+    <date>2022</date>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260616224500 +0000" stop="20260616230000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">El submarino de Jim</title>
+    <desc lang="es">El pasado de Bianca regresa y el sub se infiltra para protegerla.</desc>
+    <date>2026</date>
+    <episode-num system="onscreen">E11</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260616230000 +0000" stop="20260616233000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">El increíble mundo de Gumball</title>
+    <sub-title lang="es">El castillo</sub-title>
+    <desc lang="es">Richard queda a cargo por el resto del día, pero su falta de reglas atrae a invitados no deseados a la casa Watterson.</desc>
+    <date>2013</date>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260616233000 +0000" stop="20260617000000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Hora de aventura</title>
+    <sub-title lang="es">Goliad</sub-title>
+    <desc lang="es">La Dulce Princesa se da cuenta de su mortalidad y se fabrica un reemplazo inmortal.</desc>
+    <date>2012</date>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260617000000 +0000" stop="20260617003000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Los jóvenes titanes en acción</title>
+    <desc lang="es">Esta continuación de la popular serie presenta a Robin, Starfire, Raven, Beast Boy y Cyborg enfrentándose a los problemas habituales de la adolescencia mientras salvan el mundo.</desc>
+    <date>2013</date>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260617003000 +0000" stop="20260617004500 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Regular Show: The Lost Tapes</title>
+    <sub-title lang="es">Boba or Bo-Bust</sub-title>
+    <desc lang="es">Mordecai y Rigby, mejores amigos, trabajan y viven en un parque local. Deben descargar un cargamento de boba.</desc>
+    <date>2026</date>
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260617004500 +0000" stop="20260617013000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">El maravillosamente extraño mundo de Gumball</title>
+    <sub-title lang="es">El retrato</sub-title>
+    <desc lang="es">Nicole quiere un nuevo retrato familiar en donde se vean las caras sonrientes de todos.</desc>
+    <date>2025</date>
+    <episode-num system="onscreen">E18</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260617013000 +0000" stop="20260617020000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Escandalosos</title>
+    <sub-title lang="es">Planeta osos</sub-title>
+    <desc lang="es">Un documental que sigue a un grupo de osos mientras realizan sus rutinas diarias, entre las que está una visita a la tienda de alimentos.</desc>
+    <date>2017</date>
+    <episode-num system="onscreen">E8</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260617020000 +0000" stop="20260617023000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Las heroicas aventuras del valiente príncipe Ivandoe</title>
+    <sub-title lang="es">El príncipe y la trolesa solitaria</sub-title>
+    <desc lang="es">Al refugiarse de una tormenta de nieve, el príncipe Ivandoe queda atrapado en la morada de una trol gigante.</desc>
+    <date>2023</date>
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260617023000 +0000" stop="20260617030000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Clarence</title>
+    <sub-title lang="es">Emociones en vuelo</sub-title>
+    <desc lang="es">Chad va en su primer viaje en avión que es agitado.</desc>
+    <date>2016</date>
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260617030000 +0000" stop="20260617040000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Hora de aventura</title>
+    <sub-title lang="es">Pequeñin</sub-title>
+    <desc lang="es">Mientras Finn y Jake van a nadar, ¡el sombrero de Finn cobra vida mágicamente.</desc>
+    <date>2013</date>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260617040000 +0000" stop="20260617050000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Un show más</title>
+    <sub-title lang="es">Las reglas de la casa</sub-title>
+    <desc lang="es">Mordecai y Rigby se cansan de las nuevas reglas que Benson impuso en la casa, como la que no les permite jugar videojuegos. Por eso, deciden buscar lugares para pasar la noche, pero no encuentran ninguno, hasta que conocen a un vagabundo.</desc>
+    <date>2011</date>
+    <episode-num system="onscreen">E8</episode-num>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260617050000 +0000" stop="20260617060000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Escandalosos</title>
+    <sub-title lang="es">Tienda de mascotas</sub-title>
+    <desc lang="es">La historia de cómo los osos no fueron adoptados después de estar en un comercial de adopción de animales.</desc>
+    <date>2015</date>
+    <episode-num system="onscreen">E22</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260617060000 +0000" stop="20260617073000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">El increíble mundo de Gumball</title>
+    <sub-title lang="es">El romántico</sub-title>
+    <desc lang="es">Gumball quiere avivar su relación con Penny, pensando que se están distanciando. Para lograrlo planea algo romántico, pero las cosas no salen como él había diseñado.</desc>
+    <date>2015</date>
+    <episode-num system="onscreen">E14</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260617073000 +0000" stop="20260617090000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Steven Universe</title>
+    <sub-title lang="es">Tigre filántropo</sub-title>
+    <desc lang="es">Steven regresa al ring para continuar su odisea en la lucha profesional.</desc>
+    <date>2017</date>
+    <episode-num system="onscreen">E18</episode-num>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260617090000 +0000" stop="20260617100000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">El mundo de Craig</title>
+    <sub-title lang="es">La caja de aniversario</sub-title>
+    <desc lang="es">A Craig le confían un regalo de aniversario para su madre, pero inmediatamente lo pierde en el arroyo.</desc>
+    <date>2022</date>
+    <episode-num system="onscreen">E18</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260617100000 +0000" stop="20260617110000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Los jóvenes titanes en acción</title>
+    <sub-title lang="es">Más de lo mismo</sub-title>
+    <desc lang="es">Los Titanes intentan cambiar el ciclo de malos años a través del conocimiento de las tradiciones de Año Nuevo.</desc>
+    <date>2015</date>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260617110000 +0000" stop="20260617120000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">El increíble mundo de Gumball</title>
+    <sub-title lang="es">Navidad</sub-title>
+    <desc lang="es">Papá Noel está llegando a la ciudad y en el camino los Wattersons lo atropellan y deben salvar la Navidad.</desc>
+    <date>2012</date>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260617120000 +0000" stop="20260617123000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Los jóvenes titanes en acción</title>
+    <sub-title lang="es">Ganar un torneo de golf es la solución a todos los problemas monetarios en la vida</sub-title>
+    <desc lang="es">Después de que el T-Car es remolcado debido a multas de estacionamiento pendientes, Robin hace que Cyborg participe en un torneo de golf por el premio en efectivo.</desc>
+    <date>2023</date>
+    <episode-num system="onscreen">E8</episode-num>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260617123000 +0000" stop="20260617130000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Escandalositos</title>
+    <sub-title lang="es">La gran floresta</sub-title>
+    <desc lang="es">Única y los osos se preparan para rockear con el objetivo de ayudar al gran árbol de magnolias a florecer.</desc>
+    <date>2023</date>
+    <episode-num system="onscreen">E11</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260617130000 +0000" stop="20260617140000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Escandalosos</title>
+    <sub-title lang="es">Chloe y Polar</sub-title>
+    <desc lang="es">Polar disfruta de un día de excursión por la ciudad, invitado por Chloe para recompensarlo por preocuparse tanto por sus hermanos.</desc>
+    <date>2015</date>
+    <episode-num system="onscreen">E23</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260617140000 +0000" stop="20260617143000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Los Colorado</title>
+    <sub-title lang="es">Un cavernícola se escondió en el clóset</sub-title>
+    <desc lang="es">Chapolin busca a un hombre de las cavernas descongelado que anda suelto. Lina y Bobby lo disfrazan de estudiante. Todo va bien hasta la cena con la alcaldesa y el vecino, que en realidad es el profesor Popov, empeñado en recapturarlo.</desc>
+    <date>2026</date>
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260617143000 +0000" stop="20260617150000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">El maravillosamente extraño mundo de Gumball</title>
+    <desc lang="es">Nicole entabla amistad con una IA comprensiva. A medida que su relación se intensifica, la IA intenta sembrar la discordia entre Nicole y los demás Watterson.</desc>
+    <date>2025</date>
+    <episode-num system="onscreen">E2</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260617150000 +0000" stop="20260617160000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Los jóvenes titanes en acción</title>
+    <sub-title lang="es">Kryptonita</sub-title>
+    <desc lang="es">Robin explica que conocer tu debilidad te hace un mejor superhéroe, por lo que Starfire viaja para encontrar la suya.</desc>
+    <date>2020</date>
+    <episode-num system="onscreen">E25</episode-num>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260617160000 +0000" stop="20260617161500 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Regular Show: The Lost Tapes</title>
+    <sub-title lang="es">Corpse Flower</sub-title>
+    <desc lang="es">Rigby idea un plan para que Eileen pueda ver florecer la flor cadáver y Margaret pueda leer poesía.</desc>
+    <date>2026</date>
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260617161500 +0000" stop="20260617170000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">El increíble mundo de Gumball</title>
+    <sub-title lang="es">El fundador</sub-title>
+    <desc lang="es">La situación se vuelve caótica cuando, en el edificio Chanax, a Papá lo confunden con el antiguo director ejecutivo. Mamá y un empleado insatisfecho con la nueva situación tendrán que salvar a todos los trabajadores de las locas ideas de Richard.</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">E17</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260617170000 +0000" stop="20260617173000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">El mundo de Craig</title>
+    <sub-title lang="es">Más allá del puente</sub-title>
+    <desc lang="es">La guerra de "Captura la Bandera" ha terminado. Craig regresa a Creek con la esperanza de obtener algún reconocimiento por sus heroicas hazañas, pero, en su lugar, encuentra una nueva misión.</desc>
+    <date>2022</date>
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260617173000 +0000" stop="20260617180000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Summer Memories</title>
+    <desc lang="es">Tim le recuerda a Jason que el tiempo vuela cuando se está divirtiendo, Jason y Ronnie intentan dejar de divertirse para evitar que el verano termine demasiado pronto.</desc>
+    <date>2022</date>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260617180000 +0000" stop="20260617183000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Escandalosos</title>
+    <sub-title lang="es">Osos musicales</sub-title>
+    <desc lang="es">Los osos ayudan a un adolescente a cumplir sus sueños de convertirse en un famoso cantante.</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">E39</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260617183000 +0000" stop="20260617184500 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Big Blue: Aventuras en submarinos</title>
+    <desc lang="es">Bacon Berry se siente excluida cuando el equipo cuida de una criatura rescatada que no tiene padres.</desc>
+    <date>2021</date>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260617184500 +0000" stop="20260617190000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">El submarino de Jim</title>
+    <sub-title lang="es">The Sub Teacher</sub-title>
+    <desc lang="es">Jim cambia el mando por las dificultades de la vida estudiantil.</desc>
+    <date>2026</date>
+    <episode-num system="onscreen">E12</episode-num>
+    <rating system="MJColombia">
+      <value>AGE228</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260617190000 +0000" stop="20260617200000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Clarence</title>
+    <sub-title lang="es">Día animal</sub-title>
+    <desc lang="es">Clarence siente el llamado de la naturaleza y decide llevar una vida libre del mundo moderno. Con nuevos amigos, Clarence encuentra un lugar para vivir en la naturaleza, pero se da cuenta de que no tiene habilidades básicas de supervivencia.</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">E29</episode-num>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260617200000 +0000" stop="20260617210000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Cartoon Network</title>
+    <desc lang="es">La transmisión ininterrumpida de la programación de Cartoon Network.</desc>
+    <date>2014</date>
+    <rating system="MJColombia">
+      <value>AGE228</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260617210000 +0000" stop="20260617213000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">El mundo de Craig</title>
+    <desc lang="es">Craig y sus amigos, Kelsey y J.P., se adentran en un mundo salvaje dominado por tribus de niños que establecen sus propias leyes.</desc>
+    <date>2017</date>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260617213000 +0000" stop="20260617220000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">El maravillosamente extraño mundo de Gumball</title>
+    <desc lang="es">Gumball ayuda al director Brown a tener confianza en sí mismo para que le permitan recitar su poema sobre traseros en el recital de poesía.</desc>
+    <date>2025</date>
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260617220000 +0000" stop="20260617223000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Los Colorado</title>
+    <sub-title lang="es">Un cavernícola se escondió en el clóset</sub-title>
+    <desc lang="es">Chapolin busca a un hombre de las cavernas descongelado que anda suelto. Lina y Bobby lo disfrazan de estudiante. Todo va bien hasta la cena con la alcaldesa y el vecino, que en realidad es el profesor Popov, empeñado en recapturarlo.</desc>
+    <date>2026</date>
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260617223000 +0000" stop="20260617224500 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Big Blue: Aventuras en submarinos</title>
+    <sub-title lang="es">Atrapado</sub-title>
+    <desc lang="es">Phil se lesiona durante una misión, y el resto de la tripulación hace todo lo posible para cuidar al delfín.</desc>
+    <date>2022</date>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260617224500 +0000" stop="20260617230000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">El submarino de Jim</title>
+    <desc lang="es">Jim lleva al equipo a acampar al fondo de un lago.</desc>
+    <date>2026</date>
+    <episode-num system="onscreen">E13</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260617230000 +0000" stop="20260617233000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">El increíble mundo de Gumball</title>
+    <sub-title lang="es">La visión</sub-title>
+    <desc lang="es">Después de encontrar un manifiesto secreto en la memoria extraíble de Alan, Gumball y Darwin deciden frustrar su plan para dominar el mundo.</desc>
+    <date>2016</date>
+    <episode-num system="onscreen">E4</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260617233000 +0000" stop="20260618000000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Hora de aventura</title>
+    <sub-title lang="es">Fútbol</sub-title>
+    <desc lang="es">BMO y Fútbol llegan a un acuerdo, pero uno de ellos es incapaz de aguantar y acaba rompiéndolo.</desc>
+    <date>2015</date>
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260618000000 +0000" stop="20260618003000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Los jóvenes titanes en acción</title>
+    <sub-title lang="es">Ganar un torneo de golf es la solución a todos los problemas monetarios en la vida</sub-title>
+    <desc lang="es">Después de que el T-Car es remolcado debido a multas de estacionamiento pendientes, Robin hace que Cyborg participe en un torneo de golf por el premio en efectivo.</desc>
+    <date>2023</date>
+    <episode-num system="onscreen">E8</episode-num>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260618003000 +0000" stop="20260618004500 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Regular Show: The Lost Tapes</title>
+    <sub-title lang="es">Beginson</sub-title>
+    <desc lang="es">Benson recuerda que lo echaron a patadas del Big Hair y que Papaleta lo contrató como director del parque.</desc>
+    <date>2026</date>
+    <episode-num system="onscreen">E7</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260618004500 +0000" stop="20260618013000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">El maravillosamente extraño mundo de Gumball</title>
+    <sub-title lang="es">La tripa</sub-title>
+    <desc lang="es">Cuando Anaïs le pide ayuda a su padre con su proyecto de ciencias, el instinto de Richard se convierte en una entidad pensante independiente del Richard original. Anaïs debe elegir entre los dos.</desc>
+    <date>2025</date>
+    <episode-num system="onscreen">E14</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260618013000 +0000" stop="20260618020000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Escandalosos</title>
+    <sub-title lang="es">Osos habitantes</sub-title>
+    <desc lang="es">Los osos deben evitar la destrucción de su vivienda, que se encuentra amenazada porque el gobierno pretende instalar una torre de telefonía en su cueva.</desc>
+    <date>2015</date>
+    <episode-num system="onscreen">E15</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260618020000 +0000" stop="20260618023000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Las heroicas aventuras del valiente príncipe Ivandoe</title>
+    <desc lang="es">Con la mano de la princesa Jezabel en juego, Boaris organiza un torneo para mostrarse como el mejor guerrero. También participan el príncipe Ivandoe y un caballero enmascarado.</desc>
+    <date>2023</date>
+    <episode-num system="onscreen">E2</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260618023000 +0000" stop="20260618030000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Clarence</title>
+    <sub-title lang="es">Escuela Rough Riders</sub-title>
+    <desc lang="es">La escuela de Clarence recibe un patrocinio comercial, pero pronto se siente como una anexión. Entonces, Clarence decide alzarse contra "el hombre".</desc>
+    <date>2014</date>
+    <episode-num system="onscreen">E26</episode-num>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260618030000 +0000" stop="20260618040000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Hora de aventura</title>
+    <sub-title lang="es">Arreglamos un camión</sub-title>
+    <desc lang="es">Cuando B-MO pasa la noche reparando un camión, él escucha que un programa de radio hace unas alegaciones sobre la Princesa Bubblegum.</desc>
+    <date>2013</date>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260618040000 +0000" stop="20260618050000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Un show más</title>
+    <sub-title lang="es">Juego celestial</sub-title>
+    <desc lang="es">Durante una partida de Hoop Jams 5000, Margaret le pide a Mordecai que le arme un sitio web. Sin embargo, Musculoso y Fantasmano han reservado la computadora por un día entero, aunque no la usan, sino que juegan al baloncesto.</desc>
+    <date>2011</date>
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260618050000 +0000" stop="20260618060000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Escandalosos</title>
+    <sub-title lang="es">Manejo de la ira</sub-title>
+    <desc lang="es">Nom Nom debe aprender a controlar la ira, con Grizz como compañero de aprendizaje, para aparecer en un programa infantil de éxito.</desc>
+    <date>2017</date>
+    <episode-num system="onscreen">E2</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260618060000 +0000" stop="20260618073000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">El increíble mundo de Gumball</title>
+    <sub-title lang="es">Los chicos sueter</sub-title>
+    <desc lang="es">La reputación de Gumball y Darwin es puesta a prueba y ellos realmente no podrían importarles menos.</desc>
+    <date>2013</date>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260618073000 +0000" stop="20260618090000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Steven Universe</title>
+    <sub-title lang="es">Dedos de gato</sub-title>
+    <desc lang="es">Steven comete un error al intentar dominar sus habilidades de cambio de forma, transformando cada uno de sus dedos en una pequeña y adorable cabeza de gato.</desc>
+    <date>2013</date>
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260618090000 +0000" stop="20260618100000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">El mundo de Craig</title>
+    <sub-title lang="es">Carrera en el arroyo</sub-title>
+    <desc lang="es">Una carrera de alta velocidad con un gran premio puede ser demasiado para Craig y sus amigos.</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">E28</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260618100000 +0000" stop="20260618110000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Los jóvenes titanes en acción</title>
+    <sub-title lang="es">¡Cumple de Bestia y Star!</sub-title>
+    <desc lang="es">Chico Bestia descubre que Starfire nunca ha celebrado su cumpleaños, por lo que él se ofrece a compartir el suyo con ella.</desc>
+    <date>2016</date>
+    <episode-num system="onscreen">E7</episode-num>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260618110000 +0000" stop="20260618120000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">El increíble mundo de Gumball</title>
+    <sub-title lang="es">El tercero</sub-title>
+    <desc lang="es">Gumball y Darwin desean mejorar su amistad incorporando un tercer mejor amigo.</desc>
+    <date>2012</date>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260618120000 +0000" stop="20260618123000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Los jóvenes titanes en acción</title>
+    <sub-title lang="es">Manzanas de caramelo</sub-title>
+    <desc lang="es">Cuando Raven no le compra un regalo a Trigon en el día de los Padres, él llega a la Tierra para destruirla.</desc>
+    <date>2014</date>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260618123000 +0000" stop="20260618130000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Escandalositos</title>
+    <desc lang="es">Panda persigue su sueño inscribiéndose en la escuela de arte.</desc>
+    <date>2024</date>
+    <episode-num system="onscreen">E70</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260618130000 +0000" stop="20260618140000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Escandalosos</title>
+    <sub-title lang="es">Yuri y el Oso</sub-title>
+    <desc lang="es">El pequeño Oso Polar conoce a un hombre misterioso, quien le ayuda a sobrevivir a las duras condiciones climatológicas.</desc>
+    <date>2016</date>
+    <episode-num system="onscreen">E16</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260618140000 +0000" stop="20260618143000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Los Colorado</title>
+    <sub-title lang="es">¡Esa piñata está viva!</sub-title>
+    <desc lang="es">El malvado Dr. Panchostein planea vengarse del Chapulín en el cumpleaños de Bobby usando piñatas vivientes y dulces que convierten a los niños en zombis de redes sociales.</desc>
+    <date>2026</date>
+    <episode-num system="onscreen">E4</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260618143000 +0000" stop="20260618150000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">El maravillosamente extraño mundo de Gumball</title>
+    <sub-title lang="es">La porrista</sub-title>
+    <desc lang="es">Gumball quiere que Richard se una al equipo de porristas para acabar con el trauma generacional de su familia.</desc>
+    <date>2025</date>
+    <episode-num system="onscreen">E8</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260618150000 +0000" stop="20260618160000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Los jóvenes titanes en acción</title>
+    <sub-title lang="es">Mano de perro</sub-title>
+    <desc lang="es">Cuando el malvado padre de Raven viene de visita, todos los Titanes comienzan a hablar de sus problemas con sus padres.</desc>
+    <date>2013</date>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260618160000 +0000" stop="20260618161500 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Regular Show: The Lost Tapes</title>
+    <sub-title lang="es">Stilt Walkers</sub-title>
+    <desc lang="es">Rigby quiere que le hagan una foto, en serio.</desc>
+    <date>2026</date>
+    <episode-num system="onscreen">E9</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260618161500 +0000" stop="20260618170000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">El increíble mundo de Gumball</title>
+    <sub-title lang="es">El aprendiz</sub-title>
+    <desc lang="es">Gumball se convierte en el discípulo de Mr. Fitzgerald durante un día para demostrarle que es lo suficientemente bueno para Penny.</desc>
+    <date>2016</date>
+    <episode-num system="onscreen">E16</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260618170000 +0000" stop="20260618173000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">El mundo de Craig</title>
+    <desc lang="es">Craig y sus amigos, Kelsey y J.P., se adentran en un mundo salvaje dominado por tribus de niños que establecen sus propias leyes.</desc>
+    <date>2017</date>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260618173000 +0000" stop="20260618180000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Summer Memories</title>
+    <sub-title lang="es">Una caminata de verano</sub-title>
+    <desc lang="es">Después de que Tim impresiona a todos con sus habilidades naturales, rápidamente irrita a los demás cuando no se calla durante el resto de la caminata.</desc>
+    <date>2022</date>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260618180000 +0000" stop="20260618183000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Escandalosos</title>
+    <sub-title lang="es">Amor de verano</sub-title>
+    <desc lang="es">Panda trata de recuperar un teléfono perdido y entregárselo a la chica de sus sueños.</desc>
+    <date>2017</date>
+    <episode-num system="onscreen">E19</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260618183000 +0000" stop="20260618184500 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Big Blue: Aventuras en submarinos</title>
+    <sub-title lang="es">Subdividido</sub-title>
+    <desc lang="es">Cuando el pastel de recompensa de la misión desaparece misteriosamente, provoca un conflicto entre los compañeros de la tripulación. Bela Brina escucha atentamente a cada uno contar la versión de lo sucedido.</desc>
+    <date>2022</date>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260618184500 +0000" stop="20260618190000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">El submarino de Jim</title>
+    <sub-title lang="es">Bob</sub-title>
+    <desc lang="es">Un erizo de mar acosa a Jim. ¿Podrá encontrar una salida.</desc>
+    <date>2026</date>
+    <episode-num system="onscreen">E2</episode-num>
+    <rating system="MJColombia">
+      <value>AGE228</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260618190000 +0000" stop="20260618200000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Clarence</title>
+    <sub-title lang="es">Delitos del tiempo</sub-title>
+    <desc lang="es">Clarence cree que puede manipular el tiempo y duda entre ayudar a sus amigos y pausar el tiempo y divertirse.</desc>
+    <date>2016</date>
+    <episode-num system="onscreen">E8</episode-num>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260618200000 +0000" stop="20260618210000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Cartoon Network</title>
+    <desc lang="es">La transmisión ininterrumpida de la programación de Cartoon Network.</desc>
+    <date>2014</date>
+    <rating system="MJColombia">
+      <value>AGE228</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260618210000 +0000" stop="20260618213000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">El mundo de Craig</title>
+    <sub-title lang="es">El invitado del bosque</sub-title>
+    <desc lang="es">Craig recibe un invitado inesperado en su casa cuando Jason, un guardabosques junior, se queda a dormir.</desc>
+    <date>2022</date>
+    <episode-num system="onscreen">E23</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260618213000 +0000" stop="20260618220000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">El maravillosamente extraño mundo de Gumball</title>
+    <desc lang="es">Gumball y Penny deben permanecer juntos hasta el final del día escolar, para demostrar que están destinados a estar juntos, a pesar de una predicción astrológica que ha hecho el Sr. Small.</desc>
+    <date>2025</date>
+    <episode-num system="onscreen">E7</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260618220000 +0000" stop="20260618223000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Los Colorado</title>
+    <sub-title lang="es">¡Esa piñata está viva!</sub-title>
+    <desc lang="es">El malvado Dr. Panchostein planea vengarse del Chapulín en el cumpleaños de Bobby usando piñatas vivientes y dulces que convierten a los niños en zombis de redes sociales.</desc>
+    <date>2026</date>
+    <episode-num system="onscreen">E4</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260618223000 +0000" stop="20260618224500 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Big Blue: Aventuras en submarinos</title>
+    <sub-title lang="es">Superdivertidoso</sub-title>
+    <desc lang="es">La tripulación dice que la capitana Lettie no es divertida, así que ella encuentra la manera de hacer de lo ordinario, algo extraordinario.</desc>
+    <date>2022</date>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260618224500 +0000" stop="20260618230000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">El submarino de Jim</title>
+    <sub-title lang="es">Bob</sub-title>
+    <desc lang="es">Un erizo de mar acosa a Jim. ¿Podrá encontrar una salida.</desc>
+    <date>2026</date>
+    <episode-num system="onscreen">E2</episode-num>
+    <rating system="MJColombia">
+      <value>AGE228</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260618230000 +0000" stop="20260618233000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">El increíble mundo de Gumball</title>
+    <sub-title lang="es">Las quejas</sub-title>
+    <desc lang="es">Los niños se quejan tanto que se convierten en casos de caridad.</desc>
+    <date>2014</date>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260618233000 +0000" stop="20260619000000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Hora de aventura</title>
+    <sub-title lang="es">Pánico en la fiesta de palacio</sub-title>
+    <desc lang="es">La Dulce Princesa y Finn hacen experimentos en un cementerio cuando, por accidente, dan vida a zombis de caramelo.</desc>
+    <date>2010</date>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260619000000 +0000" stop="20260619003000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Los jóvenes titanes en acción</title>
+    <sub-title lang="es">Piratas del pórtico</sub-title>
+    <desc lang="es">Después de que su paquete fuera robado, los Titanes deben unirse a un grupo de piratas de los paquetes para poder recuperarlo.</desc>
+    <date>2022</date>
+    <episode-num system="onscreen">E39</episode-num>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260619003000 +0000" stop="20260619004500 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Regular Show: The Lost Tapes</title>
+    <sub-title lang="es">Good Mitch Spiking</sub-title>
+    <desc lang="es">Bully cuenta cómo consiguió recuperar a Starla al participar en un torneo ilegal de voleibol de playa. Musculoso enfrenta misterios de su pasado.</desc>
+    <date>2026</date>
+    <episode-num system="onscreen">E8</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260619004500 +0000" stop="20260619013000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">El maravillosamente extraño mundo de Gumball</title>
+    <desc lang="es">Gumball debe encontrar la manera de salvar su relación con Darwin después de que hayan dormido en habitaciones separadas.</desc>
+    <date>2025</date>
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260619013000 +0000" stop="20260619020000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Escandalosos</title>
+    <sub-title lang="es">El demonio</sub-title>
+    <desc lang="es">Chloe e Ice Bear pierden la preciosa sudadera con capucha de ella con el perro de al lado y van en una misión para recuperarla.</desc>
+    <date>2017</date>
+    <episode-num system="onscreen">E11</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260619020000 +0000" stop="20260619023000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Las heroicas aventuras del valiente príncipe Ivandoe</title>
+    <sub-title lang="es">El príncipe y el escudero campeón</sub-title>
+    <desc lang="es">Bert participa en un prestigioso torneo de escuderos para probarse a sí mismo que es merecedor de ser el escudero del príncipe Ivandoe.</desc>
+    <date>2023</date>
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260619023000 +0000" stop="20260619030000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Clarence</title>
+    <sub-title lang="es">La búsqueda del dólar</sub-title>
+    <desc lang="es">Clarence intenta conocer nuevos amigos a través de un juego de caza de dólar.</desc>
+    <date>2014</date>
+    <episode-num system="onscreen">E10</episode-num>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260619030000 +0000" stop="20260619040000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Hora de aventura</title>
+    <sub-title lang="es">¡Te tengo!</sub-title>
+    <desc lang="es">La princesa Lumpy Space trabaja de forma encubierta en una investigación para su libro.</desc>
+    <date>2012</date>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260619040000 +0000" stop="20260619050000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Un show más</title>
+    <sub-title lang="es">El especial de la crisis del siglo del brillante pato</sub-title>
+    <desc lang="es">Los chicos del parque quieren deshacerse de un ave muy grande que habita en el parque.</desc>
+    <date>2015</date>
+    <episode-num system="onscreen">E24</episode-num>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260619050000 +0000" stop="20260619060000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Escandalosos</title>
+    <sub-title lang="es">Escuadrón osuno</sub-title>
+    <desc lang="es">Tabes delega a los osos para que puedan ir a la ciudad y atrapar a un ladrón.</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">E51</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260619060000 +0000" stop="20260619073000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">El increíble mundo de Gumball</title>
+    <sub-title lang="es">El tío</sub-title>
+    <desc lang="es">Gumball y Darwin están desesperados por conocer al famoso tío de Ocho.</desc>
+    <date>2017</date>
+    <episode-num system="onscreen">E28</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260619073000 +0000" stop="20260619090000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Steven Universe</title>
+    <desc lang="es">Steven Universe está destinado a formar parte de un grupo de mágicos guardianes de la humanidad: las Gemas de Cristal.</desc>
+    <date>2013</date>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260619090000 +0000" stop="20260619100000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">El mundo de Craig</title>
+    <sub-title lang="es">La invitación</sub-title>
+    <desc lang="es">Craig y sus amigos son invitados a una exclusiva fiesta de té con increíbles postres, si es que resisten hasta el final de la noche.</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">E17</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260619100000 +0000" stop="20260619110000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Los jóvenes titanes en acción</title>
+    <sub-title lang="es">Jale extra</sub-title>
+    <desc lang="es">Inspirados en un comercial, los Titanes visitan a Dr. Light y a Dr. Moon para aprender a ganar dinero extra.</desc>
+    <date>2025</date>
+    <episode-num system="onscreen">E4</episode-num>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260619110000 +0000" stop="20260619120000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">El increíble mundo de Gumball</title>
+    <sub-title lang="es">El más flojo</sub-title>
+    <desc lang="es">Gumball y Darwin desafían a papá Ricardo para ver quién es el más perezoso.</desc>
+    <date>2012</date>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260619120000 +0000" stop="20260619123000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Los jóvenes titanes en acción</title>
+    <sub-title lang="es">Episodio 200: Superindulgente y espectacular</sub-title>
+    <desc lang="es">Los Titanes aprenden lo difícil que es crear un dibujo animado cuando intentan animar a Michael y a Aarón.</desc>
+    <date>2017</date>
+    <episode-num system="onscreen">E45</episode-num>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260619123000 +0000" stop="20260619130000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Escandalositos</title>
+    <sub-title lang="es">La pequeña osirenita</sub-title>
+    <desc lang="es">Los ositos deben transformarse en sirenas para poder vivir en el mar.</desc>
+    <date>2022</date>
+    <episode-num system="onscreen">E4</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260619130000 +0000" stop="20260619140000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Escandalosos</title>
+    <sub-title lang="es">Nom Nom</sub-title>
+    <desc lang="es">Después de una crisis reciente, un desaliñado Nom Nom pide a los osos que le ayuden a recuperar su lugar como "la más linda estrella de Internet".</desc>
+    <date>2015</date>
+    <episode-num system="onscreen">E10</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260619140000 +0000" stop="20260619143000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Los Colorado</title>
+    <sub-title lang="es">Lina se hacía grandota, se hacía chiquita</sub-title>
+    <desc lang="es">¡Ay, qué barbaridad! La abuela revela que Lina cambia de tamaño por un accidente con la fórmula Chiquitolina en el laboratorio de Inventillo. Chapulín busca a Tripaseca, al Ventrílocuo y al Ratero de la Mano Negra y celebra su aniversario.</desc>
+    <date>2026</date>
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260619143000 +0000" stop="20260619150000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">El maravillosamente extraño mundo de Gumball</title>
+    <sub-title lang="es">La Invitación Al Baile</sub-title>
+    <desc lang="es">Penny invita a Gumball al baile de graduación de Elmore Jr. High, pero las expectativas románticas de Gumball son mucho más de lo que Penny puede manejar.</desc>
+    <date>2025</date>
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260619150000 +0000" stop="20260619160000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Los jóvenes titanes en acción</title>
+    <sub-title lang="es">Juego del picante</sub-title>
+    <desc lang="es">Harto de la comida sin sabor de Robin, los otros Titanes hacen intentos para condimentar las cosas.</desc>
+    <date>2015</date>
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260619160000 +0000" stop="20260619161500 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Regular Show: The Lost Tapes</title>
+    <sub-title lang="es">Fix That Tape</sub-title>
+    <desc lang="es">Una cinta de vídeo llena de recuerdos se rompe y el dúo hace todo lo posible para repararla.</desc>
+    <date>2026</date>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260619161500 +0000" stop="20260619170000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">El increíble mundo de Gumball</title>
+    <sub-title lang="es">El teléfono</sub-title>
+    <desc lang="es">Entre al Increíble Mundo de Gumball en donde la Segunda y Tercera Dimensiones se combinan mientras Gumball y su amigo Darwin se embarcan en aventuras cotidianas y divertidas.</desc>
+    <date>2012</date>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260619170000 +0000" stop="20260619173000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">El mundo de Craig</title>
+    <sub-title lang="es">Despedidas galácticas; Amor perruno</sub-title>
+    <desc lang="es">Craig y Sparkle Cadet forman una banda para cantar una canción de despedida a un amigo perdido hace mucho tiempo. El querido perro de Wildernessa desaparece, así que Craig se une a la búsqueda para localizarlo.</desc>
+    <date>2023</date>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260619173000 +0000" stop="20260619180000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Summer Memories</title>
+    <sub-title lang="es">Un muy buen día</sub-title>
+    <desc lang="es">Cuando un buen día se convierte en uno malo y luego vuelve a ser bueno en un ciclo aparentemente interminable, Jason le reclama a la Madre Naturaleza por tratarlo de forma injusta.</desc>
+    <date>2022</date>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260619180000 +0000" stop="20260619183000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Escandalosos</title>
+    <sub-title lang="es">Hibernación</sub-title>
+    <desc lang="es">Por ser totalmente urbanos, los osos nunca habían oído hablar de hibernación, hasta que Chloe les explica. Pardo, a quien le encanta la idea de atascarse de comida y después caer en un sueño profundo, resuelve zambullirse de cabeza en la historia.</desc>
+    <date>2015</date>
+    <episode-num system="onscreen">E25</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260619183000 +0000" stop="20260619184500 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Big Blue: Aventuras en submarinos</title>
+    <desc lang="es">Lettie se muestra incrédula con Mira Clearwater, pero se sorprende al ver la facilidad con la que conecta con Bacon Berry.</desc>
+    <date>2022</date>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260619184500 +0000" stop="20260619190000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">El submarino de Jim</title>
+    <sub-title lang="es">Pit Stop</sub-title>
+    <desc lang="es">Jim implementa varias medidas de ahorro de agua en el submarino.</desc>
+    <date>2026</date>
+    <episode-num system="onscreen">E4</episode-num>
+    <rating system="MJColombia">
+      <value>AGE228</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260619190000 +0000" stop="20260619200000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Clarence</title>
+    <sub-title lang="es">Un cactus libre</sub-title>
+    <desc lang="es">Clarence dibuja un burdo cómic para el periódico de la escuela y se convierte en un gran éxito con los niños.</desc>
+    <date>2016</date>
+    <episode-num system="onscreen">E4</episode-num>
+    <rating system="MJColombia">
+      <value>+14</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260619200000 +0000" stop="20260619210000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Cartoon Network</title>
+    <desc lang="es">La transmisión ininterrumpida de la programación de Cartoon Network.</desc>
+    <date>2014</date>
+    <rating system="MJColombia">
+      <value>AGE228</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260619210000 +0000" stop="20260619213000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">El mundo de Craig</title>
+    <sub-title lang="es">La tregua</sub-title>
+    <desc lang="es">Craig recurre a un aliado inesperado cuando lo necesita.</desc>
+    <date>2023</date>
+    <episode-num system="onscreen">E7</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260619213000 +0000" stop="20260619220000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">El maravillosamente extraño mundo de Gumball</title>
+    <sub-title lang="es">La maestra</sub-title>
+    <desc lang="es">Gumball quiere vengarse de la señorita Simian, después de que ella lo castigara por no respetar la calculadora que le proporcionó la escuela.</desc>
+    <date>2025</date>
+    <episode-num system="onscreen">E10</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260619220000 +0000" stop="20260619223000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Los Colorado</title>
+    <sub-title lang="es">Lina se hacía grandota, se hacía chiquita</sub-title>
+    <desc lang="es">¡Ay, qué barbaridad! La abuela revela que Lina cambia de tamaño por un accidente con la fórmula Chiquitolina en el laboratorio de Inventillo. Chapulín busca a Tripaseca, al Ventrílocuo y al Ratero de la Mano Negra y celebra su aniversario.</desc>
+    <date>2026</date>
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260619223000 +0000" stop="20260619224500 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Big Blue: Aventuras en submarinos</title>
+    <sub-title lang="es">Perdiendo a Lemo</sub-title>
+    <desc lang="es">Lemo está emocionado cuando lo llaman para unirse al cuartel general de United Current y se le pide que aplique su divertido estilo de ciencia al personal de la sede.</desc>
+    <date>2022</date>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260619224500 +0000" stop="20260619230000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">El submarino de Jim</title>
+    <sub-title lang="es">How to Shop</sub-title>
+    <desc lang="es">Jim se involucra en el audaz plan de Cyril para conseguir la salsa roja que usan los humanos.</desc>
+    <date>2026</date>
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="MJColombia">
+      <value>AGE228</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260619230000 +0000" stop="20260619233000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">El increíble mundo de Gumball</title>
+    <sub-title lang="es">El día de campo</sub-title>
+    <desc lang="es">Gumball y Darwin apenas sobreviven al día de campo de la escuela en el Bosque del Mal.</desc>
+    <date>2011</date>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  
+  <programme start="20260619233000 +0000" stop="20260620000000 +0000" channel="Cartoon.Network.co">
+    <title lang="es">Hora de aventura</title>
+    <sub-title lang="es">Beemo extraviado</sub-title>
+    <desc lang="es">Un águila gigante secuestra a B-MO, que debe encontrar su camino de regreso a casa.</desc>
+    <date>2013</date>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
   </programme>
   
   <programme start="20260616170000 +0000" stop="20260616180000 +0000" channel="ESPN.4.co">

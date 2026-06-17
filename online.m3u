@@ -1,48 +1,52 @@
 #EXTM3U
+#EXTINF:-1 tvg-name=""tvg-id="Canal.Discovery.Theater.(Latinoamérica).ar"tvg-logo=""group-title="DOCUMENTALES",DISCOVERY THEATHER HD
+http://tecnotv.club/j3vr/phpcode/lista2.php?c=a05g&f=.m3u8&token=tecnotokenplustv230516F
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DOCUMENTALES",Discovery Channel HD
-http://tecnotv.club/ncnq/phpcode/lista2.php?c=a05p&f=.m3u8&token=tecnotokenplustv230516F
+http://tecnotv.club/j3vr/phpcode/ssiptv.php?c=a036&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DOCUMENTALES",Discovery ID HD
-http://tecnotv.club/ncnq/phpcode/lista1.php?c=a0ch&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/j3vr/phpcode/ssiptv.php?c=a0rx&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="Canal.Discovery.Turbo.(Latinoamérica).ar"tvg-logo=""group-title="DOCUMENTALES",Discovery Turbo
-http://tecnotv.club/ncnq/phpcode/lista1.php?c=a0c4&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/j3vr/phpcode/ssiptv.php?c=a03t&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="Canal.Discovery.World.Latinoamérica.ar"tvg-logo=""group-title="DOCUMENTALES",Discovery World HD
-http://tecnotv.club/ncnq/phpcode/lista4.php?c=a05g&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/j3vr/phpcode/ssiptv.php?c=a0ru&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="Canal.History.2.(México).mx"tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/history_2-mediano.png"group-title="DOCUMENTALES",History 2
-http://tecnotv.club/ncnq/phpcode/lista1.php?c=a0dj&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/j3vr/phpcode/ssiptv.php?c=a029&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-name="HistoryChannelHD"tvg-id="HISTORY.CHANNEL.co"tvg-logo="https://en.wikipedia.org/wiki/History_Channel#/media/File:History_(2021).svg"group-title="DOCUMENTALES",History Channel HD
-http://tecnotv.club/ncnq/phpcode/lista2.php?c=a05m&f=.m3u8&token=tecnotokenplustv230516F
+http://tecnotv.club/j3vr/phpcode/ssiptv.php?c=a038&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DOCUMENTALES",Nat Geo HD
-http://tecnotv.club/ncnq/phpcode/lista3.php?c=15&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/j3vr/phpcode/ssiptv.php?c=a0rq&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="Historia.es@SD"tvg-logo="https://i.imgur.com/VUy8xIG.png"group-title="DOCUMENTALES",Historia (1080p)
 https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
 #EXTINF:-1 tvg-name="CINDIE"tvg-id=""tvg-logo="https://imgur.com/Q7kuIdC.png"group-title="ENTRETENIMIENTO",CINDIE
-http://tecnotv.club/ncnq/phpcode/distro.php?c=cindie-tv
+http://tecnotv.club/j3vr/phpcode/distro.php?c=cindie-tv
 #EXTINF:-1 tvg-name="DEPELICULA"tvg-id="Canal.De.Película.ar"tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula-mediano.png"group-title="ENTRETENIMIENTO",DE PELICULA
-http://tecnotv.club/ncnq/phpcode/ssiptv.php?c=a05n&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/j3vr/phpcode/ssiptv.php?c=a004&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Boomerang
-http://tecnotv.club/ncnq/phpcode/lista3.php?c=53&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/j3vr/phpcode/lista3.php?c=53&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-name="CARTOON NT"tvg-id="Cartoon.Network.co"tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network_latinoamerica-mediano.png"group-title="ENTRETENIMIENTO",CARTOON NT HD
+http://tecnotv.club/j3vr/phpcode/lista1.php?c=a0c0&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Disney channel
-http://tecnotv.club/ncnq/phpcode/lista2.php?c=a03b&f=.m3u8&token=tecnotokenplustv230516F
+http://tecnotv.club/j3vr/phpcode/lista2.php?c=a03b&f=.m3u8&token=tecnotokenplustv230516F
 #EXTINF:-1 tvg-name="Tooncast"tvg-id="Canal.Tooncast.ar"tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tooncast-mediano.png"group-title="ENTRETENIMIENTO",Tooncast
-http://tecnotv.club/ncnq/phpcode/lista3.php?c=14&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/j3vr/phpcode/ssiptv.php?c=a02z&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Adult Swim
-http://tecnotv.club/ncnq/phpcode/lista4.php?c=a06r&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/j3vr/phpcode/ssiptv.php?c=a04n&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",FX HD
-http://tecnotv.club/ncnq/phpcode/lista1.php?c=a08x&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/j3vr/phpcode/ssiptv.php?c=a0qz&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="Canal.HBO.Family.Latinoamérica.ar"tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_family-mediano.png"group-title="ENTRETENIMIENTO",HBO Family HD
-http://tecnotv.club/ncnq/phpcode/lista1.php?c=a0cu&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/j3vr/phpcode/ssiptv.php?c=a00o&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="Canal.HBO.(Argentina).ar"tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica-mediano.png"group-title="ENTRETENIMIENTO",HBO HD
-http://tecnotv.club/ncnq/phpcode/lista1.php?c=a0cv&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/j3vr/phpcode/ssiptv.php?c=a00l&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-name="HBO Plus"tvg-id="Canal.HBO.Plus.ar"tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_plus-mediano.png"group-title="ENTRETENIMIENTO",HBO Plus HD
-http://tecnotv.club/ncnq/phpcode/lista3.php?c=21&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/j3vr/phpcode/ssiptv.php?c=a00n&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-name="HBO XTREME"tvg-id="Canal.HBO.Xtreme.ar"tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_xtreme-mediano.png"group-title="ENTRETENIMIENTO",HBO XTREME HD
-http://tecnotv.club/ncnq/phpcode/lista1.php?c=a096&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/j3vr/phpcode/ssiptv.php?c=a00p&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",HBO2 HD
-http://tecnotv.club/ncnq/phpcode/lista1.php?c=a0ct&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/j3vr/phpcode/ssiptv.php?c=a00m&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",SONY HD
-http://tecnotv.club/ncnq/phpcode/lista2.php?c=a04m&f=.m3u8&token=tecnotokenplustv230516F
+http://tecnotv.club/j3vr/phpcode/lista2.php?c=a04m&f=.m3u8&token=tecnotokenplustv230516F
 #EXTINF:-1 tvg-name="Golden"tvg-id="Canal.Golden.(Argentina).ar"tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden-mediano.png"group-title="ENTRETENIMIENTO",Golden
-http://tecnotv.club/ncnq/phpcode/lista01.php?c=a0cm&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/j3vr/phpcode/ssiptv.php?c=a02j&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="AnimeVision.es@SD"tvg-logo="https://i.imgur.com/pUpKznl.png"group-title="ENTRETENIMIENTO",Anime Vision (1080p)
 https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
 #EXTINF:-1 tvg-id="AnimeVisionClassics.es@SD"tvg-logo="https://i.imgur.com/mTaiEE1.png"group-title="ENTRETENIMIENTO",Anime Vision Classics (1080p)
@@ -52,33 +56,29 @@ https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Teleritmo"tvg-id="680"tvg-logo="https://cdn.m3u.cl/logo/680_Teleritmo.png"group-title="MÉXICO",Teleritmo
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 tvg-name="ESPN4"tvg-id="ESPN.4.co"tvg-logo=""group-title="-",ESPN  4 HD
-http://tecnotv.club/ncnq/phpcode/lista2.php?c=a046&f=.m3u8&token=tecnotokenplustv230516F
-#EXTINF:-1 tvg-name="LASESTRELLAS2"tvg-id=""tvg-logo=""group-title="-",LAS ESTRELLAS 2
-http://tecnotv.club/ncnq/phpcode/ssiptv.php?c=a05j&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/j3vr/phpcode/ssiptv.php?c=a057&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-name="TELEMUNDO"tvg-id="Telemundo.Satellite.Feed.Pacific.us2"tvg-logo=""group-title="-",TELEMUNDO MIAMI
-http://tecnotv.club/ncnq/phpcode/ssiptv.php?c=a05m&token=tecnotokenplustv230516F&f=.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="-",TeleMicro - RD
-http://190.61.101.11:7050/play/a072/index.m3u8?hls
+http://45.190.185.204:9000/play/a0f8/index.m3u8?hls
 #EXTINF:-1 tvg-name=""tvg-id="Canal.BabyFirst.TV.mx"tvg-logo=""group-title="-",Baby First
-http://tecnotv.club/ncnq/phpcode/lista1.php?c=a0kb&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/j3vr/phpcode/ssiptv.php?c=a025&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="Canal.Discovery.Kids.(Argentina).ar"tvg-logo=""group-title="-",Discovery Kids
-http://tecnotv.club/ncnq/phpcode/lista2.php?c=a035&f=.m3u8&token=tecnotokenplustv230516F
+http://tecnotv.club/j3vr/phpcode/ssiptv.php?c=a03p&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="-",Disney JR
-http://tecnotv.club/ncnq/phpcode/lista1.php?c=a0bz&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/j3vr/phpcode/lista1.php?c=a0bz&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="-",ESPN 2 HD
-http://tecnotv.club/ncnq/phpcode/lista1.php?c=a092&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/j3vr/phpcode/ssiptv.php?c=a053&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="-",ESPN 3 HD
-https://tecnotv.club/ncnq/phpcode/deportesla14hd.php?stream=espn3&token=tecnotokenplustv230516F
+http://tecnotv.club/j3vr/phpcode/ssiptv.php?c=a054&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="-",ESPN 5 HD
-https://tecnotv.club/ncnq/phpcode/deportesla14hd.php?stream=espn5&token=tecnotokenplustv230516F
+http://tecnotv.club/j3vr/phpcode/ssiptv.php?c=a058&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="-",ESPN 6 HD
-https://tecnotv.club/ncnq/phpcode/deportesla14hd.php?stream=espn6&token=tecnotokenplustv230516F
+http://tecnotv.club/j3vr/phpcode/ssiptv.php?c=a055&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="-",ESPN HD
-http://tecnotv.club/ncnq/phpcode/lista1.php?c=a091&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/j3vr/phpcode/ssiptv.php?c=a03a&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="-",Telemundo HD
-http://tecnotv.club/ncnq/phpcode/lista2.php?c=a03p&f=.m3u8&token=tecnotokenplustv230516F
+http://tecnotv.club/j3vr/phpcode/ssiptv.php?c=a0qy&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-name="Animal Planet HD"tvg-id="Canal.Animal.Planet.(Argentina).ar"tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/animal_planet_latinoamerica-mediano.png"group-title="-",Animal Planet HD
-http://tecnotv.club/ncnq/phpcode/lista2.php?c=a05o&f=.m3u8&token=tecnotokenplustv230516F
+http://tecnotv.club/j3vr/phpcode/ssiptv.php?c=a037&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSports",DSports [Opc. 1]
 http://190.108.83.69:8000/play/a05w/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSports",DSports [Opc. 2]
@@ -100,25 +100,25 @@ http://8.243.126.131:8000/play/a05a/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSports",DSports [Opc. 11]
 http://181.224.255.210:8001/play/a0s8/index.m3u8?hls
 #EXTINF:-1 group-title="Colombia" tvg-logo="https://i.imgur.com/WbfdJbk.png",Caracol HD
-http://tecnotv.club/ncnq/phpcode/lista3.php?c=86&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/j3vr/phpcode/lista3.php?c=86&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 group-title="Colombia" tvg-logo="https://i.imgur.com/WbfdJbk.png",Caracol HD (Opc.2)
 http://astra.fibernetisp.com.co/play/a0tf/index.m3u8
 #EXTINF:-1 group-title="Colombia" tvg-logo="https://i.imgur.com/WbfdJbk.png",Canal Caracol FHD
-http://tecnotv.club/ncnq/phpcode/lista2.php?c=a04a&f=.m3u8&token=tecnotokenplustv230516F
+http://tecnotv.club/j3vr/phpcode/lista2.php?c=a04a&f=.m3u8&token=tecnotokenplustv230516F
 #EXTINF:-1 group-title="Colombia" tvg-logo="https://i.imgur.com/Fww94l9.png",Canal Caracol 2 TDT
 http://astra.fibernetisp.com.co/play/a0e2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="Colombia", RCN Mas + (Internacional)
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Colombia" tvg-logo="https://i.imgur.com/5PhTaHp.png",RCN HD
-http://tecnotv.club/ncnq/phpcode/lista3.php?c=71&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/j3vr/phpcode/lista3.php?c=71&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 group-title="Colombia" tvg-logo="https://i.imgur.com/5PhTaHp.png",Canal RCN FHD
-http://tecnotv.club/ncnq/phpcode/lista2.php?c=a04b&f=.m3u8&token=tecnotokenplustv230516F
+http://tecnotv.club/j3vr/phpcode/lista2.php?c=a04b&f=.m3u8&token=tecnotokenplustv230516F
 #EXTINF:-1 group-title="Colombia" tvg-logo="https://i.imgur.com/5PhTaHp.png",Canal RCN SD
-http://tecnotv.club/ncnq/phpcode/lista2.php?c=a04b&f=.m3u8&token=tecnotokenplustv230516F
+http://tecnotv.club/j3vr/phpcode/lista2.php?c=a04b&f=.m3u8&token=tecnotokenplustv230516F
 #EXTINF:-1 group-title="Colombia" tvg-logo="https://i.imgur.com/SrMPTfc.png",Canal RCN 2 TDT
 http://astra.fibernetisp.com.co/play/a0e3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Infantiles",Nickelodeon
-http://tecnotv.club/ncnq/phpcode/lista4.php?c=a02n&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/j3vr/phpcode/lista4.php?c=a02n&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://i.imgur.com/E84jnP8.png",Nickelodeon (Opc.2)
 http://astra.fibernetisp.com.co/play/a071/index.m3u8
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://i.imgur.com/E84jnP8.png",Nickelodeon (Opc.3)

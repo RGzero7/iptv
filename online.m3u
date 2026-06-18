@@ -4,15 +4,15 @@ http://8.243.126.131:8000/play/a0ik/index.m3u8?hls
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DOCUMENTALES",Discovery Channel
 http://8.243.126.131:8000/play/a05k/index.m3u8?hls
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DOCUMENTALES",Discovery ID
-http://8.243.126.131:8000/play/a0dd/index.m3u8?hls
+http://45.170.130.224:8000/play/a02b/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DOCUMENTALES",Discovery Turbo
 http://8.243.126.131:8000/play/a0go/index.m3u8?hls
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DOCUMENTALES",Discovery World
 http://8.243.126.131:8000/play/a05x/index.m3u8?hls
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/history_2-mediano.png"group-title="DOCUMENTALES",History2
-http://8.243.126.131:8000/play/a05u/index.m3u8?hls
+http://8.243.126.131:8000/play/a0mo/index.m3u8?hls
 #EXTINF:-1 tvg-name="HistoryChannelHD"tvg-id=""tvg-logo="https://en.wikipedia.org/wiki/History_Channel#/media/File:History_(2021).svg"group-title="DOCUMENTALES",History Channel
-http://8.243.126.131:8000/play/a05d/index.m3u8?hls
+http://8.243.126.131:8000/play/a0gb/index.m3u8?hls
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="DOCUMENTALES",NatGeo
 http://8.243.126.131:8000/play/a0d6/index.m3u8?hls
 #EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/VUy8xIG.png"group-title="DOCUMENTALES",Historia
@@ -24,7 +24,7 @@ http://24.152.53.3:8090/play/a01f/index.m3u8?hls
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",Boomerang
 http://tecnotv.club/j3vr/phpcode/lista3.php?c=53&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-name="CARTOON NT"tvg-id=""tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network_latinoamerica-mediano.png"group-title="ENTRETENIMIENTO",CARTOON NT HD
-http://190.217.66.92:8000/play/a0on/index.m3u8u?hls
+http://24.152.53.3:8090/play/a01e/index.m3u8?hls
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",DisneyChannel
 http://tecnotv.club/j3vr/phpcode/lista2.php?c=a03b&f=.m3u8&token=tecnotokenplustv230516F
 #EXTINF:-1 tvg-name="Tooncast"tvg-id=""tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tooncast-mediano.png"group-title="ENTRETENIMIENTO",Tooncast
@@ -36,11 +36,11 @@ http://astra.fibernetisp.com.co/play/a05p/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_family-mediano.png"group-title="ENTRETENIMIENTO",HBO Family
 http://181.224.255.210:8001/play/a0nv/index.m3u8?hls
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica-mediano.png"group-title="ENTRETENIMIENTO",HBO
-http://181.224.255.210:8001/play/a0f161/index.m3u8?hls
+http://45.170.130.224:8000/play/a03d/index.m3u8
 #EXTINF:-1 tvg-name="HBO Plus"tvg-id=""tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_plus-mediano.png"group-title="ENTRETENIMIENTO",HBO Plus
-http://181.224.255.210:8001/play/a0qz/index.m3u8?hls
+http://190.61.101.11:7050/play/a050/index.m3u8?hls
 #EXTINF:-1 tvg-name="HBO XTREME"tvg-id=""tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_xtreme-mediano.png"group-title="ENTRETENIMIENTO",HBO XTREME
-http://190.217.66.92:8000/play/a0pl/index.m3u8u?hls
+http://181.224.255.210:8001/play/a0nw/index.m3u8?hls
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",HBO2
 http://181.224.255.210:8001/play/a0sv/index.m3u8?hls
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",SONY

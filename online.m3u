@@ -51,8 +51,16 @@ http://astra.fibernetisp.com.co/play/a05p/index.m3u8
 http://astra.fibernetisp.com.co/play/a05m/index.m3u8
 #EXTINF:-1 tvg-id="2210" group-title="ENTRETENIMIENTO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden-mediano.png",Golden
 http://181.224.255.210:8001/play/a0qv/index.m3u8?hls
-#EXTINF:-1 tvg-id="1211" group-title="MÉXICO" tvg-logo="https://es.wikipedia.org/wiki/Estrella_TV#/media/Archivo:Estrella_TV_Logo_2020.png",ESTRELLATV
-https://estrellatv-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="2211" group-title="ENTRETENIMIENTO" tvg-logo="https://i.ibb.co/1JznRxPL/MC.png",MultiCinema
+http://190.61.101.11:7050/play/a09p/index.m3u8?hls
+#EXTINF:-1 tvg-id="2212" group-title="ENTRETENIMIENTO" tvg-logo="https://i.imgur.com/oNFOKFI.png",BHTV
+https://sc1.wasidata.com/Bhtv/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="2213" group-title="ENTRETENIMIENTO" tvg-logo="https://i.ibb.co/G3GhhYgT/Orbit-TVHD.png",OrbitTV
+https://edge.essastream.com/orbittv/index.m3u8
+#EXTINF:-1 tvg-id="1211" group-title="MÉXICO" tvg-logo="https://i.imgur.com/IZxjnyp.png",ESTRELLATV
+https://estrellatv-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="1212" group-title="MÉXICO" tvg-logo="https://i.imgur.com/Z52nEnH.png",EstrellaTVGames
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellagames-estrellamedia/playlist.m3u8
 #EXTINF:-1 tvg-id="3001" group-title="MÉXICO" tvg-logo="https://cdn.m3u.cl/logo/680_Teleritmo.png",Teleritmo
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 tvg-id="1201" group-title="Colombia" tvg-logo="https://i.imgur.com/WbfdJbk.png",Caracol
@@ -73,12 +81,20 @@ http://190.61.101.11:7050/play/a05r/index.m3u8?hls
 http://190.61.101.11:7050/play/a05r/index.m3u8?hls
 #EXTINF:-1 tvg-id="1209" group-title="Colombia" tvg-logo="https://i.imgur.com/SrMPTfc.png",RCN2TDT
 http://astra.fibernetisp.com.co/play/a0e3/index.m3u8
-#EXTINF:-1 tvg-id="1212" tvg-id="" group-title="-" tvg-logo="",TELEMUNDO MIAMI
+#EXTINF:-1 tvg-id="1213" group-title="-" tvg-logo="",TELEMUNDO MIAMI
 http://45.190.185.204:9000/play/a0f8/index.m3u8?hls
-#EXTINF:-1 tvg-id="1213" tvg-id="" group-title="-" tvg-logo="",TeleMicro
+#EXTINF:-1 tvg-id="1214" group-title="-" tvg-logo="",TeleMicro
 http://190.61.101.11:7050/play/a072/index.m3u8?hls
-#EXTINF:-1 tvg-id="1214" tvg-id="" group-title="-" tvg-logo="",Telemundo
+#EXTINF:-1 tvg-id="1215" group-title="-" tvg-logo="",Telemundo
 http://tecnotv.club/j3vr/phpcode/ssiptv.php?c=a0qy&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-id="1216" group-title="México" tvg-logo="https://i.imgur.com/UtFXjIn.png",Azteca7-1
+http://24.152.53.3:8090/play/a013/index.m3u8?hls
+#EXTINF:-1 tvg-id="1217" group-title="México" tvg-logo="https://i.imgur.com/UtFXjIn.png",Azteca7-2
+http://190.61.101.11:7050/play/a09b/index.m3u8?hls
+#EXTINF:-1 tvg-id="1218" group-title="México" tvg-logo="https://i.ibb.co/tpZCM4Ly/Azteca-Internacional2024.png",Azteca Internacional
+https://amg00658-amg00658c54-canelatv-international-5364.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-mundotvaztecaappta-canelatvinternational/playlist.m3u8
+#EXTINF:-1 tvg-id="1219" group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/13i_2018.png/500px-13i_2018.png",13Internacional
+https://redirector.dps.live/hls/13intav/playlist.m3u8
 #EXTINF:-1 tvg-id="1401" group-title="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png",DSports1
 http://190.108.83.69:8000/play/a05w/index.m3u8
 #EXTINF:-1 tvg-id="1402" group-title="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png",DSports2
@@ -111,6 +127,8 @@ http://190.61.101.11:7050/play/a08p/index.m3u8?hls
 http://190.61.101.11:7050/play/a06j/index.m3u8?hls
 #EXTINF:-1 tvg-id="1417" group-title="-" tvg-logo="",ESPN6
 http://190.61.101.11:7050/play/a05e/index.m3u8?hls
+#EXTINF:-1 tvg-id="1418" group-title="Sport" tvg-logo="https://canvas-lb.tubitv.com/opts/MPS2aN2-BeVSwg==/2af69a6e-29ec-4543-842a-50650368d973/CHgQeDoFMS4xLjlAAQ==",Azteca Deportes
+http://190.61.101.11:7050/play/a08l/index.m3u8?hls
 #EXTINF:-1 tvg-id="1603" group-title="-" tvg-logo="",Discovery Kids
 http://181.224.255.210:8001/play/a0pv/index.m3u8?hls
 #EXTINF:-1 tvg-id="1604" group-title="-" tvg-logo="",DisneyJR

@@ -39,14 +39,12 @@ https://backend.energeek.cl/webtv/egretro/mobile/index.m3u8?token=W3bEnerG33k202
 https://backend.energeek.cl/webtv/egretro/mobile/index.m3u8?token=W3bEnerG33k2026
 #EXTINF:-1 tvg-id="2004" group-title="ENTRETENIMIENTO" tvg-logo="https://neotv.energeek.cl/assets/img/channels/max-anime-3-c.png",MaxAnime
 http://190.61.101.11:7050/play/a0ae/index.m3u8?hls
-#EXTINF:-1 tvg-id="2005" group-title="ENTRETENIMIENTO" tvg-logo="https://i.postimg.cc/QdsDrDZH/Animestation-(Shein-Media-2005).png",Anime Station (América Latina)
-https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="2007" group-title="ENTRETENIMIENTO" tvg-logo="https://neotv.energeek.cl/assets/img/channels/eg-fan-2.png",EnerGeek Fan
 https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH
 #EXTINF:-1 tvg-id="2201" group-title="ENTRETENIMIENTO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_family-mediano.png",HBO Family
 http://181.224.255.210:8001/play/a0nv/index.m3u8?hls
 #EXTINF:-1 tvg-id="2202" group-title="ENTRETENIMIENTO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica-mediano.png",HBO
-http://astra.fibernetisp.com.co/play/a0ax/index.m3u8
+http://tecnotv.club/xzfs/phpcode/ssiptv.php?c=a00l&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="2203" group-title="ENTRETENIMIENTO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_plus-mediano.png",HBO Plus
 http://45.170.130.224:8000/play/a01j/index.m3u8
 #EXTINF:-1 tvg-id="2204" group-title="ENTRETENIMIENTO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_xtreme-mediano.png",HBO XTREME
@@ -139,6 +137,8 @@ http://181.224.255.210:8001/play/a0r2/index.m3u8?hls
 http://astra.fibernetisp.com.co/play/a0jj/index.m3u8
 #EXTINF:-1 tvg-id="2250" group-title="ENTRETENIMIENTO" tvg-logo="https://i.imgur.com/8AKW7Uu.png",Telenovelas
 http://24.152.53.3:8090/play/a018/index.m3u8?hls
+#EXTINF:-1 tvg-id="2251" group-title="ENTRETENIMIENTO" tvg-logo="https://i.imgur.com/8AKW7Uu.png",Telenovelas de Televisa
+http://205.235.6.29:8000/play/a0xm/index.m3u8?hls
 #EXTINF:-1 tvg-id="2252" group-title="ENTRETENIMIENTO" tvg-logo="https://i.imgur.com/8AKW7Uu.png",tlnovelas
 http://astra.fibernetisp.com.co/play/a0m6/index.m3u8
 #EXTINF:-1 tvg-id="2253" group-title="ENTRETENIMIENTO" tvg-logo="",Pasiones
@@ -215,6 +215,8 @@ http://181.224.255.210:8001/play/a0rc/index.m3u8?hls
 https://cdn-edge1.cef-technology.com/wow/wow_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="1229" group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png",Univision HD (LATAM)
 http://190.61.101.11:7050/play/a05k/index.m3u8
+#EXTINF:-1 tvg-id="1401" group-title="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png",DSports1
+http://190.108.83.69:8000/play/a05w/index.m3u8
 #EXTINF:-1 tvg-id="1403" group-title="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png",DSports3
 http://148.222.230.197:8000/play/a0mm/index.m3u8
 #EXTINF:-1 tvg-id="1404" group-title="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png",DSports4

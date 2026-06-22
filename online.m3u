@@ -1,20 +1,20 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1801" group-title="DOCUMENTALES" tvg-logo="",DISCOVERY THEATHER
-http://8.243.126.131:8000/play/a0ik/index.m3u8?hls
+http://tecnotv.club/11qu/phpcode/lista2.php?c=a05g&f=.m3u8&token=tecnotokenplustv230516F
 #EXTINF:-1 tvg-id="1802" tvg-logo=""group-title="DOCUMENTALES" tvg-logo="",Discovery Channel
 http://8.243.126.131:8000/play/a0g9/index.m3u8?hls
 #EXTINF:-1 tvg-id="1803" group-title="DOCUMENTALES" tvg-logo="",DiscoveryID
-http://8.243.126.131:8000/play/a066/index.m3u8?hls
+http://tecnotv.club/11qu/phpcode/ssiptv.php?c=a0rx&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="1804" group-title="DOCUMENTALES" tvg-logo="",Discovery Turbo
 http://45.170.130.224:8000/play/a03q/index.m3u8
 #EXTINF:-1 tvg-id="1805" group-title="DOCUMENTALES" tvg-logo="",Discovery World
-http://8.243.126.131:8000/play/a0da/index.m3u8?hls
+http://8.243.126.131:8000/play/a05x/index.m3u8?hls
 #EXTINF:-1 tvg-id="1806" group-title="DOCUMENTALES" tvg-logo="",Discovery Home & Health
 http://8.243.126.131:8000/play/a0gp/index.m3u8?hls
 #EXTINF:-1 tvg-id="1806" group-title="DOCUMENTALES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Discovery_H%26H_Logo_2022.webp/960px-Discovery_H%26H_Logo_2022.webp.png",Home & Health2
 http://45.170.130.224:8000/play/a02f/index.m3u8
 #EXTINF:-1 tvg-id="1807" group-title="DOCUMENTALES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/960px-Discovery_science_new_logo_2017.png",Discovery Science
-http://8.243.126.131:8000/play/a0ff/index.m3u8?hls
+http://8.243.126.131:8000/play/a0ok/index.m3u8?hls
 #EXTINF:-1 tvg-id="1808" group-title="DOCUMENTALES" tvg-logo="https://en.wikipedia.org/wiki/History_Channel#/media/File:History_(2021).svg",History Channel
 http://8.243.126.131:8000/play/a0gb/index.m3u8?hls
 #EXTINF:-1 tvg-id="1809" group-title="DOCUMENTALES" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/history_2-mediano.png",History2
@@ -22,9 +22,7 @@ http://8.243.126.131:8000/play/a0mo/index.m3u8?hls
 #EXTINF:-1 tvg-id="1810" group-title="DOCUMENTALES" tvg-logo="https://i.imgur.com/VUy8xIG.png",Historia
 https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
 #EXTINF:-1 tvg-id="1812" group-title="DOCUMENTALES" tvg-logo="",NatGeo
-http://8.243.126.131:8000/play/a0d6/index.m3u8?hls
-#EXTINF:-1 tvg-id="1601" group-title="ENTRETENIMIENTO" tvg-logo="",Boomerang
-http://tecnotv.club/11qu/phpcode/lista3.php?c=53&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/11qu/phpcode/ssiptv.php?c=a0rq&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-id="1602" group-title="ENTRETENIMIENTO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network_latinoamerica-mediano.png",CARTOON NT HD
 http://181.224.255.210:8001/play/a0py/index.m3u8?hls
 #EXTINF:-1 tvg-id="1605" group-title="ENTRETENIMIENTO" tvg-logo="",DisneyChannel
@@ -39,8 +37,10 @@ https://backend.energeek.cl/webtv/egretro/mobile/index.m3u8?token=W3bEnerG33k202
 https://backend.energeek.cl/webtv/egretro/mobile/index.m3u8?token=W3bEnerG33k2026
 #EXTINF:-1 tvg-id="2004" group-title="ENTRETENIMIENTO" tvg-logo="https://neotv.energeek.cl/assets/img/channels/max-anime-3-c.png",MaxAnime
 http://190.61.101.11:7050/play/a0ae/index.m3u8?hls
+#EXTINF:-1 tvg-id="2006" group-title="ENTRETENIMIENTO" tvg-logo="https://neotv.energeek.cl/assets/img/channels/zyoontv.png",Zioon
+https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
 #EXTINF:-1 tvg-id="2007" group-title="ENTRETENIMIENTO" tvg-logo="https://neotv.energeek.cl/assets/img/channels/eg-fan-2.png",EnerGeek Fan
-https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH
+https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=W3bEnerG33k2026
 #EXTINF:-1 tvg-id="2201" group-title="ENTRETENIMIENTO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_family-mediano.png",HBO Family
 http://181.224.255.210:8001/play/a0nv/index.m3u8?hls
 #EXTINF:-1 tvg-id="2202" group-title="ENTRETENIMIENTO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica-mediano.png",HBO
@@ -85,8 +85,6 @@ http://24.152.53.3:8090/play/a01f/index.m3u8?hls
 http://181.224.255.210:8001/play/a0qw/index.m3u8?hls
 #EXTINF:-1 tvg-id="2222" group-title="ENTRETENIMIENTO" tvg-logo="https://i.ibb.co/1JznRxPL/MC.png",MultiCinema
 http://190.61.101.11:7050/play/a09p/index.m3u8?hls
-#EXTINF:-1 tvg-id="2223" group-title="ENTRETENIMIENTO" tvg-logo="https://i.imgur.com/oNFOKFI.png",BHTV
-https://sc1.wasidata.com/Bhtv/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="2224" group-title="ENTRETENIMIENTO" tvg-logo="https://i.ibb.co/G3GhhYgT/Orbit-TVHD.png",OrbitTV
 https://edge.essastream.com/orbittv/index.m3u8
 #EXTINF:-1 tvg-id="2225" group-title="ENTRETENIMIENTO" tvg-logo="https://static.elektamedia.com/ch/entch.png",ENT Channel
@@ -147,26 +145,16 @@ http://astra.fibernetisp.com.co/play/a0m6/index.m3u8
 http://astra.fibernetisp.com.co/play/a0j7/index.m3u8
 #EXTINF:-1 tvg-id="2254" group-title="ENTRETENIMIENTO" tvg-logo="",Los Simpson Latino
 https://lbgo.bozztv.com/ssh101/ssh101/simptestnews/playlist.m3u8
-#EXTINF:-1 tvg-id="2255" group-title="ENTRETENIMIENTO" tvg-logo="https://i.imgur.com/aAEs1Mp.png",El Chavo
-https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 #EXTINF:-1 tvg-id="2256" group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/RetroTV_logo.png",Retro TV
 https://stream.enlineatv.net/hls/retrotv/1_2/index.m3u8
 #EXTINF:-1 tvg-id="2257" group-title="ENTRETENIMIENTO" tvg-logo="https://i.postimg.cc/C5Nhnkdg/ESBC43000013T-20241106T142336SQUARE.png",Todo Novelas
 https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8
 #EXTINF:-1 tvg-id="2258" group-title="ENTRETENIMIENTO" tvg-logo="https://i.postimg.cc/j2r6S0n4/ES900002ZD-20250422T103210SQUARE.png",Todo Pasión
 https://d3ng12uij4vzn7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zxw9tagebrg7m/TodoPasion_ES.m3u8
-#EXTINF:-1 tvg-id="2259" group-title="ENTRETENIMIENTO" tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA901/0-16x9.jpg?width=160&updatedTime=0&dt=Web",Novelísima
-https://amg00658-amg00658c60-canelatv-international-5442.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-novelisimaappta-canelatvinternational/playlist.m3u8
-#EXTINF:-1 tvg-id="2260" group-title="ENTRETENIMIENTO" tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA898/0-16x9.jpg?width=160&updatedTime=0&dt=Web",CorazónTV Azteca
-https://amg00658-amg00658c57-canelatv-international-5437.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-corazontvaztecaappta-canelatvinternational/playlist.m3u8
-#EXTINF:-1 tvg-id="2261" group-title="ENTRETENIMIENTO" tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA979/0-16x9.jpg?width=160&updatedTime=0&dt=Web",Canela Pasión Turca
-https://amg00658-amg00658c100-canelatv-international-7939.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-pasionturca-canelatvinternational/playlist.m3u8
 #EXTINF:-1 tvg-id="2262" group-title="ENTRETENIMIENTO" tvg-logo="https://raw.githubusercontent.com/funcions/logos/main/ae.png",A&E
 http://24.152.42.29:8000/play/a06x/index.m3u8?hls
 #EXTINF:-1 tvg-id="1212" group-title="MÉXICO" tvg-logo="https://i.imgur.com/IZxjnyp.png",ESTRELLATV
 https://estrellatv-oando.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="1213" group-title="MÉXICO" tvg-logo="https://i.imgur.com/Z52nEnH.png",EstrellaTVGames
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellagames-estrellamedia/playlist.m3u8
 #EXTINF:-1 tvg-id="3001" group-title="MÉXICO" tvg-logo="https://cdn.m3u.cl/logo/680_Teleritmo.png",Teleritmo
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 tvg-id="1201" group-title="Colombia" tvg-logo="https://i.imgur.com/WbfdJbk.png",Caracol
@@ -197,8 +185,6 @@ http://190.217.66.92:8000/play/a0e3/index.m3u8u?hls
 http://190.61.101.11:7050/play/a080/index.m3u8?hls
 #EXTINF:-1 tvg-id="1218" group-title="-" tvg-logo="https://i.postimg.cc/htpP6Bb7/telemundo-accion-us.png",Telemundo Acción
 https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-id="1219" group-title="-" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-white/telemundo_al_dia_1000x1500_2x3_logo_300dpi_vertical_full_color_logo_xumo-3-copy.png",Telemundo al Día
-https://d3f4oii5n0oeqi.cloudfront.net/11701/88814573/hls/master.m3u8?ads.xumo_channelId=88814573
 #EXTINF:-1 tvg-id="1220" group-title="-" tvg-logo="https://i.postimg.cc/vHXxNfTY/telemundo-deportes-ahora-horizontal-33e33301.png",Telemundo Deportes Ahora
 https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/6a4c908e-7980-4fcb-93e3-584472a5f9a3/3.m3u8
 #EXTINF:-1 tvg-id="1222" group-title="México" tvg-logo="https://i.imgur.com/UtFXjIn.png",Azteca7-1
@@ -206,7 +192,7 @@ http://24.152.53.3:8090/play/a013/index.m3u8?hls
 #EXTINF:-1 tvg-id="1223" group-title="México" tvg-logo="https://i.imgur.com/UtFXjIn.png",Azteca7-2
 http://190.61.101.11:7050/play/a09b/index.m3u8?hls
 #EXTINF:-1 tvg-id="1224" group-title="México" tvg-logo="https://i.ibb.co/tpZCM4Ly/Azteca-Internacional2024.png",Azteca Internacional
-https://amg00658-amg00658c54-canelatv-international-5364.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-mundotvaztecaappta-canelatvinternational/playlist.m3u8
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-id="1225" group-title="-" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/13i_2018.png/500px-13i_2018.png",13Internacional
 https://redirector.dps.live/hls/13intav/playlist.m3u8
 #EXTINF:-1 tvg-id="1226" group-title="-" tvg-logo="https://i.imgur.com/zKWFgeQ.png",Antena7
@@ -236,7 +222,7 @@ http://8.243.126.131:8000/play/a05a/index.m3u8
 #EXTINF:-1 tvg-id="1411" group-title="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png",DSports11
 http://181.224.255.210:8001/play/a0s8/index.m3u8?hls
 #EXTINF:-1 tvg-id="1412" group-title="-" tvg-logo="",ESPN
-http://tecnotv.club/11qu/phpcode/ssiptv.php?c=a03a&token=tecnotokenplustv230516F&f=.m3u8
+https://1nyaler.streamhostingcdn.top/stream/105/index.m3u8
 #EXTINF:-1 tvg-id="1413" group-title="-" tvg-logo="",ESPN2
 http://190.61.101.11:7050/play/a05c/index.m3u8?hls
 #EXTINF:-1 tvg-id="1414" group-title="-" tvg-logo="",ESPN3
